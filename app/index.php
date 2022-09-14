@@ -8,6 +8,8 @@
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
 
+    <?php include "air_graph_avg.php"?>
+
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
@@ -24,6 +26,7 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
@@ -41,7 +44,6 @@
                 <a href="#water" class="nav-item nav-link">Wassertemperatur</a>
                 <a href="#air" class="nav-item nav-link">Lufttemperatur</a>
                 <a href="#combined" class="nav-item nav-link">Alle Daten</a>
-                <a href="#raw" class="nav-item nav-link">Rohdaten</a>
             </div>
         </div>
     </nav>
@@ -60,7 +62,32 @@
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Wetterstation</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
                     <div class="typed-text d-none">Wassertemperatur, Lufttemperatur, Rohdaten</div>
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
+                        <h4 id="current_water_temp_comb2" class="font-weight-bold m-0 text-white"></h4>
+                    </div>
+                    <div style="width: 10px;"></div>
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
+                        <h4 id="current_air_temp_comb2" class="font-weight-bold m-0 text-white"></h4>
+                    </div>
                 </div>
+                </div>
+                
+                <script type="module">
+                    import {Dataloader} from './js/dataloader.js';
+
+                    <?php
+                        include 'datapointer.php';
+                        $csv_data = file_get_contents($CSV_URL);
+                    ?>
+
+                    var raw_data = `<?php echo $csv_data?>`;
+                    const dataloader = new Dataloader(raw_data);
+                    document.getElementById("current_water_temp_comb2").innerHTML = "Momentan: " + dataloader.getCurrentWaterTemp() + "°C";
+                    document.getElementById("current_air_temp_comb2").innerHTML = "Momentan: " + dataloader.getCurrentAirTemp() + "°C";
+                </script>
             </div>
         </div>
     </div>
@@ -74,8 +101,27 @@
                 <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Wasser</h1>
                 <h1 class="position-absolute text-uppercase text-primary">Wassertemperatur</h1>
             </div>
+            <div class="d-flex align-items-center justify-content-center mb-4">
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
+                        <h4 id="current_water_temp" class="font-weight-bold m-0 text-white"></h4>
+                    </div>
+            </div>
+            <script type="module">
+                    import {Dataloader} from './js/dataloader.js';
+
+                    <?php
+                        include 'datapointer.php';
+                        $csv_data = file_get_contents($CSV_URL);
+                    ?>
+
+                    var raw_data = `<?php echo $csv_data?>`;
+                    const dataloader = new Dataloader(raw_data);
+                    document.getElementById("current_water_temp").innerHTML = "Momentan: " + dataloader.getCurrentWaterTemp() + "°C";
+                </script>
             <div class="row align-items-center">
-                <h1>Hello world</h1>
+                <div id="WaterAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
+                <div id="WaterAllContainer" style="height: 300px; width: 100%;"></div>
             </div>
         </div>
     </div>
@@ -89,8 +135,27 @@
                 <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Luft</h1>
                 <h1 class="position-absolute text-uppercase text-primary">Lufttemperatur</h1>
             </div>
+            <div class="d-flex align-items-center justify-content-center mb-4">
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
+                        <h4 id="current_air_temp" class="font-weight-bold m-0 text-white"></h4>
+                    </div>
+            </div>
+            <script type="module">
+                    import {Dataloader} from './js/dataloader.js';
+
+                    <?php
+                        include 'datapointer.php';
+                        $csv_data = file_get_contents($CSV_URL);
+                    ?>
+
+                    var raw_data = `<?php echo $csv_data?>`;
+                    const dataloader = new Dataloader(raw_data);
+                    document.getElementById("current_air_temp").innerHTML = "Momentan: " + dataloader.getCurrentAirTemp() + "°C";
+                </script>
             <div class="row align-items-center">
-                <h1>Hello world</h1>
+                <div id="AirAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
+                <div id="AirAllContainer" style="height: 300px; width: 100%;"></div>
             </div>
         </div>
     </div>
@@ -104,53 +169,37 @@
                 <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Daten</h1>
                 <h1 class="position-absolute text-uppercase text-primary">Alle Daten</h1>
             </div>
+            <div class="d-flex align-items-center justify-content-center mb-4">
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
+                        <h4 id="current_water_temp_comb" class="font-weight-bold m-0 text-white"></h4>
+                    </div>
+                    <div style="width: 10px;"></div>
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
+                        <h4 id="current_air_temp_comb" class="font-weight-bold m-0 text-white"></h4>
+                    </div>
+            </div>
+            <script type="module">
+                    import {Dataloader} from './js/dataloader.js';
+
+                    <?php
+                        include 'datapointer.php';
+                        $csv_data = file_get_contents($CSV_URL);
+                    ?>
+
+                    var raw_data = `<?php echo $csv_data?>`;
+                    const dataloader = new Dataloader(raw_data);
+                    document.getElementById("current_water_temp_comb").innerHTML = "Momentan: " + dataloader.getCurrentWaterTemp() + "°C";
+                    document.getElementById("current_air_temp_comb").innerHTML = "Momentan: " + dataloader.getCurrentAirTemp() + "°C";
+                </script>
             <div class="row align-items-center">
-                <h1>Hello world</h1>
+                <div id="CombinedAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
+                <div id="CombinedAllContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
             </div>
         </div>
     </div>
     <!-- combined End -->
-
-
-    <!-- Raw Start -->
-    <div class="container-fluid pt-5" id="raw">
-        <div class="container">
-            <div class="position-relative d-flex align-items-center justify-content-center">
-                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Roh</h1>
-                <h1 class="position-absolute text-uppercase text-primary">Rohdaten</h1>
-            </div>
-            <div class="row pb-3">
-                <div class="col-lg-4 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center mb-4">
-                        <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Wassertemperatur</h4>
-                    </div>
-                    <p>Laden Sie die Rohdaten der Wetterstation zur Wassertemperatur herunter</p>
-                    <a class="border-bottom border-primary text-decoration-none" href="">CSV Download</a>
-                    <a class="border-bottom border-primary text-decoration-none" href="">JSON Download</a>
-                </div>
-                <div class="col-lg-4 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center mb-4">
-                        <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Lufttemperatur</h4>
-                    </div>
-                    <p>Laden Sie die Rohdaten der Wetterstation zur Lufttemperatur herunter</p>
-                    <a class="border-bottom border-primary text-decoration-none" href="">CSV Download</a>
-                    <a class="border-bottom border-primary text-decoration-none" href="">JSON Download</a>
-                </div>
-                <div class="col-lg-4 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center mb-4">
-                        <i class="fa fa-2x fa-database service-icon bg-primary text-white mr-3"></i>
-                        <h4 class="font-weight-bold m-0">Alle Daten</h4>
-                    </div>
-                    <p>Laden Sie alle Rohdaten der Wetterstation herunter</p>
-                    <a class="border-bottom border-primary text-decoration-none" href="">CSV Download</a>
-                    <a class="border-bottom border-primary text-decoration-none" href="">JSON Download</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Raw End -->
 
     <!-- Footer Start -->
     <div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5">
@@ -176,14 +225,11 @@
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
-
-    <!-- Contact Javascript File -->
-    <script src="mail/jqBootstrapValidation.min.js"></script>
-    <script src="mail/contact.js"></script>
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 </body>
 
 </html>
