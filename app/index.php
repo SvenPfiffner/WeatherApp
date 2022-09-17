@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Wetterstation</title>
-    <link rel="icon" type="image/png" href="img/favicon_logo.png">
+    <link rel="icon" type="image/png" href="img/favicon_genni.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
