@@ -31,6 +31,7 @@ var chartAirAvg = new CanvasJS.Chart("AirAvgContainer", {
 	data: [{
 		name: "Lufttemperatur",
 		type: "spline",
+		color: "#ffd400",
 		connectNullData: true,
 		yValueFormatString: "#0.## °C",
 		showInLegend: false,
@@ -40,6 +41,7 @@ var chartAirAvg = new CanvasJS.Chart("AirAvgContainer", {
 
 var chartAirAll = new CanvasJS.Chart("AirAllContainer", {
 	theme: "light1", // "light1", "light2", "dark1", "dark2"
+
 	animationEnabled: true,
 	zoomEnabled: true,
 	title: {
@@ -51,6 +53,7 @@ var chartAirAll = new CanvasJS.Chart("AirAllContainer", {
 	},
 	data: [{
 		type: "spline",
+		color: "#ffd400",
 		connectNullData: true,
 		dataPoints: dataloader.getAirValues()
 	}]
@@ -78,6 +81,7 @@ var chartWaterAvg = new CanvasJS.Chart("WaterAvgContainer", {
 	data: [{
 		name: "Wassertemperatur",
 		type: "spline",
+		color: "#0e324c",
 		connectNullData: true,
 		yValueFormatString: "#0.## °C",
 		showInLegend: false,
@@ -98,6 +102,7 @@ var chartWaterAll = new CanvasJS.Chart("WaterAllContainer", {
 	},
 	data: [{
 		type: "spline",
+		color: "#0e324c",
 		connectNullData: true,
 		dataPoints: dataloader.getWaterValues()
 	}]
@@ -126,6 +131,7 @@ var chartCombinedAvg = new CanvasJS.Chart("CombinedAvgContainer", {
 	data: [{
 		name: "Lufttemperatur",
 		type: "spline",
+		color: "#ffd400",
 		connectNullData: true,
 		yValueFormatString: "#0.## °C",
 		showInLegend: true,
@@ -134,6 +140,7 @@ var chartCombinedAvg = new CanvasJS.Chart("CombinedAvgContainer", {
 	{
 		name: "Wassertemperatur",
 		type: "spline",
+		color: "#0e324c",
 		connectNullData: true,
 		yValueFormatString: "#0.## °C",
 		showInLegend: true,
@@ -165,6 +172,7 @@ var chartCombinedAll = new CanvasJS.Chart("CombinedAllContainer", {
 	data: [{
 		name: "Lufttemperatur",
 		type: "spline",
+		color: "#ffd400",
 		connectNullData: true,
 		yValueFormatString: "#0.## °C",
 		showInLegend: true,
@@ -173,6 +181,7 @@ var chartCombinedAll = new CanvasJS.Chart("CombinedAllContainer", {
 	{
 		name: "Wassertemperatur",
 		type: "spline",
+		color: "#0e324c",
 		connectNullData: true,
 		yValueFormatString: "#0.## °C",
 		showInLegend: true,
