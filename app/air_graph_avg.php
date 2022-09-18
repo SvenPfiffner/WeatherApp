@@ -12,7 +12,7 @@ const dataloader = new Dataloader(raw_data);
 var chartAirAvg = new CanvasJS.Chart("AirAvgContainer", {
 	animationEnabled: true,
 	title:{
-		text: "Lufttemperatur im Tagesdurchschnitt"
+		text: "Tagesdurchschnitt der letzten 10 Tage"
 	},
 	axisX: {
 		valueFormatString: "DD MMM,YY"
@@ -43,7 +43,7 @@ var chartAirAll = new CanvasJS.Chart("AirAllContainer", {
 	animationEnabled: true,
 	zoomEnabled: true,
 	title: {
-		text: "Lufttemperatur alle Messwerte"
+		text: "Alle Messwerte der Saison"
 	},
 	axisY: {
 		title: "Temperatur (in °C)",
@@ -59,7 +59,7 @@ var chartAirAll = new CanvasJS.Chart("AirAllContainer", {
 var chartWaterAvg = new CanvasJS.Chart("WaterAvgContainer", {
 	animationEnabled: true,
 	title:{
-		text: "Wassertemperatur im Tagesdurchschnitt"
+		text: "Tagesdurchschnitt der letzten 10 Tage"
 	},
 	axisX: {
 		valueFormatString: "DD MMM,YY"
@@ -90,7 +90,7 @@ var chartWaterAll = new CanvasJS.Chart("WaterAllContainer", {
 	animationEnabled: true,
 	zoomEnabled: true,
 	title: {
-		text: "Wassertemperatur alle Messwerte"
+		text: "Alle Messwerte der Saison"
 	},
 	axisY: {
 		title: "Temperatur (in °C)",
@@ -106,7 +106,7 @@ var chartWaterAll = new CanvasJS.Chart("WaterAllContainer", {
 var chartCombinedAvg = new CanvasJS.Chart("CombinedAvgContainer", {
 	animationEnabled: true,
 	title:{
-		text: "Temperatur im Tagesdurchschnitt"
+		text: "Tagesdurchschnitt der letzten 10 Tage"
 	},
 	axisX: {
 		valueFormatString: "DD MMM,YY"
@@ -145,7 +145,7 @@ var chartCombinedAll = new CanvasJS.Chart("CombinedAllContainer", {
 	animationEnabled: true,
 	zoomEnabled: true,
 	title:{
-		text: "Temperatur alle Messwerte"
+		text: "Alle Messwerte der Saison"
 	},
 	axisX: {
 		valueFormatString: "DD MMM,YY"

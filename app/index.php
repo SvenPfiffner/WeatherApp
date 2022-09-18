@@ -33,7 +33,7 @@
     <!-- Navbar Start -->
     <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
         <a href="https://davossail.ch" class="navbar-brand ml-lg-3">
-            <h1 class="m-0 display-5"><span class="text-primary">DAVOS</span><span style="color:#f7ea23">SAIL</span></h1>
+            <h1 class="m-0 display-5"><span class="text-primary">DAVOS</span><span style="color:#ffd400">SAIL</span></h1>
         </a>
         <img src=img/logo_mast.png height="37" width="auto" alt="Davossail Logo">
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
@@ -86,8 +86,8 @@
 
                     var raw_data = `<?php echo $csv_data?>`;
                     const dataloader = new Dataloader(raw_data);
-                    document.getElementById("current_water_temp_comb2").innerHTML = "Momentan: " + dataloader.getCurrentWaterTemp() + "°C";
-                    document.getElementById("current_air_temp_comb2").innerHTML = "Momentan: " + dataloader.getCurrentAirTemp() + "°C";
+                    document.getElementById("current_water_temp_comb2").innerHTML = "Aktuell: " + dataloader.getCurrentWaterTemp() + "°C";
+                    document.getElementById("current_air_temp_comb2").innerHTML = "Aktuell: " + dataloader.getCurrentAirTemp() + "°C";
                 </script>
             </div>
         </div>
@@ -118,7 +118,7 @@
 
                     var raw_data = `<?php echo $csv_data?>`;
                     const dataloader = new Dataloader(raw_data);
-                    document.getElementById("current_water_temp").innerHTML = "Momentan: " + dataloader.getCurrentWaterTemp() + "°C";
+                    document.getElementById("current_water_temp").innerHTML = "Aktuell: " + dataloader.getCurrentWaterTemp() + "°C";
                 </script>
             <div class="row align-items-center">
                 <div id="WaterAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
@@ -152,7 +152,7 @@
 
                     var raw_data = `<?php echo $csv_data?>`;
                     const dataloader = new Dataloader(raw_data);
-                    document.getElementById("current_air_temp").innerHTML = "Momentan: " + dataloader.getCurrentAirTemp() + "°C";
+                    document.getElementById("current_air_temp").innerHTML = "Aktuell: " + dataloader.getCurrentAirTemp() + "°C";
                 </script>
             <div class="row align-items-center">
                 <div id="AirAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
@@ -191,8 +191,8 @@
 
                     var raw_data = `<?php echo $csv_data?>`;
                     const dataloader = new Dataloader(raw_data);
-                    document.getElementById("current_water_temp_comb").innerHTML = "Momentan: " + dataloader.getCurrentWaterTemp() + "°C";
-                    document.getElementById("current_air_temp_comb").innerHTML = "Momentan: " + dataloader.getCurrentAirTemp() + "°C";
+                    document.getElementById("current_water_temp_comb").innerHTML = "Aktuell: " + dataloader.getCurrentWaterTemp() + "°C";
+                    document.getElementById("current_air_temp_comb").innerHTML = "Aktuell: " + dataloader.getCurrentAirTemp() + "°C";
                 </script>
             <div class="row align-items-center">
                 <div id="CombinedAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>

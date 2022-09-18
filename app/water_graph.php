@@ -17,7 +17,7 @@ window.onload = function () {
 var chartWaterAvg = new CanvasJS.Chart("WaterAvgContainer", {
 	animationEnabled: true,
 	title:{
-		text: "Wassertemperatur im Tagesdurchschnitt"
+		text: "Tagesdurchschnitt der letzten 10 Tage"
 	},
 	axisX: {
 		valueFormatString: "DD MMM,YY"
