@@ -121,8 +121,10 @@
                     document.getElementById("current_water_temp").innerHTML = "Aktuell: " + dataloader.getCurrentWaterTemp() + "°C";
                 </script>
             <div class="row align-items-center">
-                <div id="WaterAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
-                <div id="WaterAllContainer" style="height: 300px; width: 100%;"></div>
+                <div id="WaterAvgContainer" style="height: 300px; width: 100%;"></div>
+                <p>Zum Zoomen einen Bereich markieren</p>
+                <div id="WaterAllContainer" style="height: 300px; width: 100%; margin-top:3cm;"></div>
+                <p>Zum Zoomen einen Bereich markieren</p>
             </div>
         </div>
     </div>
@@ -155,8 +157,10 @@
                     document.getElementById("current_air_temp").innerHTML = "Aktuell: " + dataloader.getCurrentAirTemp() + "°C";
                 </script>
             <div class="row align-items-center">
-                <div id="AirAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
-                <div id="AirAllContainer" style="height: 300px; width: 100%;"></div>
+                <div id="AirAvgContainer" style="height: 300px; width: 100%;"></div>
+                <p>Zum Zoomen einen Bereich markieren</p>
+                <div id="AirAllContainer" style="height: 300px; width: 100%; margin-top:3cm;"></div>
+                <p>Zum Zoomen einen Bereich markieren</p>
             </div>
         </div>
     </div>
@@ -195,8 +199,10 @@
                     document.getElementById("current_air_temp_comb").innerHTML = "Aktuell: " + dataloader.getCurrentAirTemp() + "°C";
                 </script>
             <div class="row align-items-center">
-                <div id="CombinedAvgContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
-                <div id="CombinedAllContainer" style="height: 300px; width: 100%; margin-bottom:3cm;"></div>
+                <div id="CombinedAvgContainer" style="height: 300px; width: 100%;"></div>
+                <p>Zum Zoomen einen Bereich markieren</p>
+                <div id="CombinedAllContainer" style="height: 300px; width: 100%; margin-top:3cm;"></div>
+                <p style="margin-bottom:3cm">Zum Zoomen einen Bereich markieren</p>
             </div>
         </div>
     </div>
