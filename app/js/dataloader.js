@@ -9,7 +9,7 @@ export class Dataloader {
     getCurrentWaterTemp() {
         var data = this.CSVToArray(this.raw_data);
         data.pop();
-        return data.pop()[0];
+        return Math.round(data.pop()[0], 1);
     }
 
     getWaterValues() {
@@ -40,7 +40,7 @@ export class Dataloader {
     getCurrentAirTemp() {
         var data = this.CSVToArray(this.raw_data);
         data.pop();
-        return data.pop()[1];
+        return Math.round(data.pop()[1], 1);
     }
 
     getAirValues() {

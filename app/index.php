@@ -32,10 +32,12 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
     <!-- Navbar Start -->
     <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
-        <a href="https://davossail.ch" class="navbar-brand ml-lg-3">
-            <h1 class="m-0 display-5"><span class="text-primary">DAVOS</span><span style="color:#ffd400">SAIL</span></h1>
-        </a>
-        <img src=img/logo_mast.png height="37" width="auto" alt="Davossail Logo">
+        <div>
+            <a href="https://davossail.ch" class="navbar-brand ml-lg-3">
+                <h1 class="m-0 display-5"><span class="text-primary">DAVOS</span><span style="color:#ffd400">SAIL</span></h1>
+            </a>
+            <img src=img/logo_mast.png height="37" width="auto" alt="Davossail Logo">
+        </div>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
