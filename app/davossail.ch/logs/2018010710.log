@@ -1,0 +1,11 @@
+85.185.45.174 - - [07/Jan/2018:10:00:35 +0100] "HEAD /http://davossail.ch/wp-content/plugins/dzs-portfolio/upload.php HTTP/1.1" 200 -
+85.185.45.174 - - [07/Jan/2018:10:00:36 +0100] "HEAD /http://davossail.ch/wp-content/plugins/cardoza-facebook-like-box/custom-css/xo.php HTTP/1.1" 200 -
+85.185.45.174 - - [07/Jan/2018:10:00:36 +0100] "GET /http://davossail.ch/wp-content/plugins/dzs-portfolio/upload.php HTTP/1.1" 200 18056
+85.185.45.174 - - [07/Jan/2018:10:00:37 +0100] "GET /http://davossail.ch/wp-content/plugins/cardoza-facebook-like-box/custom-css/xo.php HTTP/1.1" 200 18056
+123.125.67.162 - - [07/Jan/2018:10:02:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
+220.181.108.104 - - [07/Jan/2018:10:04:21 +0100] "GET /templates/resellers/7/favicon.ico?v=1471787590 HTTP/1.1" 200 4286
+157.55.39.224 - - [07/Jan/2018:10:06:13 +0100] "GET / HTTP/1.1" 200 6440
+207.46.13.110 - - [07/Jan/2018:10:13:09 +0100] "GET / HTTP/1.1" 200 6440
+101.24.117.215 - - [07/Jan/2018:10:34:07 +0100] "GET / HTTP/1.1" 200 6401
+207.46.13.110 - - [07/Jan/2018:10:34:58 +0100] "GET /images/Wind/Wind_Juli-Sept.pdf HTTP/1.1" 200 4297
+157.55.39.172 - - [07/Jan/2018:10:48:25 +0100] "GET /var/m_0/0d/0dd/12455/8097283-61_Fr%C3%BChling_2.jpg HTTP/1.1" 200 158570

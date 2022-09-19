@@ -1,0 +1,14 @@
+66.78.39.190 - - [04/Jan/2018:22:03:11 +0100] "GET / HTTP/1.1" 200 6440
+66.240.236.119 - - [04/Jan/2018:22:12:09 +0100] "GET / HTTP/1.1" 200 35804
+66.240.236.119 - - [04/Jan/2018:22:12:18 +0100] "GET /robots.txt HTTP/1.1" 200 120
+66.240.236.119 - - [04/Jan/2018:22:12:22 +0100] "GET /sitemap.xml HTTP/1.1" 200 -
+66.240.236.119 - - [04/Jan/2018:22:12:27 +0100] "GET /favicon.ico HTTP/1.1" 200 1150
+92.107.174.137 - - [04/Jan/2018:22:14:26 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+92.107.174.137 - - [04/Jan/2018:22:14:26 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 4297
+92.107.174.137 - - [04/Jan/2018:22:14:27 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 4297
+92.107.174.137 - - [04/Jan/2018:22:14:27 +0100] "GET /templates/resellers/7/favicon.ico?v=1506149034 HTTP/1.1" 200 4286
+92.107.174.137 - - [04/Jan/2018:22:14:27 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 4297
+92.107.174.137 - - [04/Jan/2018:22:14:27 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 4297
+92.107.174.137 - - [04/Jan/2018:22:14:27 +0100] "GET /templates/resellers/7/favicon.ico?v=1509574817 HTTP/1.1" 200 4286
+92.107.174.137 - - [04/Jan/2018:22:14:27 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5365
+66.249.64.29 - - [04/Jan/2018:22:34:32 +0100] "GET /var/m_0/0d/0dd/12455/125488-4_Grundkurs.JPG HTTP/1.1" 304 -

@@ -1,0 +1,5 @@
+msnbot-157-55-39-171.search.msn.com - - [15/Nov/2017:07:27:42 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 5172
+msnbot-157-55-39-171.search.msn.com - - [15/Nov/2017:07:27:43 +0100] "GET /davosersee HTTP/1.1" 200 5477
+msnbot-207-46-13-141.search.msn.com - - [15/Nov/2017:07:27:44 +0100] "GET /kurse HTTP/1.1" 200 6281
+msnbot-207-46-13-141.search.msn.com - - [15/Nov/2017:07:27:43 +0100] "GET /galerie-sktrophy-2015.shtml HTTP/1.1" 200 5939
+msnbot-207-46-13-141.search.msn.com - - [15/Nov/2017:07:27:44 +0100] "GET /flotte HTTP/1.1" 200 6274

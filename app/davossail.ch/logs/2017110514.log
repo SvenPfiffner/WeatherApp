@@ -1,0 +1,4 @@
+crawl-66-249-64-29.googlebot.com - - [05/Nov/2017:14:23:17 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296
+crawl-66-249-64-28.googlebot.com - - [05/Nov/2017:14:23:21 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+msnbot-40-77-167-77.search.msn.com - - [05/Nov/2017:14:55:41 +0100] "GET /galerie-gruppesmartkat.shtml HTTP/1.1" 200 4863
+msnbot-207-46-13-10.search.msn.com - - [05/Nov/2017:14:55:49 +0100] "GET /galerie.shtml HTTP/1.1" 200 4483

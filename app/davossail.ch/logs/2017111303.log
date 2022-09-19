@@ -1,0 +1,4 @@
+msnbot-157-55-39-44.search.msn.com - - [13/Nov/2017:03:06:11 +0100] "GET / HTTP/1.1" 200 6440
+46.229.164.102 - - [13/Nov/2017:03:06:53 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-207-46-13-170.search.msn.com - - [13/Nov/2017:03:18:18 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-170.search.msn.com - - [13/Nov/2017:03:58:35 +0100] "GET /var/m_0/0d/0dd/12455/125486-2_Sportkurs.JPG HTTP/1.1" 200 69000

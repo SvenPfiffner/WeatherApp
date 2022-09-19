@@ -1,0 +1,3 @@
+216.244.66.229 - - [25/Sep/2017:06:02:48 +0200] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.229 - - [25/Sep/2017:06:45:00 +0200] "GET /robots.txt HTTP/1.1" 200 120
+crawl-66-249-64-3.googlebot.com - - [25/Sep/2017:06:56:25 +0200] "GET /templates/resellers/7/favicon.ico?v=1506155761 HTTP/1.1" 200 4286

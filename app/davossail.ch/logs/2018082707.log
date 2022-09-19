@@ -1,0 +1,13 @@
+103.114.104.11 - - [27/Aug/2018:07:11:00 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+103.114.104.11 - - [27/Aug/2018:07:11:00 +0200] "GET / HTTP/1.1" 301 314
+103.114.104.11 - - [27/Aug/2018:07:11:01 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+216.244.66.248 - - [27/Aug/2018:07:13:16 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Dlogin.php%253Freferer%253Ddisplayimage.php%25253Falbum%25253D3%252526pos%25253D19 HTTP/1.1" 200 215
+216.244.66.248 - - [27/Aug/2018:07:23:42 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Aug/2018:07:23:44 +0200] "GET /robots.txt HTTP/1.1" 200 120
+37.115.190.236 - - [27/Aug/2018:07:25:50 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+37.115.190.236 - - [27/Aug/2018:07:25:51 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+37.115.190.236 - - [27/Aug/2018:07:25:52 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+40.77.167.117 - - [27/Aug/2018:07:26:42 +0200] "GET /vermietung.shtml HTTP/1.1" 301 322
+192.243.53.51 - - [27/Aug/2018:07:38:04 +0200] "GET / HTTP/1.1" 200 32382
+192.243.53.51 - - [27/Aug/2018:07:38:04 +0200] "GET / HTTP/1.1" 301 306
+54.36.148.193 - - [27/Aug/2018:07:50:11 +0200] "GET /var/m_0/0d/0dd/12455/6564701-G3_SKT2015_30.jpg HTTP/1.1" 301 360

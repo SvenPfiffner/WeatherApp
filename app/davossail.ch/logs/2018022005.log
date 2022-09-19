@@ -1,0 +1,4 @@
+54.36.148.205 - - [20/Feb/2018:05:31:23 +0100] "GET /kurse HTTP/1.1" 200 6289
+178.137.16.45 - - [20/Feb/2018:05:34:36 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19693
+178.137.16.45 - - [20/Feb/2018:05:34:38 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19693
+178.137.16.45 - - [20/Feb/2018:05:34:39 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19693

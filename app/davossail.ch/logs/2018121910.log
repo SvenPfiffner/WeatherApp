@@ -1,0 +1,14 @@
+88.12.182.113 - - [19/Dec/2018:10:13:55 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31013
+88.12.182.113 - - [19/Dec/2018:10:13:55 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+88.12.182.113 - - [19/Dec/2018:10:13:57 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+88.12.182.113 - - [19/Dec/2018:10:13:59 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+88.12.182.113 - - [19/Dec/2018:10:13:59 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30962
+88.12.182.113 - - [19/Dec/2018:10:13:59 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+88.12.182.113 - - [19/Dec/2018:10:14:01 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+88.12.182.113 - - [19/Dec/2018:10:14:02 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+207.46.13.210 - - [19/Dec/2018:10:14:16 +0100] "GET /galerie-sktrophy-2015 HTTP/1.1" 200 31770
+69.171.251.14 - - [19/Dec/2018:10:17:10 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+193.5.58.254 - - [19/Dec/2018:10:40:57 +0100] "GET /var/m_0/0d/0dd/12455/126126-43_See.JPG HTTP/1.1" 200 86511
+207.46.13.208 - - [19/Dec/2018:10:46:31 +0100] "GET /smartkat-trophy-2015-copy HTTP/1.1" 301 339
+180.76.15.19 - - [19/Dec/2018:10:57:55 +0100] "GET /events.shtml HTTP/1.1" 301 318
+180.76.15.6 - - [19/Dec/2018:10:57:56 +0100] "GET /events.shtml HTTP/1.1" 200 167084

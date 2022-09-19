@@ -1,0 +1,15 @@
+95-108-181-76.spider.yandex.com - - [08/Oct/2017:20:25:18 +0200] "GET /robots.txt HTTP/1.1" 200 120
+95-108-181-76.spider.yandex.com - - [08/Oct/2017:20:25:18 +0200] "GET /robots.txt HTTP/1.1" 200 120
+95-108-181-76.spider.yandex.com - - [08/Oct/2017:20:25:22 +0200] "GET / HTTP/1.1" 200 6440
+87-250-224-111.spider.yandex.com - - [08/Oct/2017:20:25:22 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-40-77-167-128.search.msn.com - - [08/Oct/2017:20:41:21 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-105.search.msn.com - - [08/Oct/2017:20:41:48 +0200] "GET /index.php?option=com_content&task=view&id=73&Itemid=157 HTTP/1.1" 302 -
+msnbot-157-55-39-105.search.msn.com - - [08/Oct/2017:20:41:50 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 4740
+msnbot-40-77-167-5.search.msn.com - - [08/Oct/2017:20:41:50 +0200] "GET /kurse HTTP/1.1" 200 6281
+msnbot-40-77-167-5.search.msn.com - - [08/Oct/2017:20:41:51 +0200] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 4575
+msnbot-40-77-167-5.search.msn.com - - [08/Oct/2017:20:41:51 +0200] "GET /standort.shtml HTTP/1.1" 200 4717
+msnbot-157-55-39-105.search.msn.com - - [08/Oct/2017:20:41:51 +0200] "GET /davosersee.shtml HTTP/1.1" 200 5477
+msnbot-157-55-39-105.search.msn.com - - [08/Oct/2017:20:41:51 +0200] "GET /davosersee HTTP/1.1" 200 5477
+msnbot-157-55-39-105.search.msn.com - - [08/Oct/2017:20:41:52 +0200] "GET /flotte.shtml HTTP/1.1" 200 6274
+msnbot-40-77-167-128.search.msn.com - - [08/Oct/2017:20:41:53 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+msnbot-207-46-13-63.search.msn.com - - [08/Oct/2017:20:42:18 +0200] "GET /optikurse-2014.shtml HTTP/1.1" 200 4938

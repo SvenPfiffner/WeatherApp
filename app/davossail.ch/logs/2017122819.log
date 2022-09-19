@@ -1,0 +1,5 @@
+66.249.64.29 - - [28/Dec/2017:19:17:34 +0100] "GET /segel-grundkurs HTTP/1.1" 200 5378
+66.249.64.28 - - [28/Dec/2017:19:18:22 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+66.249.64.29 - - [28/Dec/2017:19:18:24 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+66.249.64.30 - - [28/Dec/2017:19:18:25 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+13.56.229.65 - - [28/Dec/2017:19:56:12 +0100] "GET / HTTP/1.1" 200 6440

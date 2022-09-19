@@ -1,0 +1,11 @@
+157.55.39.96 - - [27/Jan/2019:08:11:32 +0100] "GET /index.php?option=com_content&task=view&id=32&Itemid=82 HTTP/1.1" 301 380
+77.75.78.169 - - [27/Jan/2019:08:14:28 +0100] "GET /galerie HTTP/1.1" 301 313
+77.75.78.169 - - [27/Jan/2019:08:14:28 +0100] "GET /robots.txt HTTP/1.1" 301 316
+157.55.39.108 - - [27/Jan/2019:08:18:29 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 30730
+40.77.167.91 - - [27/Jan/2019:08:23:00 +0100] "GET /vermietung HTTP/1.1" 200 31016
+157.55.39.96 - - [27/Jan/2019:08:28:10 +0100] "GET /index.php?option=com_content&task=view&id=34&Itemid=87 HTTP/1.1" 301 372
+216.244.66.248 - - [27/Jan/2019:08:33:04 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Jan/2019:08:33:06 +0100] "GET /robots.txt HTTP/1.1" 200 120
+40.77.167.91 - - [27/Jan/2019:08:46:44 +0100] "GET /index.php?option=com_content&task=view&id=41&Itemid=99 HTTP/1.1" 301 372
+77.75.78.169 - - [27/Jan/2019:08:51:57 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.78.169 - - [27/Jan/2019:08:51:58 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 31080

@@ -1,0 +1,8 @@
+207.46.13.177 - - [03/Feb/2019:23:00:37 +0100] "GET /segel-grundkurs HTTP/1.1" 301 329
+216.244.66.248 - - [03/Feb/2019:23:15:32 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [03/Feb/2019:23:15:34 +0100] "GET /robots.txt HTTP/1.1" 200 120
+207.46.13.177 - - [03/Feb/2019:23:20:47 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 30730
+54.36.148.41 - - [03/Feb/2019:23:32:26 +0100] "GET /event-matchracing HTTP/1.1" 301 331
+35.245.56.216 - - [03/Feb/2019:23:43:41 +0100] "GET / HTTP/1.1" 301 314
+35.245.56.216 - - [03/Feb/2019:23:43:41 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+35.245.56.216 - - [03/Feb/2019:23:43:41 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368

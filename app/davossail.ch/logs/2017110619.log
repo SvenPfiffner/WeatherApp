@@ -1,0 +1,12 @@
+crawl-66-249-64-28.googlebot.com - - [06/Nov/2017:19:04:12 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-29.googlebot.com - - [06/Nov/2017:19:04:12 +0100] "GET /index.html HTTP/1.1" 200 6440
+crawl-66-249-64-27.googlebot.com - - [06/Nov/2017:19:04:17 +0100] "GET /index.php HTTP/1.1" 302 -
+crawl-66-249-64-27.googlebot.com - - [06/Nov/2017:19:04:19 +0100] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-30.googlebot.com - - [06/Nov/2017:19:13:28 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 1283
+17-142-156-178.applebot.apple.com - - [06/Nov/2017:19:26:03 +0100] "GET /robots.txt HTTP/1.1" 200 80
+17-142-156-178.applebot.apple.com - - [06/Nov/2017:19:26:03 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+hydrogen124.a.ahrefs.com - - [06/Nov/2017:19:31:46 +0100] "GET /standort HTTP/1.1" 200 4717
+217.182.88.168 - - [06/Nov/2017:19:31:59 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+crawl-113-170-187-194.qwant.com - - [06/Nov/2017:19:55:34 +0100] "GET /pruefungskurs.shtml HTTP/1.0" 200 5895
+crawl-113-170-187-194.qwant.com - - [06/Nov/2017:19:55:34 +0100] "GET /robots.txt HTTP/1.0" 200 80
+crawl-113-170-187-194.qwant.com - - [06/Nov/2017:19:56:46 +0100] "GET /segel-grundkurs.shtml HTTP/1.0" 200 5378

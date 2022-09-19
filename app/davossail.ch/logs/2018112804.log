@@ -1,0 +1,8 @@
+54.36.148.30 - - [28/Nov/2018:04:04:20 +0100] "GET /var/m_0/0d/0dd/12455/6564702-G3_SKT2015_31.jpg HTTP/1.1" 200 94697
+46.229.168.143 - - [28/Nov/2018:04:17:43 +0100] "GET /robots.txt HTTP/1.1" 301 316
+46.229.168.150 - - [28/Nov/2018:04:17:44 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 335
+46.229.168.148 - - [28/Nov/2018:04:17:44 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.137 - - [28/Nov/2018:04:17:46 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053
+46.37.82.246 - - [28/Nov/2018:04:34:41 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+46.37.82.246 - - [28/Nov/2018:04:34:41 +0100] "GET / HTTP/1.1" 301 314
+46.37.82.246 - - [28/Nov/2018:04:34:42 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368

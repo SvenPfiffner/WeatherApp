@@ -1,0 +1,8 @@
+54.36.148.197 - - [03/Jan/2018:00:28:48 +0100] "GET /var/m_0/0d/0dd/12455/6564670-G3_SKT2015_04.jpg HTTP/1.1" 200 209464
+66.249.64.29 - - [03/Jan/2018:00:36:15 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+66.249.64.28 - - [03/Jan/2018:00:36:15 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.64.30 - - [03/Jan/2018:00:36:17 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297
+66.249.64.29 - - [03/Jan/2018:00:36:23 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296
+216.244.66.229 - - [03/Jan/2018:00:38:16 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.229 - - [03/Jan/2018:00:56:04 +0100] "GET /davosersee.shtml HTTP/1.1" 200 19505
+216.244.66.229 - - [03/Jan/2018:00:56:08 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 23039

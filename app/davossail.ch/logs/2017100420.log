@@ -1,0 +1,14 @@
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:20:00:51 +0200] "GET /index.php?option=com_content&task=view&id=73&Itemid=157 HTTP/1.1" 302 -
+msnbot-157-55-39-54.search.msn.com - - [04/Oct/2017:20:10:10 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-40-77-167-57.search.msn.com - - [04/Oct/2017:20:26:03 +0200] "GET /events HTTP/1.1" 200 5275
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:20:26:31 +0200] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+msnbot-40-77-167-57.search.msn.com - - [04/Oct/2017:20:26:33 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+msnbot-40-77-167-57.search.msn.com - - [04/Oct/2017:20:26:33 +0200] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 278
+msnbot-40-77-167-57.search.msn.com - - [04/Oct/2017:20:26:33 +0200] "GET /js/functions_stripped.js?v=6.6.7.2.41064 HTTP/1.1" 200 3186
+msnbot-40-77-167-57.search.msn.com - - [04/Oct/2017:20:26:34 +0200] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+msnbot-157-55-39-215.search.msn.com - - [04/Oct/2017:20:26:35 +0200] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 157
+msnbot-157-55-39-215.search.msn.com - - [04/Oct/2017:20:26:35 +0200] "GET /css/skeleton.css HTTP/1.1" 200 3511
+msnbot-157-55-39-215.search.msn.com - - [04/Oct/2017:20:26:36 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 2085
+msnbot-157-55-39-215.search.msn.com - - [04/Oct/2017:20:26:36 +0200] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283
+crawl-66-249-64-28.googlebot.com - - [04/Oct/2017:20:28:16 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-54.search.msn.com - - [04/Oct/2017:20:59:22 +0200] "GET /index.php?option=com_content&task=view&id=62&itemid=148 HTTP/1.1" 302 -

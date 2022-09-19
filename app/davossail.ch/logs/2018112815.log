@@ -1,0 +1,13 @@
+54.36.148.234 - - [28/Nov/2018:15:22:46 +0100] "GET /standort HTTP/1.1" 301 314
+54.36.149.42 - - [28/Nov/2018:15:34:45 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 335
+88.99.217.25 - - [28/Nov/2018:15:35:59 +0100] "GET /robots.txt HTTP/1.1" 301 324
+88.99.217.25 - - [28/Nov/2018:15:35:59 +0100] "GET /kurse.shtml HTTP/1.1" 301 325
+178.194.180.32 - - [28/Nov/2018:15:45:31 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31011
+178.194.180.32 - - [28/Nov/2018:15:45:31 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:15:45:33 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:15:45:34 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+178.194.180.32 - - [28/Nov/2018:15:45:34 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30962
+178.194.180.32 - - [28/Nov/2018:15:45:34 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:15:45:36 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:15:45:37 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+54.36.149.20 - - [28/Nov/2018:15:56:58 +0100] "GET /event-pedalo.shtml HTTP/1.1" 301 324

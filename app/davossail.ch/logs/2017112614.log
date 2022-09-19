@@ -1,0 +1,13 @@
+vpn-global-017-dhcp.ethz.ch - - [26/Nov/2017:14:19:39 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+195.141.126.4 - - [26/Nov/2017:14:36:01 +0100] "GET /robots.txt HTTP/1.1" 200 80
+195.141.126.4 - - [26/Nov/2017:14:36:01 +0100] "GET /galerie.shtml HTTP/1.1" 200 4483
+195.141.126.4 - - [26/Nov/2017:14:36:12 +0100] "GET /standort.shtml HTTP/1.1" 200 4717
+195.141.126.4 - - [26/Nov/2017:14:36:22 +0100] "GET /event-pedalo.shtml HTTP/1.1" 200 5342
+195.141.126.4 - - [26/Nov/2017:14:36:36 +0100] "GET /optikurse-2014.shtml HTTP/1.1" 200 4938
+195.141.126.4 - - [26/Nov/2017:14:36:47 +0100] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 4575
+195.141.126.4 - - [26/Nov/2017:14:36:57 +0100] "GET /event-matchracing.shtml HTTP/1.1" 200 5634
+195.141.126.4 - - [26/Nov/2017:14:37:07 +0100] "GET /galerie-matchracing.shtml HTTP/1.1" 200 4859
+195.141.126.4 - - [26/Nov/2017:14:37:17 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 5645
+195.141.126.4 - - [26/Nov/2017:14:37:27 +0100] "GET /galerie-sktrophy-2014.shtml HTTP/1.1" 200 5044
+195.141.126.4 - - [26/Nov/2017:14:37:37 +0100] "GET /galerie-sktrophy-2015.shtml HTTP/1.1" 200 5939
+195.141.126.4 - - [26/Nov/2017:14:37:47 +0100] "GET /galerie-gruppesmartkat.shtml HTTP/1.1" 200 4863

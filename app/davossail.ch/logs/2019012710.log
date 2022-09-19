@@ -1,0 +1,13 @@
+216.244.66.248 - - [27/Jan/2019:10:04:22 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Jan/2019:10:04:24 +0100] "GET /robots.txt HTTP/1.1" 200 120
+66.249.81.39 - - [27/Jan/2019:10:20:30 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 301 356
+66.249.81.35 - - [27/Jan/2019:10:20:30 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+213.180.179.42 - - [27/Jan/2019:10:22:38 +0100] "GET / HTTP/1.1" 301 306
+213.180.179.42 - - [27/Jan/2019:10:22:39 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+213.180.179.42 - - [27/Jan/2019:10:22:39 +0100] "GET / HTTP/1.1" 200 32165
+40.77.167.163 - - [27/Jan/2019:10:27:40 +0100] "GET /kurse HTTP/1.1" 301 319
+157.55.39.151 - - [27/Jan/2019:10:29:57 +0100] "GET /index.php?option=com_content&task=view&id=48&Itemid=115 HTTP/1.1" 301 381
+216.244.66.248 - - [27/Jan/2019:10:50:10 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Jan/2019:10:50:12 +0100] "GET /robots.txt HTTP/1.1" 200 120
+180.76.15.136 - - [27/Jan/2019:10:51:59 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js HTTP/1.1" 301 364
+180.76.15.12 - - [27/Jan/2019:10:52:00 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js HTTP/1.1" 304 -

@@ -1,0 +1,126 @@
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 157
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /js/functions_stripped.js?v=6.6.7.2.41064 HTTP/1.1" 200 3186
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /var/m_0/0d/0dd/12455/8218280-65_Regatta.JPG HTTP/1.1" 200 192350
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET / HTTP/1.1" 200 6440
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 278
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 662
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /var/m_0/0d/0dd/12455/6564603-SK_Tro_Head.jpg HTTP/1.1" 200 136780
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /var/m_0/0d/0dd/12455/7230972-19_Matchracing.jpg HTTP/1.1" 200 55347
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 2085
+89.236.140.67 - - [07/Jan/2018:16:02:32 +0100] "GET /var/m_0/0d/0dd/12455/8254793-J70_Davos.w1024.jpg HTTP/1.1" 200 191999
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/143586-SP_DK1.jpg HTTP/1.1" 200 3071
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/8288159-EWD_rgb_pos.jpg HTTP/1.1" 200 207458
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/125493-13_Kurse.JPG HTTP/1.1" 200 70517
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/125494-14_Vermietung.JPG HTTP/1.1" 200 95115
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/125495-15_Event.JPG HTTP/1.1" 200 59088
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/143584-SP_Lemm1.jpg HTTP/1.1" 200 2321
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/143582-SP_Gipfel1.jpg HTTP/1.1" 200 2688
+89.236.140.67 - - [07/Jan/2018:16:02:33 +0100] "GET /var/m_0/0d/0dd/12455/143580-SP_Heierling1.jpg HTTP/1.1" 200 2613
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/8010562-7_Plauschsegeln.JPG HTTP/1.1" 200 189182
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /kurse.shtml HTTP/1.1" 200 6280
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/125487-3_SKCrashkurs.JPG HTTP/1.1" 200 80503
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/125488-4_Grundkurs.JPG HTTP/1.1" 200 77496
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/125485-1_Kinderkurs.JPG HTTP/1.1" 200 64975
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/125503-36_420er.jpg HTTP/1.1" 200 61172
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/125486-2_Sportkurs.JPG HTTP/1.1" 200 69000
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/125489-5_Pr%C3%BCfungskurs.JPG HTTP/1.1" 200 53669
+89.236.140.67 - - [07/Jan/2018:16:02:55 +0100] "GET /var/m_0/0d/0dd/12455/126374-6_Schnupperkurs.JPG HTTP/1.1" 200 53584
+89.236.140.67 - - [07/Jan/2018:16:03:36 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+89.236.140.67 - - [07/Jan/2018:16:04:22 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+89.236.140.67 - - [07/Jan/2018:16:05:45 +0100] "GET /kurse.shtml HTTP/1.1" 200 6280
+89.236.140.67 - - [07/Jan/2018:16:06:05 +0100] "GET /kurse.shtml HTTP/1.1" 200 6280
+89.236.140.67 - - [07/Jan/2018:16:06:12 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+194.230.159.229, 66.249.81.39 - - [07/Jan/2018:16:07:13 +0100] "GET /pruefungskurs HTTP/1.1" 200 5881
+194.230.159.229, 66.249.81.39 - - [07/Jan/2018:16:07:14 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+194.230.159.229, 66.249.81.39 - - [07/Jan/2018:16:08:07 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5365
+194.230.159.229, 66.249.81.41 - - [07/Jan/2018:16:08:07 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 157
+194.230.159.229, 66.249.81.41 - - [07/Jan/2018:16:08:07 +0100] "GET /js/functions_stripped.js?v=6.6.7.2.41276 HTTP/1.1" 200 3186
+194.230.159.229, 66.249.81.36 - - [07/Jan/2018:16:08:07 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41276 HTTP/1.1" 200 24507
+194.230.159.229, 66.249.81.36 - - [07/Jan/2018:16:08:07 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 278
+194.230.159.229, 66.249.81.36 - - [07/Jan/2018:16:08:08 +0100] "GET /templates/resellers/7/favicon.ico?v=1509574817 HTTP/1.1" 200 4286
+194.230.159.229, 66.249.81.18 - - [07/Jan/2018:16:08:16 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5882
+194.230.159.229, 66.249.81.22 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 278
+194.230.159.229, 66.249.81.22 - - [07/Jan/2018:16:08:17 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+194.230.159.229, 66.249.81.22 - - [07/Jan/2018:16:08:17 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 157
+194.230.159.229, 66.249.81.22 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 662
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/bt_close.png HTTP/1.1" 200 2150
+194.230.159.229, 66.249.81.18 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+194.230.159.229, 66.249.81.18 - - [07/Jan/2018:16:08:17 +0100] "GET /js/functions_stripped.js?v=6.6.7.2.41276 HTTP/1.1" 200 3186
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+194.230.159.229, 66.249.81.18 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_l_bottom.png HTTP/1.1" 200 1751
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41276 HTTP/1.1" 200 24507
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 2085
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_r_bottom.png HTTP/1.1" 200 1803
+194.230.159.229, 66.249.81.22 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/bt_open.png HTTP/1.1" 200 2044
+194.230.159.229, 66.249.81.24 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_b_bottom.png HTTP/1.1" 200 962
+194.230.159.229, 66.249.81.18 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_m_bottom.png HTTP/1.1" 200 1000
+194.230.159.229, 66.249.81.22 - - [07/Jan/2018:16:08:17 +0100] "GET /templates/resellers/7/favicon.ico?v=1509341844 HTTP/1.1" 200 4286
+194.230.159.229, 66.249.81.39 - - [07/Jan/2018:16:09:20 +0100] "GET /pruefungskurs HTTP/1.1" 200 5881
+23.95.85.233 - - [07/Jan/2018:16:19:37 +0100] "GET / HTTP/1.1" 200 35804
+23.95.85.233 - - [07/Jan/2018:16:19:40 +0100] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 21862
+23.95.85.233 - - [07/Jan/2018:16:19:41 +0100] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 18388
+23.95.85.233 - - [07/Jan/2018:16:19:42 +0100] "GET /davosersee.shtml HTTP/1.1" 200 19505
+23.95.85.233 - - [07/Jan/2018:16:19:44 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 21256
+23.95.85.233 - - [07/Jan/2018:16:19:47 +0100] "GET /event-matchracing.shtml HTTP/1.1" 200 21251
+23.95.85.233 - - [07/Jan/2018:16:19:49 +0100] "GET /event-pedalo.shtml HTTP/1.1" 200 20248
+23.95.85.233 - - [07/Jan/2018:16:19:51 +0100] "GET /events.shtml HTTP/1.1" 200 22514
+23.95.85.233 - - [07/Jan/2018:16:19:52 +0100] "GET /flotte.shtml HTTP/1.1" 200 29241
+23.95.85.233 - - [07/Jan/2018:16:19:54 +0100] "GET /galerie-gruppesmartkat.shtml HTTP/1.1" 200 20574
+23.95.85.233 - - [07/Jan/2018:16:19:56 +0100] "GET /galerie-matchracing.shtml HTTP/1.1" 200 21704
+23.95.85.233 - - [07/Jan/2018:16:19:58 +0100] "GET /galerie-sktrophy-2014.shtml HTTP/1.1" 200 29913
+23.95.85.233 - - [07/Jan/2018:16:19:59 +0100] "GET /galerie-sktrophy-2015.shtml HTTP/1.1" 200 49420
+23.95.85.233 - - [07/Jan/2018:16:20:01 +0100] "GET /galerie.shtml HTTP/1.1" 200 22747
+23.95.85.233 - - [07/Jan/2018:16:20:03 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 19898
+23.95.85.233 - - [07/Jan/2018:16:20:05 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 49926
+23.95.85.233 - - [07/Jan/2018:16:20:08 +0100] "GET /kurse.shtml HTTP/1.1" 200 31031
+23.95.85.233 - - [07/Jan/2018:16:20:10 +0100] "GET /optikurse-2014.shtml HTTP/1.1" 200 26353
+23.95.85.233 - - [07/Jan/2018:16:20:13 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 23039
+23.95.85.233 - - [07/Jan/2018:16:20:15 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 21440
+23.95.85.233 - - [07/Jan/2018:16:20:16 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 19993
+23.95.85.233 - - [07/Jan/2018:16:20:17 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 17863
+23.95.85.233 - - [07/Jan/2018:16:20:19 +0100] "GET /standort.shtml HTTP/1.1" 200 17547
+23.95.85.233 - - [07/Jan/2018:16:20:20 +0100] "GET /vermietung.shtml HTTP/1.1" 200 25728
+23.95.85.233 - - [07/Jan/2018:16:20:24 +0100] "GET /js/functions_stripped.js?v=6.6.7.2.41064 HTTP/1.1" 200 7672
+23.95.85.233 - - [07/Jan/2018:16:20:25 +0100] "GET /Perspectiva.html? HTTP/1.1" 200 18069
+23.95.85.233 - - [07/Jan/2018:16:20:26 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 3342
+23.95.85.233 - - [07/Jan/2018:16:20:27 +0100] "GET /aktuelles-wetter HTTP/1.1" 200 18388
+23.95.85.233 - - [07/Jan/2018:16:20:28 +0100] "GET /davosersee HTTP/1.1" 200 19505
+23.95.85.233 - - [07/Jan/2018:16:20:30 +0100] "GET /event-gruppesmartkat HTTP/1.1" 200 21256
+23.95.85.233 - - [07/Jan/2018:16:20:31 +0100] "GET /event-matchracing HTTP/1.1" 200 21251
+23.95.85.233 - - [07/Jan/2018:16:20:34 +0100] "GET /event-pedalo HTTP/1.1" 200 20248
+23.95.85.233 - - [07/Jan/2018:16:20:35 +0100] "GET /events HTTP/1.1" 200 22514
+23.95.85.233 - - [07/Jan/2018:16:20:37 +0100] "GET /flotte HTTP/1.1" 200 29385
+23.95.85.233 - - [07/Jan/2018:16:20:38 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 200 20574
+23.95.85.233 - - [07/Jan/2018:16:20:40 +0100] "GET /galerie-matchracing HTTP/1.1" 200 21704
+23.95.85.233 - - [07/Jan/2018:16:20:41 +0100] "GET /galerie-sktrophy-2014 HTTP/1.1" 200 29913
+23.95.85.233 - - [07/Jan/2018:16:20:44 +0100] "GET /galerie-sktrophy-2015 HTTP/1.1" 200 49420
+23.95.85.233 - - [07/Jan/2018:16:20:47 +0100] "GET /galerie HTTP/1.1" 200 22747
+23.95.85.233 - - [07/Jan/2018:16:20:48 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 19898
+23.95.85.233 - - [07/Jan/2018:16:20:49 +0100] "GET /kurse HTTP/1.1" 200 31031
+23.95.85.233 - - [07/Jan/2018:16:20:51 +0100] "GET /optikurse-2014 HTTP/1.1" 200 26353
+23.95.85.233 - - [07/Jan/2018:16:20:53 +0100] "GET /pruefungskurs HTTP/1.1" 200 23039
+178.197.226.165 - - [07/Jan/2018:16:37:26 +0100] "GET /galerie-matchracing HTTP/1.1" 200 4440
+178.197.226.165 - - [07/Jan/2018:16:38:00 +0100] "GET / HTTP/1.1" 200 6401
+178.197.226.165 - - [07/Jan/2018:16:38:17 +0100] "GET /galerie HTTP/1.1" 200 4458
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/125487-3_SKCrashkurs.JPG HTTP/1.1" 200 80503
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/125488-4_Grundkurs.JPG HTTP/1.1" 200 77496
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /kurse HTTP/1.1" 200 6252
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/8010562-7_Plauschsegeln.JPG HTTP/1.1" 200 189182
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/125486-2_Sportkurs.JPG HTTP/1.1" 200 69000
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/125485-1_Kinderkurs.JPG HTTP/1.1" 200 64975
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/126374-6_Schnupperkurs.JPG HTTP/1.1" 200 53584
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/125503-36_420er.jpg HTTP/1.1" 200 61172
+178.197.226.165 - - [07/Jan/2018:16:38:56 +0100] "GET /var/m_0/0d/0dd/12455/125489-5_Pr%C3%BCfungskurs.JPG HTTP/1.1" 200 53669
+178.197.226.165 - - [07/Jan/2018:16:40:11 +0100] "GET /vermietung HTTP/1.1" 200 5072
+66.249.64.28 - - [07/Jan/2018:16:58:48 +0100] "GET / HTTP/1.1" 200 6401
+66.249.64.27 - - [07/Jan/2018:16:59:38 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511

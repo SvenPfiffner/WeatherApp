@@ -1,0 +1,16 @@
+94.199.151.22 - - [07/Jan/2018:03:14:25 +0100] "GET /robots.txt HTTP/1.1" 200 80
+94.199.151.22 - - [07/Jan/2018:03:14:43 +0100] "GET / HTTP/1.1" 200 6440
+94.199.151.22 - - [07/Jan/2018:03:14:55 +0100] "GET /galerie.shtml HTTP/1.1" 200 4483
+94.199.151.22 - - [07/Jan/2018:03:15:05 +0100] "GET /kurse.shtml HTTP/1.1" 200 6280
+94.199.151.22 - - [07/Jan/2018:03:15:17 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+94.199.151.22 - - [07/Jan/2018:03:15:25 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+94.199.151.22 - - [07/Jan/2018:03:15:32 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 5171
+94.199.151.22 - - [07/Jan/2018:03:15:42 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 5139
+94.199.151.22 - - [07/Jan/2018:03:15:53 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808
+94.199.151.22 - - [07/Jan/2018:03:16:04 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+94.199.151.22 - - [07/Jan/2018:03:16:13 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+94.199.151.22 - - [07/Jan/2018:03:16:20 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 5645
+94.199.151.22 - - [07/Jan/2018:03:16:29 +0100] "GET /event-matchracing.shtml HTTP/1.1" 200 5634
+94.199.151.22 - - [07/Jan/2018:03:16:35 +0100] "GET /event-pedalo.shtml HTTP/1.1" 200 5342
+77.75.79.62 - - [07/Jan/2018:03:44:49 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.62 - - [07/Jan/2018:03:44:50 +0100] "GET /pruefungskurs HTTP/1.1" 200 5895

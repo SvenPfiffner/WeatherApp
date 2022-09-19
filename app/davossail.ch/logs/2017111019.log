@@ -1,0 +1,5 @@
+msnbot-157-55-39-76.search.msn.com - - [10/Nov/2017:19:04:36 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-199.search.msn.com - - [10/Nov/2017:19:16:34 +0100] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-29.googlebot.com - - [10/Nov/2017:19:24:17 +0100] "GET /gallery/displayimage.php?album=4&pos=9 HTTP/1.1" 200 191
+adc535.clearspring.com - - [10/Nov/2017:19:47:53 +0100] "GET /robots.txt HTTP/1.1" 200 80
+adc535.clearspring.com - - [10/Nov/2017:19:47:53 +0100] "GET /pruefungskurs HTTP/1.1" 200 5895

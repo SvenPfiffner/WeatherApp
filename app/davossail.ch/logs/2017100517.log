@@ -1,0 +1,11 @@
+msnbot-40-77-167-57.search.msn.com - - [05/Oct/2017:17:09:28 +0200] "GET /galerie HTTP/1.1" 200 4483
+msnbot-40-77-167-57.search.msn.com - - [05/Oct/2017:17:09:28 +0200] "GET /flotte HTTP/1.1" 200 6274
+msnbot-157-55-39-174.search.msn.com - - [05/Oct/2017:17:09:29 +0200] "GET /%C3%BCber-uns HTTP/1.1" 200 4741
+msnbot-40-77-167-57.search.msn.com - - [05/Oct/2017:17:09:29 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+msnbot-157-55-39-174.search.msn.com - - [05/Oct/2017:17:09:29 +0200] "GET /kinder-segelkurs HTTP/1.1" 200 5172
+msnbot-157-55-39-167.search.msn.com - - [05/Oct/2017:17:09:43 +0200] "GET /galerie-sktrophy-2015 HTTP/1.1" 200 5939
+msnbot-157-55-39-167.search.msn.com - - [05/Oct/2017:17:09:43 +0200] "GET /galerie-matchracing HTTP/1.1" 200 4859
+msnbot-157-55-39-167.search.msn.com - - [05/Oct/2017:17:09:44 +0200] "GET /galerie-sktrophy-2014-2.shtml HTTP/1.1" 200 4296
+msnbot-157-55-39-167.search.msn.com - - [05/Oct/2017:17:09:45 +0200] "GET /kursanmeldung HTTP/1.1" 200 10945
+195.141.126.4 - - [05/Oct/2017:17:36:56 +0200] "GET /robots.txt HTTP/1.1" 200 120
+195.141.126.4 - - [05/Oct/2017:17:36:56 +0200] "GET / HTTP/1.1" 200 35804

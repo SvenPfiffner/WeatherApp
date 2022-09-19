@@ -1,0 +1,4 @@
+ec2-54-208-102-37.compute-1.amazonaws.com - - [08/Oct/2017:22:55:04 +0200] "GET / HTTP/1.1" 200 6440
+ec2-54-208-102-37.compute-1.amazonaws.com - - [08/Oct/2017:22:55:05 +0200] "GET /templates/resellers/7/favicon.ico?v=1506103971 HTTP/1.1" 200 4286
+crawl-66-249-64-28.googlebot.com - - [08/Oct/2017:22:56:07 +0200] "GET / HTTP/1.1" 200 6401
+crawl-66-249-64-29.googlebot.com - - [08/Oct/2017:22:56:07 +0200] "GET /robots.txt HTTP/1.1" 200 80

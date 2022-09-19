@@ -1,0 +1,9 @@
+40.77.167.179 - - [03/Feb/2019:22:06:07 +0100] "GET /vermietung HTTP/1.1" 200 31013
+40.77.190.23 - - [03/Feb/2019:22:06:15 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+40.77.190.23 - - [03/Feb/2019:22:06:16 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 3661
+40.77.189.126 - - [03/Feb/2019:22:06:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 1691
+40.77.189.74 - - [03/Feb/2019:22:06:17 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 4070
+40.77.188.178 - - [03/Feb/2019:22:06:18 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 163577
+216.244.66.248 - - [03/Feb/2019:22:30:42 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [03/Feb/2019:22:30:45 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.241 - - [03/Feb/2019:22:31:22 +0100] "GET /kinder-segelkurs HTTP/1.1" 301 322

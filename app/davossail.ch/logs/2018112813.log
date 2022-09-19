@@ -1,0 +1,4 @@
+207.46.13.79 - - [28/Nov/2018:13:01:34 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31070
+66.249.70.3 - - [28/Nov/2018:13:03:41 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 36614
+66.249.70.5 - - [28/Nov/2018:13:03:56 +0100] "POST /wforms/captcha/index HTTP/1.1" 200 -
+207.46.13.79 - - [28/Nov/2018:13:53:48 +0100] "GET /galerie-matchracing HTTP/1.1" 301 333

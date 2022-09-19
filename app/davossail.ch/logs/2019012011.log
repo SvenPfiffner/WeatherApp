@@ -1,0 +1,13 @@
+216.244.66.248 - - [20/Jan/2019:11:32:22 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [20/Jan/2019:11:32:24 +0100] "GET /robots.txt HTTP/1.1" 200 120
+92.105.9.35 - - [20/Jan/2019:11:32:39 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 301 335
+92.105.9.35 - - [20/Jan/2019:11:32:40 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31303
+92.105.9.35 - - [20/Jan/2019:11:32:40 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+92.105.9.35 - - [20/Jan/2019:11:32:42 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 301 335
+92.105.9.35 - - [20/Jan/2019:11:32:42 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31263
+92.105.9.35 - - [20/Jan/2019:11:32:41 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+92.105.9.35 - - [20/Jan/2019:11:32:42 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094580 HTTP/1.1" 200 4286
+92.105.9.35 - - [20/Jan/2019:11:32:42 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+92.105.9.35 - - [20/Jan/2019:11:32:43 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+92.105.9.35 - - [20/Jan/2019:11:32:45 +0100] "GET /templates/resellers/7/favicon.ico?v=1538489338 HTTP/1.1" 200 4286
+157.55.39.153 - - [20/Jan/2019:11:43:24 +0100] "GET /smartkat-trophy-2018-copy.shtml HTTP/1.1" 301 345

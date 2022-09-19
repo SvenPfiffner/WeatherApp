@@ -1,0 +1,11 @@
+66.249.64.38 - - [02/Oct/2018:12:04:24 +0200] "GET /var/m_0/0d/0dd/12455/125493-13_Kurse.JPG HTTP/1.1" 200 70517
+216.244.66.248 - - [02/Oct/2018:12:06:33 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dlastup%2526cat%253D-3%2526pid%253D101%2526slideshow%253D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [02/Oct/2018:12:06:40 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dlastup%2526cat%253D-4%2526pid%253D123%2526slideshow%253D5000 HTTP/1.1" 200 215
+193.106.30.98 - - [02/Oct/2018:12:11:43 +0200] "HEAD / HTTP/1.1" 301 -
+88.99.253.174 - - [02/Oct/2018:12:16:42 +0200] "GET /robots.txt HTTP/1.1" 301 324
+88.99.253.174 - - [02/Oct/2018:12:16:42 +0200] "GET /kurse.shtml HTTP/1.1" 301 325
+216.244.66.248 - - [02/Oct/2018:12:18:42 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [02/Oct/2018:12:18:43 +0200] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.29 - - [02/Oct/2018:12:24:25 +0200] "GET /davosersee.shtml HTTP/1.1" 200 31406
+207.46.13.209 - - [02/Oct/2018:12:58:27 +0200] "GET /davosersee HTTP/1.1" 200 31406
+157.55.39.144 - - [02/Oct/2018:12:59:38 +0200] "GET /robots.txt HTTP/1.1" 301 324

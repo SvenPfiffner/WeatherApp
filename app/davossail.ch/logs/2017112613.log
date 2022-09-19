@@ -1,0 +1,12 @@
+baiduspider-180-76-15-7.crawl.baidu.com - - [26/Nov/2017:13:01:46 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+125.167.75.117 - - [26/Nov/2017:13:06:55 +0100] "GET /wp-login.php HTTP/1.1" 200 18069
+125.167.75.117 - - [26/Nov/2017:13:06:56 +0100] "GET / HTTP/1.1" 200 35804
+crawl-66-249-64-30.googlebot.com - - [26/Nov/2017:13:12:49 +0100] "GET /jugend-segelkurs.shtml HTTP/1.1" 200 4297
+crawl-66-249-64-28.googlebot.com - - [26/Nov/2017:13:12:55 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41276 HTTP/1.1" 200 24507
+crawl-66-249-64-28.googlebot.com - - [26/Nov/2017:13:12:55 +0100] "GET /js/efu/w.siteMap.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 225
+crawl-66-249-64-28.googlebot.com - - [26/Nov/2017:13:12:55 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+crawl-66-249-64-29.googlebot.com - - [26/Nov/2017:13:12:56 +0100] "GET /js/efu/main.min.js?v=6.6.7.2.41276 HTTP/1.1" 200 1746
+crawl-66-249-64-29.googlebot.com - - [26/Nov/2017:13:12:56 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+msnbot-157-55-39-6.search.msn.com - - [26/Nov/2017:13:19:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-190.search.msn.com - - [26/Nov/2017:13:19:50 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-40-77-167-80.search.msn.com - - [26/Nov/2017:13:33:57 +0100] "GET / HTTP/1.1" 200 6440

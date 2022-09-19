@@ -1,0 +1,13 @@
+baiduspider-180-76-15-18.crawl.baidu.com - - [10/Dec/2017:21:02:06 +0100] "GET /robots.txt HTTP/1.1" 200 80
+baiduspider-180-76-15-161.crawl.baidu.com - - [10/Dec/2017:21:02:06 +0100] "GET /robots.txt HTTP/1.1" 200 80
+baiduspider-180-76-15-149.crawl.baidu.com - - [10/Dec/2017:21:04:20 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+62-210-177-87.rev.poneytelecom.eu - - [10/Dec/2017:21:05:56 +0100] "GET /license.php HTTP/1.0" 200 18205
+ns309394.ip-188-165-200.eu - - [10/Dec/2017:21:16:34 +0100] "HEAD / HTTP/1.1" 403 -
+msnbot-157-55-39-51.search.msn.com - - [10/Dec/2017:21:18:26 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-40-77-167-49.search.msn.com - - [10/Dec/2017:21:22:22 +0100] "GET /galerie.shtml HTTP/1.1" 200 4483
+fulltextrobot-77-75-79-17.seznam.cz - - [10/Dec/2017:21:24:35 +0100] "GET /robots.txt HTTP/1.1" 200 80
+fulltextrobot-77-75-79-17.seznam.cz - - [10/Dec/2017:21:24:36 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+fulltextrobot-77-75-79-109.seznam.cz - - [10/Dec/2017:21:53:12 +0100] "GET /robots.txt HTTP/1.1" 200 80
+fulltextrobot-77-75-79-109.seznam.cz - - [10/Dec/2017:21:53:12 +0100] "GET /davosersee.shtml HTTP/1.1" 200 5477
+fulltextrobot-77-75-79-109.seznam.cz - - [10/Dec/2017:21:53:14 +0100] "GET /robots.txt HTTP/1.1" 200 80
+fulltextrobot-77-75-79-109.seznam.cz - - [10/Dec/2017:21:53:15 +0100] "GET /events.shtml HTTP/1.1" 200 5297

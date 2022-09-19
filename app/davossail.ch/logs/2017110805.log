@@ -1,0 +1,4 @@
+msnbot-40-77-167-91.search.msn.com - - [08/Nov/2017:05:17:50 +0100] "GET /var/m_0/0d/0dd/12455/126374-6_Schnupperkurs.JPG HTTP/1.1" 200 53584
+msnbot-207-46-13-203.search.msn.com - - [08/Nov/2017:05:34:58 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-76.search.msn.com - - [08/Nov/2017:05:35:03 +0100] "GET /event-pedalo HTTP/1.1" 200 5342
+crawl-66-249-64-30.googlebot.com - - [08/Nov/2017:05:47:23 +0100] "GET /templates/resellers/7/favicon.ico?v=1471787590 HTTP/1.1" 304 -

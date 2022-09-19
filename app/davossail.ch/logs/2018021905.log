@@ -1,0 +1,6 @@
+216.244.66.201 - - [19/Feb/2018:05:34:53 +0100] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 18425
+193.70.34.209 - - [19/Feb/2018:05:40:41 +0100] "GET /connectors/security/login.php HTTP/1.1" 200 18098
+46.118.116.121 - - [19/Feb/2018:05:50:05 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19693
+46.118.116.121 - - [19/Feb/2018:05:50:07 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19693
+54.37.85.62 - - [19/Feb/2018:05:58:56 +0100] "GET /robots.txt HTTP/1.1" 200 80
+54.37.85.62 - - [19/Feb/2018:05:59:07 +0100] "GET / HTTP/1.1" 200 6261

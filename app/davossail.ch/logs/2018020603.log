@@ -1,0 +1,4 @@
+66.249.64.28 - - [06/Feb/2018:03:22:31 +0100] "GET /templates/resellers/7/favicon.ico?v=1506103971 HTTP/1.1" 304 -
+66.249.64.29 - - [06/Feb/2018:03:41:08 +0100] "GET /var/m_0/0d/0dd/12455/125495-15_Event.JPG HTTP/1.1" 304 -
+66.249.64.30 - - [06/Feb/2018:03:56:12 +0100] "GET /index.php?option=com_content&task=view&id=32&Itemid=82 HTTP/1.1" 302 -
+66.249.64.28 - - [06/Feb/2018:03:56:16 +0100] "GET / HTTP/1.1" 200 6440

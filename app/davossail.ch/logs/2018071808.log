@@ -1,0 +1,16 @@
+178.137.160.220 - - [18/Jul/2018:08:05:04 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+216.244.66.248 - - [18/Jul/2018:08:07:31 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Jul/2018:08:07:32 +0200] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [18/Jul/2018:08:23:57 +0200] "GET /gallery/login.php?referer=displayimage.php%3Falbum%3Dlastupby%26cat%3D0%26pos%3D69%26uid%3D1 HTTP/1.1" 200 215
+216.244.66.248 - - [18/Jul/2018:08:29:54 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Jul/2018:08:29:55 +0200] "GET /robots.txt HTTP/1.1" 200 120
+83.44.93.37 - - [18/Jul/2018:08:40:34 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+83.44.93.37 - - [18/Jul/2018:08:40:34 +0200] "GET / HTTP/1.1" 301 314
+83.44.93.37 - - [18/Jul/2018:08:40:34 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+77.217.236.228 - - [18/Jul/2018:08:51:20 +0200] "GET /var/m_0/0d/0dd/12455/126126-43_See.JPG HTTP/1.1" 200 86511
+216.244.66.248 - - [18/Jul/2018:08:54:13 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Jul/2018:08:54:15 +0200] "GET /robots.txt HTTP/1.1" 200 120
+17.58.99.196 - - [18/Jul/2018:08:56:33 +0200] "GET /robots.txt HTTP/1.1" 301 324
+17.58.99.196 - - [18/Jul/2018:08:56:34 +0200] "GET /robots.txt HTTP/1.1" 200 80
+17.58.99.196 - - [18/Jul/2018:08:56:35 +0200] "GET /optikurse-2014.shtml HTTP/1.1" 301 334
+17.58.99.196 - - [18/Jul/2018:08:56:35 +0200] "GET /optikurse-2014.shtml HTTP/1.1" 200 4935

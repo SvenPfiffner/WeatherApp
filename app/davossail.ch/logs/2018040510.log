@@ -1,0 +1,14 @@
+216.244.66.229 - - [05/Apr/2018:10:08:07 +0200] "GET /robots.txt HTTP/1.1" 200 120
+123.125.67.227 - - [05/Apr/2018:10:19:50 +0200] "GET /robots.txt HTTP/1.1" 200 80
+123.125.71.87 - - [05/Apr/2018:10:21:01 +0200] "GET /templates/resellers/7/favicon.ico?v=1498505839 HTTP/1.1" 200 4286
+216.244.66.229 - - [05/Apr/2018:10:37:37 +0200] "GET /robots.txt HTTP/1.1" 200 120
+195.141.126.4 - - [05/Apr/2018:10:39:26 +0200] "GET /davosersee.shtml HTTP/1.1" 200 5492
+54.36.148.220 - - [05/Apr/2018:10:39:32 +0200] "GET /var/m_0/0d/0dd/12455/6564687-G3_SKT2015_18.jpg HTTP/1.1" 200 93275
+195.141.126.4 - - [05/Apr/2018:10:39:37 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10856
+195.141.126.4 - - [05/Apr/2018:10:40:17 +0200] "GET /flotte.shtml HTTP/1.1" 200 6291
+195.141.126.4 - - [05/Apr/2018:10:41:03 +0200] "GET /vermietung.shtml HTTP/1.1" 200 5114
+195.141.126.4 - - [05/Apr/2018:10:41:14 +0200] "GET /pruefungskurs.shtml HTTP/1.1" 200 5930
+195.141.126.4 - - [05/Apr/2018:10:41:24 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5396
+195.141.126.4 - - [05/Apr/2018:10:41:34 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 5167
+195.141.126.4 - - [05/Apr/2018:10:41:44 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4819
+195.141.126.4 - - [05/Apr/2018:10:41:54 +0200] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 5130

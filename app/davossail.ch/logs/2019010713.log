@@ -1,0 +1,12 @@
+216.244.66.248 - - [07/Jan/2019:13:07:43 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [07/Jan/2019:13:07:44 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.153 - - [07/Jan/2019:13:18:13 +0100] "GET /robots.txt HTTP/1.1" 301 316
+46.229.168.129 - - [07/Jan/2019:13:18:14 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.129 - - [07/Jan/2019:13:18:14 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 328
+46.229.168.133 - - [07/Jan/2019:13:18:16 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 31070
+157.55.39.135 - - [07/Jan/2019:13:23:45 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31070
+216.244.66.248 - - [07/Jan/2019:13:47:39 +0100] "GET /gallery/displayimage.php?album=toprated&cat=-4&pid=141&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [07/Jan/2019:13:47:49 +0100] "GET /gallery/displayimage.php?album=toprated&cat=0&pid=123&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [07/Jan/2019:13:47:54 +0100] "GET /gallery/displayimage.php?album=toprated&cat=0&pid=161&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [07/Jan/2019:13:54:19 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [07/Jan/2019:13:54:21 +0100] "GET /robots.txt HTTP/1.1" 200 120

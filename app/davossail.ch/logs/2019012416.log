@@ -1,0 +1,6 @@
+77.75.78.171 - - [24/Jan/2019:16:01:02 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 328
+77.75.78.171 - - [24/Jan/2019:16:01:02 +0100] "GET /robots.txt HTTP/1.1" 301 316
+216.244.66.248 - - [24/Jan/2019:16:18:34 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [24/Jan/2019:16:18:36 +0100] "GET /robots.txt HTTP/1.1" 200 120
+180.76.15.20 - - [24/Jan/2019:16:25:37 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js HTTP/1.1" 301 364
+66.249.66.156 - - [24/Jan/2019:16:54:31 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 18634

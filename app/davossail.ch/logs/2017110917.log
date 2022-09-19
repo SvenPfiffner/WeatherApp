@@ -1,0 +1,4 @@
+crawl-66-249-64-28.googlebot.com - - [09/Nov/2017:17:47:10 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 4808
+95-108-181-76.spider.yandex.com - - [09/Nov/2017:17:49:03 +0100] "GET /templates/resellers/7/favicon.ico?v=1506103971 HTTP/1.1" 200 4286
+static.208.150.130.94.clients.your-server.de - - [09/Nov/2017:17:54:02 +0100] "GET / HTTP/1.1" 200 6440
+static.208.150.130.94.clients.your-server.de - - [09/Nov/2017:17:54:02 +0100] "GET /robots.txt HTTP/1.1" 200 80

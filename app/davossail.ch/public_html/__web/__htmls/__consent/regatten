@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html  lang="de">
+<head>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:image" content="/var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg" />
+<meta property="og:title" content="Regatten" />
+<meta name="last-modified" content="2022-09-13 08:11:55" />
+<meta name="generator" content="Swisscom HomepageTool" />
+<meta name="robots" content="noindex,nofollow" />
+<meta property="og:url" content="https://www.davossail.ch/regatten" />	<title>Regatten - Davossail</title>	<link href="//templates/resellers/7/hptfav-aab32.png?v=1663062359" rel="SHORTCUT ICON" type="image/x-icon" />
+<link href="/css/extra-fonts.css?v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/widgets/concat_widget.min.css?v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1617625279" media="screen" rel="stylesheet" type="text/css" id="template-grid" />
+<link href="/templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1617625279" media="screen" rel="stylesheet" type="text/css" id="template-skin" />
+<link href="https://www.davossail.ch/regatten" rel="canonical" />		
+
+	<style>.free-text-image .freetext-image .image_wrapper{display:block;}</style>
+            <script>
+                jQuery(window).load(function(){
+                    if(navigator.userAgent.indexOf('Safari') != -1
+                    && navigator.userAgent.indexOf('Chrome') == -1
+                    && navigator.userAgent.indexOf('Edge') == -1
+                    && $('.editing-mode').length == 0){
+                        $('img').each(function(){
+                            if($(this).height() == 0){
+                                var img = new Image();
+                                img.src = $(this).attr('src');
+                                var parent = $(this).parent();
+                                $(this).detach();
+                                parent.append(img);
+                            }
+                        });
+                    }
+                });
+            </script>
+	
+	<link type="text/css" href="/css/skeleton.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Domine:400,700' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="/templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1617625279"></script>
+<script type="text/javascript" src="/templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1617625279"></script>
+<script type="text/javascript" src="/templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1617625279"></script>
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+		//label of menu button on mobile version
+		var config = {
+			navigation: "Navigation"
+		};
+	</script>
+<style type="text/css" media="screen">
+<!--
+.skinBg { background-color: transparent; }
+.modules_td { background-color: transparent; }
+ #content { font-family: Tahoma; font-size: 1em; }
+ #content a {  font-family: Tahoma !important; font-size: 1em !important; }
+ .titles {  font-family: Tahoma; font-size: 1em; }
+ .buttons {  font-family: Tahoma; }
+
+-->
+</style></head>
+<body>
+  <!-- Panel -->
+  <div id="fixed_mobile_action">
+    <div id="toppanel" class="ios5">
+        <!-- The tab on top --> 
+      <div class="tab">
+        <ul class="mobile_action">
+          <li class="left">&nbsp;</li>
+          <li id="toggle">
+            <label id="open" class="open">Kontaktieren Sie uns</label>
+            <label id="close" style="display: none;" class="close">Fenster schließen</label>     
+          </li>
+          <li class="right">&nbsp;</li>
+        </ul> 
+      </div> <!-- / top -->
+
+      <div id="panel">
+        <div class="panel-content">
+          <div class="icon">
+            <a href="tel:+41 81 416 27 09" class="click-phone">Rufen Sie uns an!</a>
+          </div>
+          <div class="icon">
+            <a href="mailto:info@davossail.ch" class="click-mail">Senden Sie uns eine E-Mail</a>
+          </div>
+          <div class="icon">
+            <a href="https://maps.google.com/maps?q=Switzerland" class="click-map">Auf der Karte anzeigen</a>
+          </div>
+
+        </div>
+    </div> 
+
+
+      
+    </div> 
+  </div>
+  <!--panel -->
+  <div class="top">
+    <div class="sk-container skinAlign">
+      <div class="sixteen columns ">
+        <div class="logo-container four columns omega" ></div>
+        <nav class="nav twelve columns alpha">
+          <ul id="nav" class="menu_count_28 wp-menu"><li id="menu_81" class="first  lb_81 menu-item-home"><a href="//www.davossail.ch/" target="_self" title="Home" data-pageid="81" data-act="canvas" data-itemid="95" data-cat="0">Home</a> </li><li id="menu_28115" class=" lb_28115 menu-item-toppage"><a href="//www.davossail.ch/davosersee.shtml" target="_self" title="Davosersee" data-pageid="28115" data-act="canvas" data-itemid="27579" data-cat="0">Davosersee</a> </li><li id="menu_28063" class=" lb_28063 menu-item-toppage"><a href="//www.davossail.ch/kurse.shtml" target="_self" title="Kurse" data-pageid="28063" data-act="canvas" data-itemid="27530" data-cat="0">Kurse</a> <ul><li id="menu_28073" class="first  lb_28063_28073 menu-item-innerpage"><a href="//www.davossail.ch/kinder-segelkurs.shtml" target="_self" title="Kinder-Segelkurs" data-pageid="28073" data-act="canvas" data-itemid="27540" data-cat="0">Kinder-Segelkurs</a> </li><li id="menu_28074" class=" lb_28063_28074 menu-item-innerpage"><a href="//www.davossail.ch/segelkurs-jollesmartkat.shtml" target="_self" title="Segelkurs Jolle / Smartkat" data-pageid="28074" data-act="canvas" data-itemid="27541" data-cat="0">Segelkurs Jolle / Smartkat</a> </li><li id="menu_28087" class=" lb_28063_28087 menu-item-innerpage"><a href="//www.davossail.ch/smartkat-crashkurs.shtml" target="_self" title="Smartkat-Crashkurs" data-pageid="28087" data-act="canvas" data-itemid="27554" data-cat="0">Smartkat-Crashkurs</a> </li><li id="menu_28088" class=" lb_28063_28088 menu-item-innerpage"><a href="//www.davossail.ch/segel-grundkurs.shtml" target="_self" title="Segel-Grundkurs" data-pageid="28088" data-act="canvas" data-itemid="27555" data-cat="0">Segel-Grundkurs</a> </li><li id="menu_28064" class="last lb_28063_28064 menu-item-innerpage"><a href="//www.davossail.ch/pruefungskurs.shtml" target="_self" title="Prüfungskurs" data-pageid="28064" data-act="canvas" data-itemid="27531" data-cat="0">Prüfungskurs</a> </li></ul></li><li id="menu_837210" class=" lb_837210 menu-item-toppage"><a href="//www.davossail.ch/events.shtml" target="_self" title="Events" data-pageid="837210" data-act="canvas" data-itemid="892757" data-cat="0">Events</a> <ul><li id="menu_837212" class="first  lb_837210_837212 menu-item-innerpage"><a href="//www.davossail.ch/event-gruppesmartkat.shtml" target="_self" title="Gruppenevent Smartkat" data-pageid="837212" data-act="canvas" data-itemid="892759" data-cat="0">Gruppenevent Smartkat</a> </li><li id="menu_837211" class=" lb_837210_837211 menu-item-innerpage"><a href="//www.davossail.ch/event-matchracing.shtml" target="_self" title="Match Racing" data-pageid="837211" data-act="canvas" data-itemid="892758" data-cat="0">Match Racing</a> </li><li id="menu_837213" class="last lb_837210_837213 menu-item-innerpage"><a href="//www.davossail.ch/event-pedalo.shtml" target="_self" title="Pedaloevent" data-pageid="837213" data-act="canvas" data-itemid="892760" data-cat="0">Pedaloevent</a> </li></ul></li><li id="menu_28070" class=" lb_28070 menu-item-toppage"><a href="//www.davossail.ch/flotte.shtml" target="_self" title="Flotte" data-pageid="28070" data-act="canvas" data-itemid="27537" data-cat="0">Flotte</a> </li><li id="menu_28069" class=" lb_28069 menu-item-toppage"><a href="//www.davossail.ch/vermietung.shtml" target="_self" title="Vermietung" data-pageid="28069" data-act="canvas" data-itemid="27536" data-cat="0">Vermietung</a> <ul><li id="menu_979458" class="first  lb_28069_979458 menu-item-innerpage"><a href="//www.davossail.ch/pedalovermietung.shtml" target="_self" title="Pedalo Vermietung" data-pageid="979458" data-act="canvas" data-itemid="1031927" data-cat="0">Pedalo Vermietung</a> </li><li id="menu_979459" class=" lb_28069_979459 menu-item-innerpage"><a href="//www.davossail.ch/segelbootvermietung.shtml" target="_self" title="Segelboot Vermietung" data-pageid="979459" data-act="canvas" data-itemid="1031928" data-cat="0">Segelboot Vermietung</a> </li><li id="menu_1019549" class="last lb_28069_1019549 menu-item-innerpage"><a href="//www.davossail.ch/barrierefrei.shtml" target="_self" title="barrierefreies Pedalo" data-pageid="1019549" data-act="canvas" data-itemid="1072461" data-cat="0">barrierefreies Pedalo</a> </li></ul></li><li id="menu_29434" class="current  lb_29434 menu-item-toppage"><a href="//www.davossail.ch/galerie.shtml" target="_self" title="Galerie" data-pageid="29434" data-act="canvas" data-itemid="28870" data-cat="0">Galerie</a> <ul><li id="menu_959260" class="first  lb_29434_959260 menu-item-innerpage"><a href="//www.davossail.ch/smartkattrophy.shtml" target="_self" title="Smartkat-Trophy" data-pageid="959260" data-act="canvas" data-itemid="1011674" data-cat="0">Smartkat-Trophy</a> </li><li id="menu_934216" class=" lb_29434_934216 menu-item-innerpage"><a href="//www.davossail.ch/ssl.shtml" target="_self" title="Swiss Sailing League" data-pageid="934216" data-act="canvas" data-itemid="986608" data-cat="0">Swiss Sailing League</a> </li><li id="menu_959284" class="current  lb_29434_959284 menu-item-innerpage"><a href="//www.davossail.ch/regatten.shtml" target="_self" title="Regatten" data-pageid="959284" data-act="canvas" data-itemid="1011698" data-cat="0">Regatten</a> </li><li id="menu_837197" class=" lb_29434_837197 menu-item-innerpage"><a href="//www.davossail.ch/galerie-matchracing.shtml" target="_self" title="Match Racing" data-pageid="837197" data-act="canvas" data-itemid="892744" data-cat="0">Match Racing</a> </li><li id="menu_837198" class=" lb_29434_837198 menu-item-innerpage"><a href="//www.davossail.ch/galerie-gruppesmartkat.shtml" target="_self" title="Gruppenevent Smartkat" data-pageid="837198" data-act="canvas" data-itemid="892745" data-cat="0">Gruppenevent Smartkat</a> </li><li id="menu_34048" class="last lb_29434_34048 menu-item-innerpage"><a href="//www.davossail.ch/optikurse-2014.shtml" target="_self" title="Optikurse 2014" data-pageid="34048" data-act="canvas" data-itemid="33325" data-cat="0">Optikurse 2014</a> </li></ul></li><li id="menu_28116" class="last lb_28116 menu-item-toppage"><a href="//www.davossail.ch/über-uns.shtml" target="_self" title="Info" data-pageid="28116" data-act="canvas" data-itemid="27580" data-cat="0">Info</a> <ul><li id="menu_28122" class="first  lb_28116_28122 menu-item-innerpage"><a href="//www.davossail.ch/standort.shtml" target="_self" title="Kontakt / Standort" data-pageid="28122" data-act="canvas" data-itemid="27586" data-cat="0">Kontakt / Standort</a> </li><li id="menu_36921" class=" lb_28116_36921 menu-item-innerpage"><a href="//www.davossail.ch/kursanmeldung.shtml" target="_self" title="Kursanmeldung" data-pageid="36921" data-act="canvas" data-itemid="36136" data-cat="0">Kursanmeldung</a> </li><li id="menu_28121" class="last lb_28116_28121 menu-item-innerpage"><a href="//www.davossail.ch/aktuelles-wetter.shtml" target="_self" title="Webcam, Wind und Wetter" data-pageid="28121" data-act="canvas" data-itemid="27585" data-cat="0">Webcam, Wind und Wetter</a> </li></ul></li></ul> 
+        </nav>
+      </div>
+    </div>
+  </div>
+  <!-- START HEADER IMAGE -->
+  <div id="header-image">
+    <div class="headerimage">
+      <div id="header-image-wrapper-1"><img src="/var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg" id="siteMainDynHeaderImage1" style="border:0px" /></div>    </div>
+    
+  </div>
+  <!-- END HEADER IMAGE -->
+  <div class="sk-container skinAlign">
+      <div id="content" class="sixteen columns skinBg">
+      <!-- START CONTENT -->
+      <div class="content-data"> 
+      	<div id="searchResults"></div>        <div id="wp_content_data"><div class="vertical" style="width: 100%;"><div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10930582" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h2>Regatten auf dem Davosersee</h2></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10930583" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<div>Jährlich finden auf dem Davosersee Regatten unterschiedlicher Bootsklassen statt.</div><div>Hier finden sie Impressionen verganger Wettkämpfe</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10930587" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Fireball - Schweizermeisterschaften&nbsp;2020</h4></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_15289777" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698167-G8_FBSM2020_01-d3d94.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698167-G8_FBSM2020_01-d3d94.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698170-G8_FBSM2020_02-45c48.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698170-G8_FBSM2020_02-45c48.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698173-G8_FBSM2020_03-45c48.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698173-G8_FBSM2020_03-45c48.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698176-G8_FBSM2020_04-45c48.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698176-G8_FBSM2020_04-45c48.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698179-G8_FBSM2020_05-c20ad.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698179-G8_FBSM2020_05-c20ad.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698182-G8_FBSM2020_06-e4da3.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698182-G8_FBSM2020_06-e4da3.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698185-G8_FBSM2020_07-d3d94.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698185-G8_FBSM2020_07-d3d94.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698188-G8_FBSM2020_08-e4da3.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698188-G8_FBSM2020_08-e4da3.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698191-G8_FBSM2020_09-8f14e.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698191-G8_FBSM2020_09-8f14e.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698194-G8_FBSM2020_10-c20ad.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698194-G8_FBSM2020_10-c20ad.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698197-G8_FBSM2020_11-6512b.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698197-G8_FBSM2020_11-6512b.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698200-G8_FBSM2020_12-6512b.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698200-G8_FBSM2020_12-6512b.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698203-G8_FBSM2020_13-d3d94.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698203-G8_FBSM2020_13-d3d94.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698206-G8_FBSM2020_14-45c48.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698206-G8_FBSM2020_14-45c48.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698209-G8_FBSM2020_15-c20ad.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698209-G8_FBSM2020_15-c20ad.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698212-G8_FBSM2020_16-e4da3.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698212-G8_FBSM2020_16-e4da3.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698215-G8_FBSM2020_17-8f14e.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698215-G8_FBSM2020_17-8f14e.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698218-G8_FBSM2020_18-16790.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698218-G8_FBSM2020_18-16790.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698221-G8_FBSM2020_19-e4da3.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698221-G8_FBSM2020_19-e4da3.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698224-G8_FBSM2020_20-6512b.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698224-G8_FBSM2020_20-6512b.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698227-G8_FBSM2020_21-c9f0f.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698227-G8_FBSM2020_21-c9f0f.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698230-G8_FBSM2020_22-c9f0f.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698230-G8_FBSM2020_22-c9f0f.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698233-G8_FBSM2020_23-9bf31.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698233-G8_FBSM2020_23-9bf31.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698236-G8_FBSM2020_24-6512b.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698236-G8_FBSM2020_24-6512b.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698239-G8_FBSM2020_25-c9f0f.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698239-G8_FBSM2020_25-c9f0f.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698242-G8_FBSM2020_26-8f14e.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698242-G8_FBSM2020_26-8f14e.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698245-G8_FBSM2020_27-8f14e.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698245-G8_FBSM2020_27-8f14e.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698248-G8_FBSM2020_28-c9f0f.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698248-G8_FBSM2020_28-c9f0f.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698251-G8_FBSM2020_29-45c48.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698251-G8_FBSM2020_29-45c48.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698254-G8_FBSM2020_30-45c48.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698254-G8_FBSM2020_30-45c48.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698257-G8_FBSM2020_31-c20ad.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698257-G8_FBSM2020_31-c20ad.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698260-G8_FBSM2020_32-c51ce.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698260-G8_FBSM2020_32-c51ce.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698263-G8_FBSM2020_33-c9f0f.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698263-G8_FBSM2020_33-c9f0f.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698266-G8_FBSM2020_34-c20ad.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698266-G8_FBSM2020_34-c20ad.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698269-G8_FBSM2020_35-16790.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698269-G8_FBSM2020_35-16790.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698272-G8_FBSM2020_36-c51ce.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698272-G8_FBSM2020_36-c51ce.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698275-G8_FBSM2020_37-16790.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698275-G8_FBSM2020_37-16790.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698278-G8_FBSM2020_38-d3d94.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698278-G8_FBSM2020_38-d3d94.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698281-G8_FBSM2020_39-d3d94.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698281-G8_FBSM2020_39-d3d94.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698284-G8_FBSM2020_40-c9f0f.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698284-G8_FBSM2020_40-c9f0f.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698287-G8_FBSM2020_41-d3d94.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698287-G8_FBSM2020_41-d3d94.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698290-G8_FBSM2020_42-c51ce.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698290-G8_FBSM2020_42-c51ce.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698293-G8_FBSM2020_43-c51ce.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698293-G8_FBSM2020_43-c51ce.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698296-G8_FBSM2020_44-c20ad.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698296-G8_FBSM2020_44-c20ad.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698299-G8_FBSM2020_45-16790.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698299-G8_FBSM2020_45-16790.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/10698302-G8_FBSM2020_46-c20ad.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/10698302-G8_FBSM2020_46-c20ad.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-11269791" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Fireball- / Corsaire Regatta 2019<br></h4></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_15756064" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777065-FB2019_01_Gy-9bf31.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777065-FB2019_01_Gy-9bf31.jpg" alt="" style="width:100%;" class="lazy" data-width= "1920" data-height = "1147">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777068-FB2019_02_Gy-6512b.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777068-FB2019_02_Gy-6512b.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "1920" data-height = "1280">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777071-FB2019_03_Gy-c51ce.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777071-FB2019_03_Gy-c51ce.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "1920" data-height = "1280">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777074-FB2019_04_Gy-6512b.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777074-FB2019_04_Gy-6512b.jpg" alt="" style="width:100%;" class="lazy" data-width= "1920" data-height = "1080">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777077-FB2019_05_Gy-c20ad.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777077-FB2019_05_Gy-c20ad.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "1920" data-height = "1280">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777083-FB2019_07_Jo-6512b.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777083-FB2019_07_Jo-6512b.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777086-FB2019_08_Jo-6512b.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777086-FB2019_08_Jo-6512b.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777089-FB2019_09_Jo-aab32.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777089-FB2019_09_Jo-aab32.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777092-FB2019_10_Jo-9bf31.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777092-FB2019_10_Jo-9bf31.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777095-FB2019_11_Jo-c20ad.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777095-FB2019_11_Jo-c20ad.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777098-FB2019_12_Jo-16790.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777098-FB2019_12_Jo-16790.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777101-FB2019_13_Jo-45c48.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777101-FB2019_13_Jo-45c48.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "2268">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777104-FB2019_14_Lu-8f14e.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777104-FB2019_14_Lu-8f14e.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "3016">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777107-FB2019_15_Lu-e4da3.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777107-FB2019_15_Lu-e4da3.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "3016">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9777110-FB2019_16_Lu-aab32.w1024.jpg" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9777110-FB2019_16_Lu-aab32.w1024.jpg" alt="" style="width:100%;" class="lazy" data-width= "4032" data-height = "3016">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10930584" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Dart- / Corsaire-Regatta&nbsp;2016<br></h4></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_15289796" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564476-Corsaire_0001.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564476-Corsaire_0001.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564479-Corsaire_0002.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564479-Corsaire_0002.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564482-Corsaire_0003.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564482-Corsaire_0003.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564485-Corsaire_0004.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564485-Corsaire_0004.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564488-Corsaire_0005.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564488-Corsaire_0005.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564491-Corsaire_0006.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564491-Corsaire_0006.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564494-Corsaire_0007.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564494-Corsaire_0007.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564497-Corsaire_0008.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564497-Corsaire_0008.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564500-Corsaire_0009.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564500-Corsaire_0009.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564503-Corsaire_0010.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564503-Corsaire_0010.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "794">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564506-Corsaire_0011.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564506-Corsaire_0011.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564509-Corsaire_0012.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564509-Corsaire_0012.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564512-Corsaire_0013.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564512-Corsaire_0013.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564515-Corsaire_0014.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564515-Corsaire_0014.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564518-Corsaire_0015.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564518-Corsaire_0015.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564521-Corsaire_0016.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564521-Corsaire_0016.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564524-Corsaire_0017.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564524-Corsaire_0017.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564527-Corsaire_0018.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564527-Corsaire_0018.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564530-Corsaire_0019.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564530-Corsaire_0019.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564533-Corsaire_0020.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564533-Corsaire_0020.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564536-Corsaire_0021.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564536-Corsaire_0021.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564539-Corsaire_0022.w1024.JPG" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564539-Corsaire_0022.w1024.JPG" alt="" style="width:100%;" class="lazy" data-width= "1200" data-height = "795">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+</div></div>      </div>  
+      <!-- END CONTENT -->
+    </div>
+  </div>
+    <div class="footer">
+      <div class="sk-container skinAlign">
+        <div class="mirrormenu"><ul id="mirror-menu-module"><li id="mirror_menu_td_81" class="mirror_menu"><a href="http://www.davossail.ch/" target="_self" title="Home" data-pageid="81" data-act="canvas" data-itemid="95" data-cat="0">Home</a></li><li id="mirror_menu_td_28115" class="mirror_menu"><a href="http://www.davossail.ch/davosersee.shtml" target="_self" title="Davosersee" data-pageid="28115" data-act="canvas" data-itemid="27579" data-cat="0">Davosersee</a></li><li id="mirror_menu_td_28063" class="mirror_menu"><a href="http://www.davossail.ch/kurse.shtml" target="_self" title="Kurse" data-pageid="28063" data-act="canvas" data-itemid="27530" data-cat="0">Kurse</a></li><li id="mirror_menu_td_837210" class="mirror_menu"><a href="http://www.davossail.ch/events.shtml" target="_self" title="Events" data-pageid="837210" data-act="canvas" data-itemid="892757" data-cat="0">Events</a></li><li id="mirror_menu_td_28070" class="mirror_menu"><a href="http://www.davossail.ch/flotte.shtml" target="_self" title="Flotte" data-pageid="28070" data-act="canvas" data-itemid="27537" data-cat="0">Flotte</a></li><li id="mirror_menu_td_28069" class="mirror_menu"><a href="http://www.davossail.ch/vermietung.shtml" target="_self" title="Vermietung" data-pageid="28069" data-act="canvas" data-itemid="27536" data-cat="0">Vermietung</a></li><li id="mirror_menu_td_29434" class="mirror_menu"><a href="http://www.davossail.ch/galerie.shtml" target="_self" title="Galerie" data-pageid="29434" data-act="canvas" data-itemid="28870" data-cat="0">Galerie</a></li><li id="mirror_menu_td_28116" class="mirror_menu"><a href="http://www.davossail.ch/über-uns.shtml" target="_self" title="Info" data-pageid="28116" data-act="canvas" data-itemid="27580" data-cat="0">Info</a></li></ul></div>
+        <div class="footer-text"><div id="footerContent"><div> </div>
+
+<div style="text-align:center">www.davossail.ch - info@davossail.ch - +41 (0)81 416 27 09</div>
+</div>
+<div id="mySocialList" class="addthis_toolbox addthis_32x32_style addthis_default_style"></div>
+
+        
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LocalBusiness",
+	  "url": "http://www.davossail.ch",
+		 "sameAs" : [
+		 	  ]
+	}
+</script>
+
+
+</div>
+        <div class="languages">
+                  </div>
+        <div class="clearfix"></div>
+     </div>
+  </div>
+		
+	            
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "LocalBusiness",
+	"url": "https://www.davossail.ch",
+	"name": "Davossail",
+	"email": "info@davossail.ch",
+	"address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "",
+	    "addressRegion": "",
+	    "addressCountry":"Switzerland",
+	    "postalCode":"",
+	    "streetAddress": ""
+	                },
+	"telephone": "+41 81 416 27 09",
+	"fax": "",
+	"image": "/var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg"
+}
+</script>
+
+	
+<script type="text/javascript">
+    //<!--
+    var sid = 12455;    //-->
+</script>
+<script type="text/javascript" src="/js/bundles/front_bundle.min.js?v=7.3.44996.1"></script><script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "15289777",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_15289777 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "15756064",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_15756064 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "15289796",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_15289796 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {socialEntries = {"facebook":"","twitter":"","linkedin":"","linkedincompany":"","googleplus":""};
+socialEntriesTitle = {"facebook":" Auf Facebook folgen","twitter":"Auf Twitter folgen","linkedin":"Auf LinkedIn folgen","linkedincompany":"Auf LinkedIn folgen","googleplus":"Auf Google Plus folgen"};
+$.each(socialEntries, function(key, value) {
+      buildSocialEntry(key, value, socialEntriesTitle[key]);
+});
+getDependecies();
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	var gaSettings = {
+	  siteOwnerTrackingCode: false,
+		resellerTrackingCode: false,
+		resellerTrackerName: 'resellerTracker',
+		siteOwnerTrackerName: 'siteOwnerTracker'
+	};	
+  
+ 
+  
+      gaSettings.resellerTrackingCode = true;
+        ga('create', 'UA-65453061-1', 'auto', {'name': gaSettings.resellerTrackerName});  
+    ga(gaSettings.resellerTrackerName+'.send', 'pageview');
+
+     
+
+    //-->
+</script>
+</body>
+</html>

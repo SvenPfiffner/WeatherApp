@@ -1,0 +1,4 @@
+66.249.64.28 - - [29/Dec/2017:14:14:56 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+66.249.64.28 - - [29/Dec/2017:14:14:56 +0100] "GET /robots.txt HTTP/1.1" 200 80
+216.244.66.229 - - [29/Dec/2017:14:31:07 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.229 - - [29/Dec/2017:14:47:47 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 17863

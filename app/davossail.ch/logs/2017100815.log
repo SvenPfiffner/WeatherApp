@@ -1,0 +1,6 @@
+msnbot-157-55-39-15.search.msn.com - - [08/Oct/2017:15:03:29 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-15.search.msn.com - - [08/Oct/2017:15:03:30 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-207-46-13-63.search.msn.com - - [08/Oct/2017:15:04:27 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-45.search.msn.com - - [08/Oct/2017:15:27:27 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-40-77-167-128.search.msn.com - - [08/Oct/2017:15:27:35 +0200] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-27.googlebot.com - - [08/Oct/2017:15:56:07 +0200] "GET / HTTP/1.1" 200 6401

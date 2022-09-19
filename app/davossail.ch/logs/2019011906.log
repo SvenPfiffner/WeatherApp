@@ -1,0 +1,6 @@
+54.36.148.158 - - [19/Jan/2019:06:12:00 +0100] "GET /robots.txt HTTP/1.1" 200 80
+54.36.148.41 - - [19/Jan/2019:06:12:01 +0100] "GET /events HTTP/1.1" 200 31188
+216.244.66.248 - - [19/Jan/2019:06:15:02 +0100] "GET /gallery/displayimage.php?album=lastupby&cat=0&uid=1&pid=135&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [19/Jan/2019:06:24:03 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [19/Jan/2019:06:24:04 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.184 - - [19/Jan/2019:06:42:56 +0100] "GET /vermietung.shtml HTTP/1.1" 301 322

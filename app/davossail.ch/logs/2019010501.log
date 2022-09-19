@@ -1,0 +1,15 @@
+77.75.78.161 - - [05/Jan/2019:01:05:32 +0100] "GET /kurse HTTP/1.1" 200 32171
+77.75.78.161 - - [05/Jan/2019:01:05:32 +0100] "GET /robots.txt HTTP/1.1" 200 80
+216.244.66.248 - - [05/Jan/2019:01:30:01 +0100] "GET /gallery/displayimage.php?album=lastup&cat=-4&pos=27 HTTP/1.1" 200 222
+216.244.66.248 - - [05/Jan/2019:01:30:06 +0100] "GET /gallery/displayimage.php?album=lastup&cat=0&pos=99 HTTP/1.1" 200 222
+216.244.66.248 - - [05/Jan/2019:01:30:11 +0100] "GET /gallery/thumbnails.php?album=topn&cat=-5&page=1 HTTP/1.1" 200 220
+216.244.66.248 - - [05/Jan/2019:01:32:52 +0100] "GET /index.php?option=com_content&task=view&id=32&Itemid=82 HTTP/1.1" 302 -
+216.244.66.248 - - [05/Jan/2019:01:36:22 +0100] "GET /gallery/displayimage.php?album=3&pid=99&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [05/Jan/2019:01:36:28 +0100] "GET /gallery/displayimage.php?album=lastupby&cat=0&pos=22&uid=1 HTTP/1.1" 200 222
+216.244.66.248 - - [05/Jan/2019:01:36:32 +0100] "GET /gallery/displayimage.php?album=toprated&cat=-4&pos=23 HTTP/1.1" 200 222
+157.55.39.129 - - [05/Jan/2019:01:40:11 +0100] "GET /kurse HTTP/1.1" 301 311
+134.249.234.65 - - [05/Jan/2019:01:41:45 +0100] "GET / HTTP/1.1" 301 314
+134.249.234.65 - - [05/Jan/2019:01:41:46 +0100] "GET / HTTP/1.1" 301 314
+134.249.234.65 - - [05/Jan/2019:01:41:46 +0100] "GET / HTTP/1.1" 301 314
+216.244.66.248 - - [05/Jan/2019:01:42:57 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [05/Jan/2019:01:42:59 +0100] "GET /robots.txt HTTP/1.1" 200 120

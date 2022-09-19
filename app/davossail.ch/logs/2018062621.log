@@ -1,0 +1,14 @@
+109.102.111.87 - - [26/Jun/2018:21:03:00 +0200] "GET / HTTP/1.1" 301 314
+109.102.111.87 - - [26/Jun/2018:21:03:01 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+109.102.111.87 - - [26/Jun/2018:21:03:01 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+109.102.111.87 - - [26/Jun/2018:21:03:01 +0200] "GET /https://https://www.davossail.ch/https:/https://www.davossail.ch/https:/https:/www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 430
+66.249.66.144 - - [26/Jun/2018:21:05:59 +0200] "GET / HTTP/1.1" 301 314
+66.249.66.149 - - [26/Jun/2018:21:06:02 +0200] "GET / HTTP/1.1" 200 6715
+216.244.66.248 - - [26/Jun/2018:21:13:04 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [26/Jun/2018:21:13:06 +0200] "GET /robots.txt HTTP/1.1" 200 120
+77.75.76.166 - - [26/Jun/2018:21:31:23 +0200] "GET /robots.txt HTTP/1.1" 301 324
+77.75.76.166 - - [26/Jun/2018:21:31:23 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 301 364
+216.244.66.248 - - [26/Jun/2018:21:36:45 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [26/Jun/2018:21:36:46 +0200] "GET /robots.txt HTTP/1.1" 200 120
+35.204.85.149 - - [26/Jun/2018:21:53:43 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/bt_close.png HTTP/1.1" 301 358
+35.204.85.149 - - [26/Jun/2018:21:53:45 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/bt_close.png HTTP/1.1" 200 2150

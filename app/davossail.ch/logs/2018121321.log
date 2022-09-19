@@ -1,0 +1,15 @@
+77.75.77.62 - - [13/Dec/2018:21:06:41 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.62 - - [13/Dec/2018:21:06:42 +0100] "GET /var/m_0/0d/0dd/12455/125503-36_420er.jpg HTTP/1.1" 304 -
+95.216.96.254 - - [13/Dec/2018:21:11:42 +0100] "GET /davosersee.shtml HTTP/1.1" 301 330
+95.216.96.254 - - [13/Dec/2018:21:11:44 +0100] "GET /kurse.shtml HTTP/1.1" 301 325
+95.216.96.254 - - [13/Dec/2018:21:11:46 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 336
+95.216.96.254 - - [13/Dec/2018:21:11:49 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 343
+95.216.96.254 - - [13/Dec/2018:21:11:50 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 301 338
+95.216.96.254 - - [13/Dec/2018:21:11:52 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 301 335
+95.216.96.254 - - [13/Dec/2018:21:11:53 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 301 333
+157.55.39.48 - - [13/Dec/2018:21:12:24 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.48 - - [13/Dec/2018:21:12:25 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.82 - - [13/Dec/2018:21:19:18 +0100] "GET /pruefungskurs HTTP/1.1" 200 31837
+77.75.79.95 - - [13/Dec/2018:21:49:08 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.95 - - [13/Dec/2018:21:49:09 +0100] "GET /event-matchracing.shtml HTTP/1.1" 200 31476
+157.55.39.229 - - [13/Dec/2018:21:54:22 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31070

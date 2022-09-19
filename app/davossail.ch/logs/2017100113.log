@@ -1,0 +1,5 @@
+194.230.159.231 - - [01/Oct/2017:13:40:52 +0200] "GET / HTTP/1.1" 200 6401
+73.224.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch - - [01/Oct/2017:13:41:07 +0200] "GET /aktuelles-wetter HTTP/1.1" 200 4557
+73.224.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch - - [01/Oct/2017:13:41:09 +0200] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+73.224.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch - - [01/Oct/2017:13:41:11 +0200] "GET /templates/resellers/7/favicon.ico?v=1506858067 HTTP/1.1" 200 4286
+baiduspider-180-76-15-157.crawl.baidu.com - - [01/Oct/2017:13:58:28 +0200] "GET /js/jquery.lazyload.min.js HTTP/1.1" 200 1283

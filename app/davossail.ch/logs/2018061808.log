@@ -1,0 +1,14 @@
+157.55.39.158 - - [18/Jun/2018:08:01:06 +0200] "GET /js/functions_stripped.js?v=6.9.0.3.42946 HTTP/1.1" 200 3186
+157.55.39.158 - - [18/Jun/2018:08:01:07 +0200] "GET /js/jquery.lazyload.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 1254
+157.55.39.158 - - [18/Jun/2018:08:01:09 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+157.55.39.158 - - [18/Jun/2018:08:01:10 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+216.244.66.248 - - [18/Jun/2018:08:11:01 +0200] "GET /kinder-segelkurs HTTP/1.1" 200 19820
+157.55.39.79 - - [18/Jun/2018:08:13:52 +0200] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1519138530 HTTP/1.1" 200 1797
+66.70.231.119 - - [18/Jun/2018:08:18:20 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+66.70.231.119 - - [18/Jun/2018:08:18:20 +0200] "GET / HTTP/1.1" 301 314
+216.244.66.248 - - [18/Jun/2018:08:22:14 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Jun/2018:08:22:15 +0200] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [18/Jun/2018:08:44:54 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Jun/2018:08:44:56 +0200] "GET /robots.txt HTTP/1.1" 200 120
+207.46.13.151 - - [18/Jun/2018:08:46:00 +0200] "GET /robots.txt HTTP/1.1" 301 316
+207.46.13.151 - - [18/Jun/2018:08:46:09 +0200] "GET /robots.txt HTTP/1.1" 200 80

@@ -1,0 +1,5 @@
+path = "/storage/content/21/1101521/davossail.ch/public_html/__web/__htmls/__consent/segel-grundkurs.shtml"
+headers[Content-Type] = "text/html; charset=UTF-8"
+headers[Expires] = "Thu, 19 Nov 1981 08:52:00 GMT"
+headers[Cache-Control] = "no-store, no-cache, must-revalidate"
+headers[Pragma] = "no-cache"

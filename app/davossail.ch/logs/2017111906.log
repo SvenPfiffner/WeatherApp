@@ -1,0 +1,4 @@
+b115456.yse.yahoo.net - - [19/Nov/2017:06:16:14 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b115456.yse.yahoo.net - - [19/Nov/2017:06:16:15 +0100] "GET /vermietung HTTP/1.1" 200 5100
+ec2-54-67-67-222.us-west-1.compute.amazonaws.com - - [19/Nov/2017:06:17:55 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-255.search.msn.com - - [19/Nov/2017:06:18:30 +0100] "GET /pruefungskurs HTTP/1.1" 200 5895

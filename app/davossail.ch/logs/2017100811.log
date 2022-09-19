@@ -1,0 +1,5 @@
+crawl-118-170-187-194.qwant.com - - [08/Oct/2017:11:04:03 +0200] "GET /galerie-sktrophy-2014.shtml HTTP/1.0" 200 5044
+crawl-118-170-187-194.qwant.com - - [08/Oct/2017:11:08:24 +0200] "GET /galerie-sktrophy-2015.shtml HTTP/1.0" 200 5939
+spider.tiger.ch - - [08/Oct/2017:11:30:07 +0200] "GET /robots.txt HTTP/1.1" 200 120
+spider.tiger.ch - - [08/Oct/2017:11:30:08 +0200] "GET / HTTP/1.1" 200 35804
+spider.tiger.ch - - [08/Oct/2017:11:30:10 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 19898

@@ -1,0 +1,17 @@
+216.244.66.248 - - [25/Jan/2019:20:06:11 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [25/Jan/2019:20:06:13 +0100] "GET /robots.txt HTTP/1.1" 200 120
+194.230.155.166 - - [25/Jan/2019:20:38:21 +0100] "GET /kinder-segelkurs HTTP/1.1" 301 322
+194.230.155.166 - - [25/Jan/2019:20:38:22 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+194.230.155.166 - - [25/Jan/2019:20:38:22 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+194.230.155.166 - - [25/Jan/2019:20:38:22 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+194.230.155.166 - - [25/Jan/2019:20:38:21 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31024
+194.230.155.166 - - [25/Jan/2019:20:38:22 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314
+194.230.155.166 - - [25/Jan/2019:20:38:22 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+194.230.155.166 - - [25/Jan/2019:20:38:22 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+194.230.155.166 - - [25/Jan/2019:20:38:23 +0100] "GET /templates/creator/m_f/fa/fa7/164//assets/tab_b_bottom.png HTTP/1.1" 200 962
+194.230.155.166 - - [25/Jan/2019:20:38:23 +0100] "GET /templates/creator/m_f/fa/fa7/164//assets/tab_r_bottom.png HTTP/1.1" 200 1803
+194.230.155.166 - - [25/Jan/2019:20:38:23 +0100] "GET /templates/creator/m_f/fa/fa7/164//assets/tab_l_bottom.png HTTP/1.1" 200 1751
+194.230.155.166 - - [25/Jan/2019:20:38:23 +0100] "GET /templates/creator/m_f/fa/fa7/164//assets/bt_open.png HTTP/1.1" 200 2044
+194.230.155.166 - - [25/Jan/2019:20:38:23 +0100] "GET /templates/creator/m_f/fa/fa7/164//assets/tab_m_bottom.png HTTP/1.1" 200 1000
+216.244.66.248 - - [25/Jan/2019:20:50:39 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [25/Jan/2019:20:50:42 +0100] "GET /robots.txt HTTP/1.1" 200 120

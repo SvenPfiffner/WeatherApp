@@ -1,0 +1,9 @@
+crawl-66-249-64-1.googlebot.com - - [22/Sep/2017:22:12:43 +0200] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-1.googlebot.com - - [22/Sep/2017:22:12:49 +0200] "GET /var/m_0/0d/0dd/12455/8218280-65_Regatta.JPG HTTP/1.1" 304 -
+ec2-52-206-59-139.compute-1.amazonaws.com - - [22/Sep/2017:22:16:43 +0200] "GET /robots.txt HTTP/1.1" 200 80
+ec2-52-206-59-139.compute-1.amazonaws.com - - [22/Sep/2017:22:16:43 +0200] "GET /flotte HTTP/1.1" 200 6274
+b115490.yse.yahoo.net - - [22/Sep/2017:22:18:38 +0200] "GET /robots.txt HTTP/1.1" 200 120
+b115490.yse.yahoo.net - - [22/Sep/2017:22:18:39 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+173.252.90.231 - - [22/Sep/2017:22:29:11 +0200] "GET / HTTP/1.1" 206 6440
+173.252.90.235 - - [22/Sep/2017:22:29:17 +0200] "GET / HTTP/1.1" 206 6440
+crawl-66-249-64-31.googlebot.com - - [22/Sep/2017:22:43:59 +0200] "GET /var/m_0/0d/0dd/12455/7230972-19_Matchracing.jpg HTTP/1.1" 304 -

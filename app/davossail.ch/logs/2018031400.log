@@ -1,0 +1,5 @@
+54.196.47.56 - - [13/Mar/2018:23:47:31 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5396
+54.196.47.56 - - [14/Mar/2018:00:11:59 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5930
+216.244.66.229 - - [14/Mar/2018:00:23:47 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.229 - - [14/Mar/2018:00:45:04 +0100] "GET /gallery/addfav.php?pid=67&ref=displayimage.php%3Falbum%3Dtopn%26cat%3D-2%26pos%3D8 HTTP/1.1" 200 216
+216.244.66.229 - - [14/Mar/2018:00:51:45 +0100] "GET /robots.txt HTTP/1.1" 200 120

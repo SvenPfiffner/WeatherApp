@@ -1,0 +1,12 @@
+77.75.77.109 - - [30/Nov/2018:08:08:32 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.109 - - [30/Nov/2018:08:08:36 +0100] "GET /var/m_0/0d/0dd/12455/125489-5_Pr%C3%BCfungskurs.JPG HTTP/1.1" 304 -
+209.17.97.82 - - [30/Nov/2018:08:24:04 +0100] "GET / HTTP/1.1" 200 179296
+54.36.148.144 - - [30/Nov/2018:08:29:42 +0100] "GET /var/m_0/0d/0dd/12455/143497-G1_SKT2014_19.JPG HTTP/1.1" 200 127422
+178.194.180.32 - - [30/Nov/2018:08:46:46 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30999
+178.194.180.32 - - [30/Nov/2018:08:46:46 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [30/Nov/2018:08:46:48 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+178.194.180.32 - - [30/Nov/2018:08:46:50 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30964
+178.194.180.32 - - [30/Nov/2018:08:46:50 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+178.194.180.32 - - [30/Nov/2018:08:46:50 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [30/Nov/2018:08:46:52 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+178.194.180.32 - - [30/Nov/2018:08:46:53 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286

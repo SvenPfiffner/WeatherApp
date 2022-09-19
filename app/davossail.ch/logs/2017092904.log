@@ -1,0 +1,9 @@
+msnbot-207-46-13-157.search.msn.com - - [29/Sep/2017:04:21:20 +0200] "GET /flotte HTTP/1.1" 200 6249
+msnbot-157-55-39-36.search.msn.com - - [29/Sep/2017:04:21:40 +0200] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283
+msnbot-65-55-210-107.search.msn.com - - [29/Sep/2017:04:27:07 +0200] "GET /css/skeleton.css HTTP/1.1" 200 18022
+msnbot-65-55-210-141.search.msn.com - - [29/Sep/2017:04:27:08 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_m_bottom.png HTTP/1.1" 200 1000
+msnbot-199-30-24-171.search.msn.com - - [29/Sep/2017:04:27:08 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/bt_open.png HTTP/1.1" 200 2044
+msnbot-65-55-210-141.search.msn.com - - [29/Sep/2017:04:27:08 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_r_bottom.png HTTP/1.1" 200 1803
+216.244.66.229 - - [29/Sep/2017:04:38:00 +0200] "GET /robots.txt HTTP/1.1" 200 120
+105.189.184.35.bc.googleusercontent.com - - [29/Sep/2017:04:52:07 +0200] "GET /robots.txt HTTP/1.1" 200 80
+105.189.184.35.bc.googleusercontent.com - - [29/Sep/2017:04:53:59 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808

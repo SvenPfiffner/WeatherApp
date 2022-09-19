@@ -1,0 +1,10 @@
+54.36.149.20 - - [13/May/2018:06:18:28 +0200] "GET /var/m_0/0d/0dd/12455/7230911-G5_Matchracing_08.jpg HTTP/1.1" 200 76548
+35.226.23.240 - - [13/May/2018:06:29:38 +0200] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.81 - - [13/May/2018:06:30:55 +0200] "GET /robots.txt HTTP/1.1" 200 80
+216.244.66.229 - - [13/May/2018:06:39:40 +0200] "GET /robots.txt HTTP/1.1" 200 120
+195.141.126.4 - - [13/May/2018:06:50:28 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10855
+195.141.126.4 - - [13/May/2018:06:50:39 +0200] "GET /pruefungskurs.shtml HTTP/1.1" 200 5929
+195.141.126.4 - - [13/May/2018:06:50:49 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 5166
+195.141.126.4 - - [13/May/2018:06:50:59 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4820
+195.141.126.4 - - [13/May/2018:06:51:09 +0200] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 5098
+35.226.23.240 - - [13/May/2018:06:57:20 +0200] "GET /robots.txt HTTP/1.1" 200 80

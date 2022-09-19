@@ -1,0 +1,5 @@
+fulltextrobot-77-75-79-62.seznam.cz - - [16/Oct/2017:08:19:58 +0200] "GET /robots.txt HTTP/1.1" 200 80
+fulltextrobot-77-75-79-62.seznam.cz - - [16/Oct/2017:08:20:01 +0200] "GET /kurse HTTP/1.1" 200 6281
+b115490.yse.yahoo.net - - [16/Oct/2017:08:27:08 +0200] "GET /kurse HTTP/1.1" 200 6281
+msnbot-157-55-39-122.search.msn.com - - [16/Oct/2017:08:31:33 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-91.search.msn.com - - [16/Oct/2017:08:43:51 +0200] "GET / HTTP/1.1" 200 6440

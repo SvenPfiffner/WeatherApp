@@ -1,0 +1,17 @@
+178.137.85.122 - - [23/Jul/2018:01:02:36 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+178.137.85.122 - - [23/Jul/2018:01:02:37 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+178.137.85.122 - - [23/Jul/2018:01:02:40 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+180.76.15.136 - - [23/Jul/2018:01:02:58 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 301 327
+180.76.15.147 - - [23/Jul/2018:01:02:59 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 21713
+216.244.66.248 - - [23/Jul/2018:01:15:20 +0200] "GET /gallery/login.php?referer=displayimage.php%3Falbum%3Dlastupby%26cat%3D0%26uid%3D1%26pid%3D69%26slideshow%3D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [23/Jul/2018:01:20:48 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [23/Jul/2018:01:20:49 +0200] "GET /robots.txt HTTP/1.1" 200 120
+103.114.104.16 - - [23/Jul/2018:01:21:31 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+103.114.104.16 - - [23/Jul/2018:01:21:31 +0200] "GET / HTTP/1.1" 301 314
+103.114.104.16 - - [23/Jul/2018:01:21:31 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+46.119.124.149 - - [23/Jul/2018:01:25:47 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+46.119.124.149 - - [23/Jul/2018:01:25:43 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+46.119.124.149 - - [23/Jul/2018:01:25:45 +0200] "GET /segel-grundkurs/ HTTP/1.1" 301 322
+54.36.148.50 - - [23/Jul/2018:01:38:20 +0200] "GET /var/m_0/0d/0dd/12455/6564679-G3_SKT2015_11.jpg HTTP/1.1" 200 96997
+216.244.66.248 - - [23/Jul/2018:01:42:56 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [23/Jul/2018:01:42:57 +0200] "GET /robots.txt HTTP/1.1" 200 120

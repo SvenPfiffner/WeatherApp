@@ -1,0 +1,12 @@
+157.55.39.46 - - [07/Jan/2019:15:01:23 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.46 - - [07/Jan/2019:15:01:24 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.54 - - [07/Jan/2019:15:04:18 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.54 - - [07/Jan/2019:15:04:20 +0100] "GET /segelkurs-jollesmartkat HTTP/1.1" 200 31052
+157.55.39.41 - - [07/Jan/2019:15:04:43 +0100] "GET /robots.txt HTTP/1.1" 301 324
+157.55.39.41 - - [07/Jan/2019:15:04:44 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.54 - - [07/Jan/2019:15:09:03 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.54 - - [07/Jan/2019:15:09:06 +0100] "GET /segelkurs-jollesmartkat HTTP/1.1" 200 31052
+216.244.66.248 - - [07/Jan/2019:15:11:16 +0100] "GET /gallery/displayimage.php?album=lastupby&cat=0&uid=1&pid=88&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [07/Jan/2019:15:26:54 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [07/Jan/2019:15:26:55 +0100] "GET /robots.txt HTTP/1.1" 200 120
+40.77.167.67 - - [07/Jan/2019:15:27:18 +0100] "GET /kursanmeldung HTTP/1.1" 301 327

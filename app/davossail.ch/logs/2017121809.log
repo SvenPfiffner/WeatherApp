@@ -1,0 +1,14 @@
+216.244.66.229 - - [18/Dec/2017:09:06:06 +0100] "GET /robots.txt HTTP/1.1" 200 120
+66.249.64.30 - - [18/Dec/2017:09:24:10 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.64.28 - - [18/Dec/2017:09:24:11 +0100] "GET / HTTP/1.1" 200 6440
+66.249.64.29 - - [18/Dec/2017:09:24:17 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+216.244.66.229 - - [18/Dec/2017:09:27:49 +0100] "GET /segel-grundkurs HTTP/1.1" 200 21440
+66.249.64.28 - - [18/Dec/2017:09:52:16 +0100] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.6.7.1.40667 HTTP/1.1" 200 1020
+66.249.64.29 - - [18/Dec/2017:09:52:17 +0100] "GET /js/efu/main.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 1746
+66.249.64.30 - - [18/Dec/2017:09:52:18 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+66.249.64.30 - - [18/Dec/2017:09:52:18 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 278
+66.249.64.28 - - [18/Dec/2017:09:52:18 +0100] "GET /js/fancybox2/jquery.fancybox.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 6267
+66.249.64.30 - - [18/Dec/2017:09:52:19 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.1.40667 HTTP/1.1" 200 24507
+66.249.64.29 - - [18/Dec/2017:09:52:24 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+66.249.64.29 - - [18/Dec/2017:09:52:25 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 157
+66.249.64.28 - - [18/Dec/2017:09:52:44 +0100] "POST /wforms/captcha/index HTTP/1.1" 200 9229

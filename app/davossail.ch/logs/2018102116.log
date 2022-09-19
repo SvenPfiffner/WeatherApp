@@ -1,0 +1,11 @@
+40.77.167.41 - - [21/Oct/2018:16:19:58 +0200] "GET /event-gruppesmartkat HTTP/1.1" 301 326
+66.249.81.35 - - [21/Oct/2018:16:21:49 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+66.249.81.36 - - [21/Oct/2018:16:21:49 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 301 356
+46.229.168.152 - - [21/Oct/2018:16:23:16 +0200] "GET /smartkat-crashkurs HTTP/1.1" 200 30730
+216.244.66.248 - - [21/Oct/2018:16:27:25 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [21/Oct/2018:16:27:26 +0200] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.111 - - [21/Oct/2018:16:34:14 +0200] "GET /galerie-sktrophy-2015 HTTP/1.1" 200 31770
+66.249.66.142 - - [21/Oct/2018:16:43:17 +0200] "GET / HTTP/1.1" 301 314
+66.249.66.147 - - [21/Oct/2018:16:43:16 +0200] "GET /index.php?option=com_content&task=view&id=55&Itemid=123 HTTP/1.1" 302 -
+66.249.66.147 - - [21/Oct/2018:16:43:18 +0200] "GET / HTTP/1.1" 200 32112
+216.244.66.248 - - [21/Oct/2018:16:59:42 +0200] "GET /gallery/login.php?referer=displayimage.php%3Falbum%3Dlastupby%26cat%3D0%26uid%3D1%26pid%3D157%26slideshow%3D5000 HTTP/1.1" 200 215

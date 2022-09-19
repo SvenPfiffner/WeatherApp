@@ -1,0 +1,5 @@
+180.76.15.6 - - [13/Feb/2018:06:04:45 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+207.46.13.201 - - [13/Feb/2018:06:54:32 +0100] "GET /robots.txt HTTP/1.1" 200 80
+207.46.13.201 - - [13/Feb/2018:06:54:33 +0100] "GET /robots.txt HTTP/1.1" 200 80
+207.46.13.173 - - [13/Feb/2018:06:54:35 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+207.46.13.173 - - [13/Feb/2018:06:57:01 +0100] "GET /index.php?option=com_content&task=view&id=48&Itemid=115 HTTP/1.1" 302 -

@@ -1,0 +1,4 @@
+crawl-141-170-187-194.qwant.com - - [12/Oct/2017:01:27:48 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.0" 200 4808
+crawl-141-170-187-194.qwant.com - - [12/Oct/2017:01:27:48 +0200] "GET /robots.txt HTTP/1.0" 200 80
+baiduspider-123-125-71-48.crawl.baidu.com - - [12/Oct/2017:01:56:23 +0200] "GET /templates/resellers/7/favicon.ico?v=1498505839 HTTP/1.1" 200 4286
+crawl-141-170-187-194.qwant.com - - [12/Oct/2017:01:59:34 +0200] "GET /flotte.shtml HTTP/1.0" 200 6274

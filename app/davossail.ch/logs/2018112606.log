@@ -1,0 +1,9 @@
+180.76.15.34 - - [26/Nov/2018:06:04:35 +0100] "GET /smartkat-trophy-2018-copy.shtml HTTP/1.1" 301 345
+157.55.39.210 - - [26/Nov/2018:06:42:24 +0100] "GET /galerie-sktrophy-2015 HTTP/1.1" 301 327
+207.46.13.174 - - [26/Nov/2018:06:42:59 +0100] "GET /index.php HTTP/1.1" 301 323
+77.75.79.72 - - [26/Nov/2018:06:51:52 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.72 - - [26/Nov/2018:06:51:54 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053
+157.55.39.210 - - [26/Nov/2018:06:52:22 +0100] "GET /kursanmeldung HTTP/1.1" 301 319
+207.46.13.155 - - [26/Nov/2018:06:53:21 +0100] "GET /index.php?option=com_frontpage&Itemid=1 HTTP/1.1" 301 357
+207.46.13.174 - - [26/Nov/2018:06:56:37 +0100] "GET /var/m_0/0d/0dd/12455/8218280-65_Regatta.JPG HTTP/1.1" 301 357
+207.46.13.174 - - [26/Nov/2018:06:57:22 +0100] "GET /var/m_0/0d/0dd/12455/8218280-65_Regatta.JPG HTTP/1.1" 200 192350

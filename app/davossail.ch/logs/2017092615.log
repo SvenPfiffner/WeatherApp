@@ -1,0 +1,5 @@
+baiduspider-180-76-15-153.crawl.baidu.com - - [26/Sep/2017:15:00:13 +0200] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+msnbot-157-55-39-233.search.msn.com - - [26/Sep/2017:15:43:44 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-23.search.msn.com - - [26/Sep/2017:15:47:23 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-23.search.msn.com - - [26/Sep/2017:15:47:24 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-207-46-13-156.search.msn.com - - [26/Sep/2017:15:47:36 +0200] "GET / HTTP/1.1" 200 6440

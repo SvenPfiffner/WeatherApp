@@ -1,0 +1,12 @@
+207.46.13.195 - - [30/Oct/2018:18:03:54 +0100] "GET /kursanmeldung HTTP/1.1" 301 327
+40.77.167.58 - - [30/Oct/2018:18:08:57 +0100] "GET / HTTP/1.1" 200 32165
+40.77.189.80 - - [30/Oct/2018:18:08:59 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+40.77.189.108 - - [30/Oct/2018:18:09:00 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 3661
+40.77.189.198 - - [30/Oct/2018:18:09:01 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 4070
+40.77.189.80 - - [30/Oct/2018:18:09:02 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 163577
+40.77.189.208 - - [30/Oct/2018:18:09:02 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 1691
+40.77.167.58 - - [30/Oct/2018:18:11:23 +0100] "GET /smartkat-crashkurs HTTP/1.1" 301 332
+157.55.39.32 - - [30/Oct/2018:18:19:06 +0100] "GET /robots.txt HTTP/1.1" 301 316
+157.55.39.32 - - [30/Oct/2018:18:19:07 +0100] "GET /robots.txt HTTP/1.1" 200 80
+216.244.66.248 - - [30/Oct/2018:18:24:37 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [30/Oct/2018:18:24:38 +0100] "GET /robots.txt HTTP/1.1" 200 120

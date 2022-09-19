@@ -1,0 +1,7 @@
+66.249.81.41 - - [07/Oct/2018:12:04:06 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 301 356
+66.249.81.38 - - [07/Oct/2018:12:04:06 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+216.244.66.248 - - [07/Oct/2018:12:05:24 +0200] "GET /galerie-sktrophy-2015.shtml HTTP/1.1" 200 193611
+54.36.148.78 - - [07/Oct/2018:12:08:48 +0200] "GET /images/Wind/Temp?Windchill_Juli-Sept.pdf HTTP/1.1" 301 346
+216.244.66.248 - - [07/Oct/2018:12:25:56 +0200] "GET /gallery/addfav.php?pid=77&ref=displayimage.php%3Falbum%3Drandom%26cat%3D0%26pos%3D-77 HTTP/1.1" 200 216
+216.244.66.248 - - [07/Oct/2018:12:37:27 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [07/Oct/2018:12:37:29 +0200] "GET /robots.txt HTTP/1.1" 200 120

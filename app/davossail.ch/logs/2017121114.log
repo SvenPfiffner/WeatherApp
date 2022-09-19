@@ -1,0 +1,9 @@
+ec2-54-242-205-33.compute-1.amazonaws.com - - [11/Dec/2017:14:09:34 +0100] "GET /robots.txt HTTP/1.0" 200 80
+ec2-54-242-205-33.compute-1.amazonaws.com - - [11/Dec/2017:14:09:34 +0100] "GET /index.php HTTP/1.0" 302 -
+ec2-54-242-205-33.compute-1.amazonaws.com - - [11/Dec/2017:14:09:36 +0100] "GET / HTTP/1.0" 200 6440
+hydrogen228.a.ahrefs.com - - [11/Dec/2017:14:29:58 +0100] "GET /var/m_0/0d/0dd/12455/143494-G1_SKT2014_16.JPG HTTP/1.1" 200 110813
+b110041.yse.yahoo.net - - [11/Dec/2017:14:30:52 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b110041.yse.yahoo.net - - [11/Dec/2017:14:30:53 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 4808
+hydrogen064.a.ahrefs.com - - [11/Dec/2017:14:39:05 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+msnbot-207-46-13-139.search.msn.com - - [11/Dec/2017:14:46:37 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+msnbot-207-46-13-119.search.msn.com - - [11/Dec/2017:14:46:44 +0100] "GET /var/m_0/0d/0dd/12455/126126-43_See.JPG HTTP/1.1" 200 86511

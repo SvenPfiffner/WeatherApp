@@ -1,0 +1,14 @@
+crawl-66-249-64-30.googlebot.com - - [01/Dec/2017:09:04:07 +0100] "GET /favicon.ico HTTP/1.1" 200 1150
+crawl-66-249-64-28.googlebot.com - - [01/Dec/2017:09:04:10 +0100] "GET /templates/resellers/7/favicon.ico?v=1506103971 HTTP/1.1" 200 4286
+crawl-66-249-64-27.googlebot.com - - [01/Dec/2017:09:33:57 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-29.googlebot.com - - [01/Dec/2017:09:34:14 +0100] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-27.googlebot.com - - [01/Dec/2017:09:35:10 +0100] "GET / HTTP/1.1" 200 6401
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:35 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:35 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:35 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:36 +0100] "GET /templates/resellers/7/favicon.ico?v=1506149034 HTTP/1.1" 200 4286
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:36 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5365
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:39 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:39 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [01/Dec/2017:09:39:39 +0100] "GET /templates/resellers/7/favicon.ico?v=1509574817 HTTP/1.1" 200 4286
+88.255.121.252.static.ttnet.com.tr - - [01/Dec/2017:09:45:55 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532

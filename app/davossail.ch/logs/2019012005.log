@@ -1,0 +1,13 @@
+40.77.167.11 - - [20/Jan/2019:05:04:39 +0100] "GET /davosersee HTTP/1.1" 200 31406
+13.66.139.1 - - [20/Jan/2019:05:09:57 +0100] "GET /robots.txt HTTP/1.1" 200 80
+13.66.139.1 - - [20/Jan/2019:05:09:57 +0100] "GET /robots.txt HTTP/1.1" 200 80
+13.66.139.0 - - [20/Jan/2019:05:10:03 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 200 30717
+40.77.190.17 - - [20/Jan/2019:05:10:05 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+40.77.190.17 - - [20/Jan/2019:05:10:05 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+40.77.190.17 - - [20/Jan/2019:05:10:05 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+40.77.190.17 - - [20/Jan/2019:05:10:05 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314
+40.77.190.17 - - [20/Jan/2019:05:10:05 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+207.46.13.214 - - [20/Jan/2019:05:10:12 +0100] "GET /robots.txt HTTP/1.1" 301 324
+207.46.13.214 - - [20/Jan/2019:05:10:15 +0100] "GET /robots.txt HTTP/1.1" 200 80
+216.244.66.248 - - [20/Jan/2019:05:23:58 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [20/Jan/2019:05:24:01 +0100] "GET /robots.txt HTTP/1.1" 200 120

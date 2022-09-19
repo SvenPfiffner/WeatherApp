@@ -1,0 +1,13 @@
+157.55.39.200 - - [06/Dec/2018:21:01:15 +0100] "GET /smartkat-crashkurs HTTP/1.1" 301 332
+157.55.39.200 - - [06/Dec/2018:21:12:40 +0100] "GET /pruefungskurs HTTP/1.1" 200 31837
+157.55.39.200 - - [06/Dec/2018:21:12:49 +0100] "GET /robots.txt HTTP/1.1" 301 324
+157.55.39.200 - - [06/Dec/2018:21:12:50 +0100] "GET /robots.txt HTTP/1.1" 200 80
+40.77.167.57 - - [06/Dec/2018:21:12:55 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+40.77.167.57 - - [06/Dec/2018:21:12:55 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314
+40.77.167.142 - - [06/Dec/2018:21:12:59 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+157.55.39.200 - - [06/Dec/2018:21:13:05 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+157.55.39.200 - - [06/Dec/2018:21:13:05 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+40.77.167.57 - - [06/Dec/2018:21:32:43 +0100] "GET /davosersee HTTP/1.1" 301 316
+35.175.216.34 - - [06/Dec/2018:21:48:52 +0100] "GET / HTTP/1.1" 301 314
+35.175.216.34 - - [06/Dec/2018:21:48:53 +0100] "GET / HTTP/1.1" 200 179296
+157.55.39.200 - - [06/Dec/2018:21:52:13 +0100] "GET /optikurse-2014.shtml HTTP/1.1" 301 326

@@ -1,0 +1,4 @@
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [07/Oct/2017:15:01:41 +0200] "GET / HTTP/1.1" 200 6440
+ec2-34-240-118-82.eu-west-1.compute.amazonaws.com - - [07/Oct/2017:15:11:51 +0200] "GET /standort HTTP/1.1" 200 4717
+ec2-52-214-131-224.eu-west-1.compute.amazonaws.com - - [07/Oct/2017:15:12:51 +0200] "GET /vermietung HTTP/1.1" 200 5100
+msnbot-40-77-167-5.search.msn.com - - [07/Oct/2017:15:56:09 +0200] "GET /flotte HTTP/1.1" 200 6274

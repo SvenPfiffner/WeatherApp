@@ -1,0 +1,17 @@
+199.58.86.206 - - [18/Sep/2018:10:03:20 +0200] "GET /robots.txt HTTP/1.1" 301 324
+199.58.86.206 - - [18/Sep/2018:10:03:21 +0200] "GET /robots.txt HTTP/1.1" 200 120
+199.58.86.206 - - [18/Sep/2018:10:03:23 +0200] "GET / HTTP/1.1" 301 314
+199.58.86.206 - - [18/Sep/2018:10:03:25 +0200] "GET / HTTP/1.1" 200 179910
+216.244.66.248 - - [18/Sep/2018:10:09:03 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dtoprated%2526cat%253D-4%2526pid%253D125%2526slideshow%253D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [18/Sep/2018:10:09:09 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dtoprated%2526cat%253D0%2526pid%253D106%2526slideshow%253D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [18/Sep/2018:10:11:25 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Sep/2018:10:11:26 +0200] "GET /robots.txt HTTP/1.1" 200 120
+176.8.91.217 - - [18/Sep/2018:10:38:01 +0200] "GET / HTTP/1.1" 301 306
+176.8.91.217 - - [18/Sep/2018:10:38:01 +0200] "GET / HTTP/1.1" 301 306
+176.8.91.217 - - [18/Sep/2018:10:38:03 +0200] "GET / HTTP/1.1" 301 306
+109.102.111.67 - - [18/Sep/2018:10:50:37 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+109.102.111.67 - - [18/Sep/2018:10:50:37 +0200] "GET / HTTP/1.1" 301 314
+109.102.111.67 - - [18/Sep/2018:10:50:37 +0200] "GET /https://https://www.davossail.ch/https:/https://www.davossail.ch/https:/https:/www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 430
+109.102.111.67 - - [18/Sep/2018:10:50:37 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+216.244.66.248 - - [18/Sep/2018:10:55:02 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Sep/2018:10:55:04 +0200] "GET /robots.txt HTTP/1.1" 200 120

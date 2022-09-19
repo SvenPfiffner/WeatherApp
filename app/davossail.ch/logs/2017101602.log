@@ -1,0 +1,4 @@
+b118839.yse.yahoo.net - - [16/Oct/2017:02:11:41 +0200] "GET /vermietung HTTP/1.1" 200 5100
+b118839.yse.yahoo.net - - [16/Oct/2017:02:11:41 +0200] "GET /robots.txt HTTP/1.1" 200 120
+216-83-221-81.pool.dsl-net.ch - - [16/Oct/2017:02:26:36 +0200] "GET / HTTP/1.1" 200 6440
+216-83-221-81.pool.dsl-net.ch - - [16/Oct/2017:02:26:37 +0200] "GET /W3SVC/?cid=f2949bab-240a-46ca-a455-6f504367ba7d&securityScanNoAttack HTTP/1.1" 200 18205

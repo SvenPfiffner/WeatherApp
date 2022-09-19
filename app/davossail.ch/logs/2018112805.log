@@ -1,0 +1,4 @@
+54.36.148.250 - - [28/Nov/2018:05:03:41 +0100] "GET /segel-grundkurs HTTP/1.1" 200 31309
+54.36.148.169 - - [28/Nov/2018:05:05:55 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 30730
+207.46.13.79 - - [28/Nov/2018:05:45:43 +0100] "GET /index.php?option=com_content&task=view&id=32&Itemid=82 HTTP/1.1" 301 380
+207.46.13.82 - - [28/Nov/2018:05:58:24 +0100] "GET /events.shtml HTTP/1.1" 200 31186

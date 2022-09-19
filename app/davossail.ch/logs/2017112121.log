@@ -1,0 +1,8 @@
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:36 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:37 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5365
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:37 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:37 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:37 +0100] "GET /templates/resellers/7/favicon.ico?v=1506149034 HTTP/1.1" 200 4286
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:37 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:38 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 4297
+137.174.107.92.dynamic.wline.res.cust.swisscom.ch - - [21/Nov/2017:21:48:38 +0100] "GET /templates/resellers/7/favicon.ico?v=1509574817 HTTP/1.1" 200 4286

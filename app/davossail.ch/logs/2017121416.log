@@ -1,0 +1,7 @@
+51.255.65.52 - - [14/Dec/2017:16:08:15 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+40.77.167.41 - - [14/Dec/2017:16:12:34 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+207.46.13.52 - - [14/Dec/2017:16:15:56 +0100] "GET /segelkurs-jollesmartkat HTTP/1.1" 200 5140
+77.75.76.161 - - [14/Dec/2017:16:17:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.76.161 - - [14/Dec/2017:16:17:49 +0100] "GET /kursanmeldung HTTP/1.1" 200 10945
+77.75.78.170 - - [14/Dec/2017:16:45:54 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.78.170 - - [14/Dec/2017:16:45:55 +0100] "GET /event-matchracing HTTP/1.1" 200 5634

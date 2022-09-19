@@ -1,0 +1,17 @@
+157.55.39.132 - - [30/Jan/2019:00:09:17 +0100] "GET /pruefungskurs HTTP/1.1" 301 327
+157.55.39.134 - - [30/Jan/2019:00:12:29 +0100] "GET / HTTP/1.1" 200 32166
+157.55.39.134 - - [30/Jan/2019:00:12:33 +0100] "GET /kursanmeldung HTTP/1.1" 200 36647
+216.244.66.248 - - [30/Jan/2019:00:19:52 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [30/Jan/2019:00:19:55 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.132 - - [30/Jan/2019:00:30:21 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31011
+40.77.194.101 - - [30/Jan/2019:00:30:29 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+40.77.192.185 - - [30/Jan/2019:00:30:31 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 3661
+40.77.193.108 - - [30/Jan/2019:00:30:33 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 4070
+40.77.194.50 - - [30/Jan/2019:00:30:35 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 1691
+40.77.252.180 - - [30/Jan/2019:00:30:37 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 163577
+66.249.66.156 - - [30/Jan/2019:00:50:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.66.156 - - [30/Jan/2019:00:50:48 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 18634
+46.229.168.152 - - [30/Jan/2019:00:53:32 +0100] "GET /robots.txt HTTP/1.1" 301 324
+46.229.168.143 - - [30/Jan/2019:00:53:33 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.137 - - [30/Jan/2019:00:53:33 +0100] "GET /%C3%BCber-uns HTTP/1.1" 301 327
+46.229.168.146 - - [30/Jan/2019:00:53:35 +0100] "GET /%C3%BCber-uns HTTP/1.1" 200 30635

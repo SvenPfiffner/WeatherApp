@@ -1,0 +1,7 @@
+37.9.113.206 - - [14/Nov/2018:19:05:46 +0100] "GET /robots.txt HTTP/1.1" 200 120
+178.154.200.46 - - [14/Nov/2018:19:05:50 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 31070
+54.36.150.5 - - [14/Nov/2018:19:09:36 +0100] "GET /robots.txt HTTP/1.1" 301 324
+54.36.150.5 - - [14/Nov/2018:19:09:36 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.225 - - [14/Nov/2018:19:09:57 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 328
+66.249.70.3 - - [14/Nov/2018:19:16:54 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.70.5 - - [14/Nov/2018:19:17:00 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43352 HTTP/1.1" 200 48314

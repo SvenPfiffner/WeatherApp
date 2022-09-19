@@ -1,0 +1,4 @@
+crawl-66-249-64-30.googlebot.com - - [23/Nov/2017:15:18:33 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-30.googlebot.com - - [23/Nov/2017:15:18:33 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297
+crawl-66-249-64-28.googlebot.com - - [23/Nov/2017:15:20:17 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+crawl-66-249-64-28.googlebot.com - - [23/Nov/2017:15:20:29 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296

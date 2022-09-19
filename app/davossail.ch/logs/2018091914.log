@@ -1,0 +1,9 @@
+178.197.234.169 - - [19/Sep/2018:14:28:16 +0200] "GET /var/m_0/0d/0dd/12455/125489-5_Pr%C3%BCfungskurs.JPG HTTP/1.1" 304 -
+178.197.234.169 - - [19/Sep/2018:14:28:16 +0200] "GET /kurse HTTP/1.1" 200 32124
+178.197.234.169 - - [19/Sep/2018:14:28:16 +0200] "GET /css/skeleton.css HTTP/1.1" 200 3511
+178.197.234.169 - - [19/Sep/2018:14:28:16 +0200] "GET /var/m_0/0d/0dd/12455/8010562-7_Plauschsegeln.JPG HTTP/1.1" 304 -
+178.197.234.169 - - [19/Sep/2018:14:28:17 +0200] "GET /templates/creator/m_f/fa/fa7/164//assets/tab_b_bottom.png HTTP/1.1" 304 -
+178.197.234.169 - - [19/Sep/2018:14:28:17 +0200] "GET /templates/creator/m_f/fa/fa7/164//assets/tab_r_bottom.png HTTP/1.1" 304 -
+207.46.13.136 - - [19/Sep/2018:14:29:02 +0200] "GET /pruefungskurs HTTP/1.1" 200 31837
+216.244.66.248 - - [19/Sep/2018:14:31:10 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [19/Sep/2018:14:31:12 +0200] "GET /robots.txt HTTP/1.1" 200 120

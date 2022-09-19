@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<html  lang="de">
+<head>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:image" content="/var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg" />
+<meta property="og:title" content="Swiss Sailing League" />
+<meta name="last-modified" content="2022-09-13 08:11:55" />
+<meta name="generator" content="Swisscom HomepageTool" />
+<meta name="robots" content="noindex,nofollow" />
+<meta property="og:url" content="https://davossail.ch/ssl" />	<title>Swiss Sailing League - Davossail</title>	<link href="//templates/resellers/7/hptfav-aab32.png?v=1663360192" rel="SHORTCUT ICON" type="image/x-icon" />
+<link href="/css/extra-fonts.css?v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/css/widgets/concat_widget.min.css?v=7.3.44996.1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1617625279" media="screen" rel="stylesheet" type="text/css" id="template-grid" />
+<link href="/templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1617625279" media="screen" rel="stylesheet" type="text/css" id="template-skin" />
+<link href="https://davossail.ch/ssl" rel="canonical" />		
+
+	<style>.free-text-image .freetext-image .image_wrapper{display:block;}</style>
+            <script>
+                jQuery(window).load(function(){
+                    if(navigator.userAgent.indexOf('Safari') != -1
+                    && navigator.userAgent.indexOf('Chrome') == -1
+                    && navigator.userAgent.indexOf('Edge') == -1
+                    && $('.editing-mode').length == 0){
+                        $('img').each(function(){
+                            if($(this).height() == 0){
+                                var img = new Image();
+                                img.src = $(this).attr('src');
+                                var parent = $(this).parent();
+                                $(this).detach();
+                                parent.append(img);
+                            }
+                        });
+                    }
+                });
+            </script>
+	
+	<link type="text/css" href="/css/skeleton.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Domine:400,700' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="/templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1617625279"></script>
+<script type="text/javascript" src="/templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1617625279"></script>
+<script type="text/javascript" src="/templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1617625279"></script>
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+		//label of menu button on mobile version
+		var config = {
+			navigation: "Navigation"
+		};
+	</script>
+<style type="text/css" media="screen">
+<!--
+.skinBg { background-color: transparent; }
+.modules_td { background-color: transparent; }
+ #content { font-family: Tahoma; font-size: 1em; }
+ #content a {  font-family: Tahoma !important; font-size: 1em !important; }
+ .titles {  font-family: Tahoma; font-size: 1em; }
+ .buttons {  font-family: Tahoma; }
+
+-->
+</style></head>
+<body>
+  <!-- Panel -->
+  <div id="fixed_mobile_action">
+    <div id="toppanel" class="ios5">
+        <!-- The tab on top --> 
+      <div class="tab">
+        <ul class="mobile_action">
+          <li class="left">&nbsp;</li>
+          <li id="toggle">
+            <label id="open" class="open">Kontaktieren Sie uns</label>
+            <label id="close" style="display: none;" class="close">Fenster schließen</label>     
+          </li>
+          <li class="right">&nbsp;</li>
+        </ul> 
+      </div> <!-- / top -->
+
+      <div id="panel">
+        <div class="panel-content">
+          <div class="icon">
+            <a href="tel:+41 81 416 27 09" class="click-phone">Rufen Sie uns an!</a>
+          </div>
+          <div class="icon">
+            <a href="mailto:info@davossail.ch" class="click-mail">Senden Sie uns eine E-Mail</a>
+          </div>
+          <div class="icon">
+            <a href="https://maps.google.com/maps?q=Switzerland" class="click-map">Auf der Karte anzeigen</a>
+          </div>
+
+        </div>
+    </div> 
+
+
+      
+    </div> 
+  </div>
+  <!--panel -->
+  <div class="top">
+    <div class="sk-container skinAlign">
+      <div class="sixteen columns ">
+        <div class="logo-container four columns omega" ></div>
+        <nav class="nav twelve columns alpha">
+          <ul id="nav" class="menu_count_28 wp-menu"><li id="menu_81" class="first  lb_81 menu-item-home"><a href="//davossail.ch/" target="_self" title="Home" data-pageid="81" data-act="canvas" data-itemid="95" data-cat="0">Home</a> </li><li id="menu_28115" class=" lb_28115 menu-item-toppage"><a href="//davossail.ch/davosersee.shtml" target="_self" title="Davosersee" data-pageid="28115" data-act="canvas" data-itemid="27579" data-cat="0">Davosersee</a> </li><li id="menu_28063" class=" lb_28063 menu-item-toppage"><a href="//davossail.ch/kurse.shtml" target="_self" title="Kurse" data-pageid="28063" data-act="canvas" data-itemid="27530" data-cat="0">Kurse</a> <ul><li id="menu_28073" class="first  lb_28063_28073 menu-item-innerpage"><a href="//davossail.ch/kinder-segelkurs.shtml" target="_self" title="Kinder-Segelkurs" data-pageid="28073" data-act="canvas" data-itemid="27540" data-cat="0">Kinder-Segelkurs</a> </li><li id="menu_28074" class=" lb_28063_28074 menu-item-innerpage"><a href="//davossail.ch/segelkurs-jollesmartkat.shtml" target="_self" title="Segelkurs Jolle / Smartkat" data-pageid="28074" data-act="canvas" data-itemid="27541" data-cat="0">Segelkurs Jolle / Smartkat</a> </li><li id="menu_28087" class=" lb_28063_28087 menu-item-innerpage"><a href="//davossail.ch/smartkat-crashkurs.shtml" target="_self" title="Smartkat-Crashkurs" data-pageid="28087" data-act="canvas" data-itemid="27554" data-cat="0">Smartkat-Crashkurs</a> </li><li id="menu_28088" class=" lb_28063_28088 menu-item-innerpage"><a href="//davossail.ch/segel-grundkurs.shtml" target="_self" title="Segel-Grundkurs" data-pageid="28088" data-act="canvas" data-itemid="27555" data-cat="0">Segel-Grundkurs</a> </li><li id="menu_28064" class="last lb_28063_28064 menu-item-innerpage"><a href="//davossail.ch/pruefungskurs.shtml" target="_self" title="Prüfungskurs" data-pageid="28064" data-act="canvas" data-itemid="27531" data-cat="0">Prüfungskurs</a> </li></ul></li><li id="menu_837210" class=" lb_837210 menu-item-toppage"><a href="//davossail.ch/events.shtml" target="_self" title="Events" data-pageid="837210" data-act="canvas" data-itemid="892757" data-cat="0">Events</a> <ul><li id="menu_837212" class="first  lb_837210_837212 menu-item-innerpage"><a href="//davossail.ch/event-gruppesmartkat.shtml" target="_self" title="Gruppenevent Smartkat" data-pageid="837212" data-act="canvas" data-itemid="892759" data-cat="0">Gruppenevent Smartkat</a> </li><li id="menu_837211" class=" lb_837210_837211 menu-item-innerpage"><a href="//davossail.ch/event-matchracing.shtml" target="_self" title="Match Racing" data-pageid="837211" data-act="canvas" data-itemid="892758" data-cat="0">Match Racing</a> </li><li id="menu_837213" class="last lb_837210_837213 menu-item-innerpage"><a href="//davossail.ch/event-pedalo.shtml" target="_self" title="Pedaloevent" data-pageid="837213" data-act="canvas" data-itemid="892760" data-cat="0">Pedaloevent</a> </li></ul></li><li id="menu_28070" class=" lb_28070 menu-item-toppage"><a href="//davossail.ch/flotte.shtml" target="_self" title="Flotte" data-pageid="28070" data-act="canvas" data-itemid="27537" data-cat="0">Flotte</a> </li><li id="menu_28069" class=" lb_28069 menu-item-toppage"><a href="//davossail.ch/vermietung.shtml" target="_self" title="Vermietung" data-pageid="28069" data-act="canvas" data-itemid="27536" data-cat="0">Vermietung</a> <ul><li id="menu_979458" class="first  lb_28069_979458 menu-item-innerpage"><a href="//davossail.ch/pedalovermietung.shtml" target="_self" title="Pedalo Vermietung" data-pageid="979458" data-act="canvas" data-itemid="1031927" data-cat="0">Pedalo Vermietung</a> </li><li id="menu_979459" class=" lb_28069_979459 menu-item-innerpage"><a href="//davossail.ch/segelbootvermietung.shtml" target="_self" title="Segelboot Vermietung" data-pageid="979459" data-act="canvas" data-itemid="1031928" data-cat="0">Segelboot Vermietung</a> </li><li id="menu_1019549" class="last lb_28069_1019549 menu-item-innerpage"><a href="//davossail.ch/barrierefrei.shtml" target="_self" title="barrierefreies Pedalo" data-pageid="1019549" data-act="canvas" data-itemid="1072461" data-cat="0">barrierefreies Pedalo</a> </li></ul></li><li id="menu_29434" class="current  lb_29434 menu-item-toppage"><a href="//davossail.ch/galerie.shtml" target="_self" title="Galerie" data-pageid="29434" data-act="canvas" data-itemid="28870" data-cat="0">Galerie</a> <ul><li id="menu_959260" class="first  lb_29434_959260 menu-item-innerpage"><a href="//davossail.ch/smartkattrophy.shtml" target="_self" title="Smartkat-Trophy" data-pageid="959260" data-act="canvas" data-itemid="1011674" data-cat="0">Smartkat-Trophy</a> </li><li id="menu_934216" class="current  lb_29434_934216 menu-item-innerpage"><a href="//davossail.ch/ssl.shtml" target="_self" title="Swiss Sailing League" data-pageid="934216" data-act="canvas" data-itemid="986608" data-cat="0">Swiss Sailing League</a> </li><li id="menu_959284" class=" lb_29434_959284 menu-item-innerpage"><a href="//davossail.ch/regatten.shtml" target="_self" title="Regatten" data-pageid="959284" data-act="canvas" data-itemid="1011698" data-cat="0">Regatten</a> </li><li id="menu_837197" class=" lb_29434_837197 menu-item-innerpage"><a href="//davossail.ch/galerie-matchracing.shtml" target="_self" title="Match Racing" data-pageid="837197" data-act="canvas" data-itemid="892744" data-cat="0">Match Racing</a> </li><li id="menu_837198" class=" lb_29434_837198 menu-item-innerpage"><a href="//davossail.ch/galerie-gruppesmartkat.shtml" target="_self" title="Gruppenevent Smartkat" data-pageid="837198" data-act="canvas" data-itemid="892745" data-cat="0">Gruppenevent Smartkat</a> </li><li id="menu_34048" class="last lb_29434_34048 menu-item-innerpage"><a href="//davossail.ch/optikurse-2014.shtml" target="_self" title="Optikurse 2014" data-pageid="34048" data-act="canvas" data-itemid="33325" data-cat="0">Optikurse 2014</a> </li></ul></li><li id="menu_28116" class="last lb_28116 menu-item-toppage"><a href="//davossail.ch/über-uns.shtml" target="_self" title="Info" data-pageid="28116" data-act="canvas" data-itemid="27580" data-cat="0">Info</a> <ul><li id="menu_28122" class="first  lb_28116_28122 menu-item-innerpage"><a href="//davossail.ch/standort.shtml" target="_self" title="Kontakt / Standort" data-pageid="28122" data-act="canvas" data-itemid="27586" data-cat="0">Kontakt / Standort</a> </li><li id="menu_36921" class=" lb_28116_36921 menu-item-innerpage"><a href="//davossail.ch/kursanmeldung.shtml" target="_self" title="Kursanmeldung" data-pageid="36921" data-act="canvas" data-itemid="36136" data-cat="0">Kursanmeldung</a> </li><li id="menu_28121" class="last lb_28116_28121 menu-item-innerpage"><a href="//davossail.ch/aktuelles-wetter.shtml" target="_self" title="Webcam, Wind und Wetter" data-pageid="28121" data-act="canvas" data-itemid="27585" data-cat="0">Webcam, Wind und Wetter</a> </li></ul></li></ul> 
+        </nav>
+      </div>
+    </div>
+  </div>
+  <!-- START HEADER IMAGE -->
+  <div id="header-image">
+    <div class="headerimage">
+      <div id="header-image-wrapper-1"><img src="/var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg" id="siteMainDynHeaderImage1" style="border:0px" /></div>    </div>
+    
+  </div>
+  <!-- END HEADER IMAGE -->
+  <div class="sk-container skinAlign">
+      <div id="content" class="sixteen columns skinBg">
+      <!-- START CONTENT -->
+      <div class="content-data"> 
+      	<div id="searchResults"></div>        <div id="wp_content_data"><div class="vertical" style="width: 100%;"><div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10601739" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h2>Swiss Sailing League</h2></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10601741" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4><br></h4></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10601743" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Swiss Sailing Womens Cup 2021</h4><div>Fotos und Videos by&nbsp;Media Team Kacper and Gwidon</div><div><a data-cke-saved-href="https://www.facebook.com/swisssailingleague/videos/822645051727591" href="https://www.facebook.com/swisssailingleague/videos/822645051727591">Video Tag 1</a></div><div><a data-cke-saved-href="https://www.facebook.com/swisssailingleague/videos/216063127137861" href="https://www.facebook.com/swisssailingleague/videos/216063127137861">Video Tag 2</a></div><div><a data-cke-saved-href="https://www.facebook.com/swisssailingleague/videos/361031085571131" href="https://www.facebook.com/swisssailingleague/videos/361031085571131">Video Tag 3</a></div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_16178125" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354759-g10_SSL2021_01-c9f0f.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354759-g10_SSL2021_01-c9f0f.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "946">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354762-g10_SSL2021_02-6512b.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354762-g10_SSL2021_02-6512b.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "889">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354765-g10_SSL2021_03-c51ce.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354765-g10_SSL2021_03-c51ce.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "5580" data-height = "3214">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354768-g10_SSL2021_04-d3d94.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354768-g10_SSL2021_04-d3d94.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1057">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354771-g10_SSL2021_05-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354771-g10_SSL2021_05-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1064">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354774-g10_SSL2021_06-9bf31.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354774-g10_SSL2021_06-9bf31.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1097">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354777-g10_SSL2021_07-c51ce.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354777-g10_SSL2021_07-c51ce.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1010">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354780-g10_SSL2021_08-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354780-g10_SSL2021_08-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1029">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354783-g10_SSL2021_09-6512b.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354783-g10_SSL2021_09-6512b.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1017">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354786-g10_SSL2021_10-c51ce.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354786-g10_SSL2021_10-c51ce.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1029">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354789-g10_SSL2021_11-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354789-g10_SSL2021_11-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "965">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354792-g10_SSL2021_12-9bf31.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354792-g10_SSL2021_12-9bf31.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "899">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354795-g10_SSL2021_13-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354795-g10_SSL2021_13-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1013">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354798-g10_SSL2021_14-e4da3.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354798-g10_SSL2021_14-e4da3.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1002">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354801-g10_SSL2021_15-6512b.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354801-g10_SSL2021_15-6512b.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1047">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354804-g10_SSL2021_16-e4da3.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354804-g10_SSL2021_16-e4da3.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1052">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354807-g10_SSL2021_17-aab32.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354807-g10_SSL2021_17-aab32.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "977">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354810-g10_SSL2021_18-c9f0f.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354810-g10_SSL2021_18-c9f0f.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1067">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354813-g10_SSL2021_19-16790.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354813-g10_SSL2021_19-16790.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1022">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354816-g10_SSL2021_20-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354816-g10_SSL2021_20-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1026">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354819-g10_SSL2021_21-d3d94.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354819-g10_SSL2021_21-d3d94.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1011">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354822-g10_SSL2021_22-45c48.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354822-g10_SSL2021_22-45c48.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "989">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354825-g10_SSL2021_23-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354825-g10_SSL2021_23-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1067">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354828-g10_SSL2021_24-c51ce.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354828-g10_SSL2021_24-c51ce.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1015">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354831-g10_SSL2021_25-8f14e.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354831-g10_SSL2021_25-8f14e.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1111">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354834-g10_SSL2021_26-c20ad.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354834-g10_SSL2021_26-c20ad.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1069">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354837-g10_SSL2021_27-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354837-g10_SSL2021_27-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1059">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354840-g10_SSL2021_28-6512b.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354840-g10_SSL2021_28-6512b.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1135">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354843-g10_SSL2021_29-c20ad.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354843-g10_SSL2021_29-c20ad.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1067">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354846-g10_SSL2021_30-e4da3.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354846-g10_SSL2021_30-e4da3.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1052">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354849-g10_SSL2021_31-aab32.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354849-g10_SSL2021_31-aab32.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1055">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354852-g10_SSL2021_32-16790.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354852-g10_SSL2021_32-16790.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "996">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354855-g10_SSL2021_33-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354855-g10_SSL2021_33-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1067">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354858-g10_SSL2021_34-e4da3.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354858-g10_SSL2021_34-e4da3.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1015">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354861-g10_SSL2021_35-9bf31.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354861-g10_SSL2021_35-9bf31.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1069">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354864-g10_SSL2021_36-c9f0f.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354864-g10_SSL2021_36-c9f0f.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1111">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354867-g10_SSL2021_37-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354867-g10_SSL2021_37-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1067">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354870-g10_SSL2021_38-9bf31.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354870-g10_SSL2021_38-9bf31.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "996">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354873-g10_SSL2021_39-c9f0f.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354873-g10_SSL2021_39-c9f0f.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1067">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354876-g10_SSL2021_40-16790.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354876-g10_SSL2021_40-16790.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1089">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354879-g10_SSL2021_41-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354879-g10_SSL2021_41-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "956">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354882-g10_SSL2021_42-16790.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354882-g10_SSL2021_42-16790.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "979">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354885-g10_SSL2021_43-c9f0f.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354885-g10_SSL2021_43-c9f0f.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1049">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354888-g10_SSL2021_44-45c48.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354888-g10_SSL2021_44-45c48.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "950">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354891-g10_SSL2021_45-6512b.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354891-g10_SSL2021_45-6512b.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1066">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354894-g10_SSL2021_46-45c48.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354894-g10_SSL2021_46-45c48.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1024">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354897-g10_SSL2021_47-45c48.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354897-g10_SSL2021_47-45c48.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1070">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354900-g10_SSL2021_48-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354900-g10_SSL2021_48-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1028">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354903-g10_SSL2021_49-e4da3.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354903-g10_SSL2021_49-e4da3.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "989">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354906-g10_SSL2021_50-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354906-g10_SSL2021_50-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1055">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354909-g10_SSL2021_51-6512b.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354909-g10_SSL2021_51-6512b.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1059">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354912-g10_SSL2021_52-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354912-g10_SSL2021_52-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1135">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354915-g10_SSL2021_53-aab32.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354915-g10_SSL2021_53-aab32.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1052">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354918-g10_SSL2021_54-c51ce.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354918-g10_SSL2021_54-c51ce.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "995">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354921-g10_SSL2021_55-c51ce.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354921-g10_SSL2021_55-c51ce.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1013">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354924-g10_SSL2021_56-9bf31.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354924-g10_SSL2021_56-9bf31.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "974">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354927-g10_SSL2021_57-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354927-g10_SSL2021_57-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1008">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354930-g10_SSL2021_58-d3d94.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354930-g10_SSL2021_58-d3d94.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1008">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354933-g10_SSL2021_59-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354933-g10_SSL2021_59-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1030">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354936-g10_SSL2021_60-16790.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354936-g10_SSL2021_60-16790.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1045">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354939-g10_SSL2021_61-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354939-g10_SSL2021_61-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1060">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354942-g10_SSL2021_62-c51ce.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354942-g10_SSL2021_62-c51ce.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1008">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354945-g10_SSL2021_63-e4da3.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354945-g10_SSL2021_63-e4da3.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1058">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354948-g10_SSL2021_64-6512b.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354948-g10_SSL2021_64-6512b.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1094">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354951-g10_SSL2021_65-45c48.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354951-g10_SSL2021_65-45c48.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1009">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354954-g10_SSL2021_66-6512b.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354954-g10_SSL2021_66-6512b.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1050">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354957-g10_SSL2021_67-c20ad.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354957-g10_SSL2021_67-c20ad.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1044">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354960-g10_SSL2021_68-c9f0f.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354960-g10_SSL2021_68-c9f0f.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1026">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354963-g10_SSL2021_69-9bf31.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354963-g10_SSL2021_69-9bf31.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1017">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354966-g10_SSL2021_70-8f14e.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354966-g10_SSL2021_70-8f14e.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1600" data-height = "1094">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/11354969-g10_SSL2021_71-d3d94.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery1" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/11354969-g10_SSL2021_71-d3d94.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "5760" data-height = "3840">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-11586927" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Impressionen der Rennen 2019<br></h4></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_16178058" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892820-g7_SSL2019_01-d3d94.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892820-g7_SSL2019_01-d3d94.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892823-g7_SSL2019_02-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892823-g7_SSL2019_02-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892826-g7_SSL2019_03-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892826-g7_SSL2019_03-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892829-g7_SSL2019_04-9bf31.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892829-g7_SSL2019_04-9bf31.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892832-g7_SSL2019_05-9bf31.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892832-g7_SSL2019_05-9bf31.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892835-g7_SSL2019_06-aab32.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892835-g7_SSL2019_06-aab32.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892838-g7_SSL2019_07-45c48.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892838-g7_SSL2019_07-45c48.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892841-g7_SSL2019_08-8f14e.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892841-g7_SSL2019_08-8f14e.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892844-g7_SSL2019_09-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892844-g7_SSL2019_09-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892847-g7_SSL2019_10-9bf31.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892847-g7_SSL2019_10-9bf31.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892850-g7_SSL2019_11-16790.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892850-g7_SSL2019_11-16790.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892853-g7_SSL2019_12-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892853-g7_SSL2019_12-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892856-g7_SSL2019_13-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892856-g7_SSL2019_13-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892859-g7_SSL2019_14-45c48.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892859-g7_SSL2019_14-45c48.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892862-g7_SSL2019_15-e4da3.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892862-g7_SSL2019_15-e4da3.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892865-g7_SSL2019_16-8f14e.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892865-g7_SSL2019_16-8f14e.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892868-g7_SSL2019_17-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892868-g7_SSL2019_17-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892871-g7_SSL2019_18-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892871-g7_SSL2019_18-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892874-g7_SSL2019_19-d3d94.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892874-g7_SSL2019_19-d3d94.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892877-g7_SSL2019_20-6512b.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892877-g7_SSL2019_20-6512b.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892880-g7_SSL2019_21-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892880-g7_SSL2019_21-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892883-g7_SSL2019_22-e4da3.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892883-g7_SSL2019_22-e4da3.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892886-g7_SSL2019_23-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892886-g7_SSL2019_23-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892889-g7_SSL2019_24-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892889-g7_SSL2019_24-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892895-g7_SSL2019_25-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892895-g7_SSL2019_25-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892898-g7_SSL2019_26-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892898-g7_SSL2019_26-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892901-g7_SSL2019_27-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892901-g7_SSL2019_27-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892904-g7_SSL2019_28-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892904-g7_SSL2019_28-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892907-g7_SSL2019_29-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892907-g7_SSL2019_29-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892910-g7_SSL2019_30-6512b.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892910-g7_SSL2019_30-6512b.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892913-g7_SSL2019_31-9bf31.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892913-g7_SSL2019_31-9bf31.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892916-g7_SSL2019_32-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892916-g7_SSL2019_32-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892919-g7_SSL2019_33-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892919-g7_SSL2019_33-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892922-g7_SSL2019_34-d3d94.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892922-g7_SSL2019_34-d3d94.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892925-g7_SSL2019_35-16790.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892925-g7_SSL2019_35-16790.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892928-g7_SSL2019_36-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892928-g7_SSL2019_36-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892931-g7_SSL2019_37-e4da3.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892931-g7_SSL2019_37-e4da3.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892934-g7_SSL2019_38-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892934-g7_SSL2019_38-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892937-g7_SSL2019_39-e4da3.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892937-g7_SSL2019_39-e4da3.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892940-g7_SSL2019_40-e4da3.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892940-g7_SSL2019_40-e4da3.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892943-g7_SSL2019_41-e4da3.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892943-g7_SSL2019_41-e4da3.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892946-g7_SSL2019_42-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892946-g7_SSL2019_42-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892949-g7_SSL2019_43-c9f0f.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892949-g7_SSL2019_43-c9f0f.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892952-g7_SSL2019_44-45c48.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892952-g7_SSL2019_44-45c48.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892955-g7_SSL2019_45-45c48.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892955-g7_SSL2019_45-45c48.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892958-g7_SSL2019_46-9bf31.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892958-g7_SSL2019_46-9bf31.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892961-g7_SSL2019_47-8f14e.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892961-g7_SSL2019_47-8f14e.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892964-g7_SSL2019_48-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892964-g7_SSL2019_48-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892967-g7_SSL2019_49-16790.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892967-g7_SSL2019_49-16790.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892970-g7_SSL2019_50-8f14e.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892970-g7_SSL2019_50-8f14e.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892973-g7_SSL2019_51-d3d94.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892973-g7_SSL2019_51-d3d94.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892976-g7_SSL2019_52-aab32.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892976-g7_SSL2019_52-aab32.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892979-g7_SSL2019_53-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892979-g7_SSL2019_53-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892982-g7_SSL2019_54-d3d94.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892982-g7_SSL2019_54-d3d94.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892985-g7_SSL2019_55-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892985-g7_SSL2019_55-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892988-g7_SSL2019_56-6512b.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892988-g7_SSL2019_56-6512b.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892991-g7_SSL2019_57-c51ce.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892991-g7_SSL2019_57-c51ce.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892994-g7_SSL2019_58-d3d94.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892994-g7_SSL2019_58-d3d94.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9892997-g7_SSL2019_59-16790.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9892997-g7_SSL2019_59-16790.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9893000-g7_SSL2019_60-45c48.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9893000-g7_SSL2019_60-45c48.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9893003-g7_SSL2019_61-16790.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9893003-g7_SSL2019_61-16790.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9893006-g7_SSL2019_62-c20ad.w640.JPG" class="fancybox" rel="prefetch" data-index="gallery2" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9893006-g7_SSL2019_62-c20ad.w640.JPG" alt="" style="width:100%;" class="lazy" data-width= "1169" data-height = "774">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10925217" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Impressionen der Rennen 2018</h4><div><div><a data-cke-saved-href="https://www.youtube.com/watch?v=cc6FJFIcnSI" href="https://www.youtube.com/watch?v=cc6FJFIcnSI" target="_blank">Video 2018</a><br></div></div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_15282872" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564542-SSL2018_01.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564542-SSL2018_01.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "1032">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564545-SSL2018_02.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564545-SSL2018_02.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "917">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564548-SSL2018_03.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564548-SSL2018_03.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "917">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564551-SSL2018_04.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564551-SSL2018_04.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "917">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564554-SSL2018_05.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564554-SSL2018_05.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "1032">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564557-SSL2018_06.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564557-SSL2018_06.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "917">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564560-SSL2018_07.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564560-SSL2018_07.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "917">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564563-SSL2018_08.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564563-SSL2018_08.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "1032">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564566-SSL2018_09.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564566-SSL2018_09.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "917">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564569-SSL2018_10.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564569-SSL2018_10.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564572-SSL2018_11.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564572-SSL2018_11.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564575-SSL2018_12.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564575-SSL2018_12.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564578-SSL2018_13.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564578-SSL2018_13.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564581-SSL2018_14.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564581-SSL2018_14.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564584-SSL2018_15.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564584-SSL2018_15.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "1032">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564587-SSL2018_16.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564587-SSL2018_16.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564590-SSL2018_17.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564590-SSL2018_17.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "1032">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9564593-SSL2018_18.w640.jpg" class="fancybox" rel="prefetch" data-index="gallery3" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9564593-SSL2018_18.w640.jpg" alt="" style="width:100%;" class="lazy" data-width= "1376" data-height = "911">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element free-text diy-resizable ">
+
+		<div id="widget-id-10913922" 
+		class="widget-body " style="">
+		<div class="freetextarea">	
+	<h4>Impressionen der Rennen 2017</h4><div><a data-cke-saved-href="https://www.youtube.com/watch?v=33bozPVrZ1I" href="https://www.youtube.com/watch?v=33bozPVrZ1I" target="_blank">Video 2017</a></div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+<div class="widget-wrapper widget-element gallery-diy-lightbox diy-resizable ">
+
+		<div id="gallery_diy_widget_15265938" 
+		class="widget-body gallery_diy" style="">
+		<div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114356-g6_SSL_Davos2017_01.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114356-g6_SSL_Davos2017_01.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "635">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114359-g6_SSL_Davos2017_02.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114359-g6_SSL_Davos2017_02.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "635">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114362-g6_SSL_Davos2017_03.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114362-g6_SSL_Davos2017_03.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "687">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114365-g6_SSL_Davos2017_04.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114365-g6_SSL_Davos2017_04.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "651">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114368-g6_SSL_Davos2017_05.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114368-g6_SSL_Davos2017_05.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "569">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114371-g6_SSL_Davos2017_06.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114371-g6_SSL_Davos2017_06.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "603">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114374-g6_SSL_Davos2017_07.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114374-g6_SSL_Davos2017_07.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "663">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114377-g6_SSL_Davos2017_08.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114377-g6_SSL_Davos2017_08.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "562">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114380-g6_SSL_Davos2017_09.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114380-g6_SSL_Davos2017_09.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "699">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114383-g6_SSL_Davos2017_10.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114383-g6_SSL_Davos2017_10.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "630">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114386-g6_SSL_Davos2017_11.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114386-g6_SSL_Davos2017_11.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "642">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114389-g6_SSL_Davos2017_12.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114389-g6_SSL_Davos2017_12.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "698">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114392-g6_SSL_Davos2017_13.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114392-g6_SSL_Davos2017_13.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "635">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114395-g6_SSL_Davos2017_14.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114395-g6_SSL_Davos2017_14.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "626">
+		</a>		
+	</div>
+</div><div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114398-g6_SSL_Davos2017_15.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114398-g6_SSL_Davos2017_15.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "596">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div><div class="gallery_row" style="height: 50%; ">
+	<div class="gallery_single_image" style="width: 33.33333%;  height: 100%; overflow:hidden;">
+	<div style="margin-top: 5px;margin-left: 5px;">
+		<a href="/var/m_0/0d/0dd/12455/9114401-g6_SSL_Davos2017_16.jpg" class="fancybox" rel="prefetch" data-index="gallery4" style="height:100%;" title="">
+			<img data-original="/var/m_0/0d/0dd/12455/9114401-g6_SSL_Davos2017_16.jpg" alt="" style="width:100%;" class="lazy" data-width= "960" data-height = "566">
+		</a>		
+	</div>
+</div></div>
+<div class="clear"></div>	</div>
+</div>
+
+
+</div></div>      </div>  
+      <!-- END CONTENT -->
+    </div>
+  </div>
+    <div class="footer">
+      <div class="sk-container skinAlign">
+        <div class="mirrormenu"><ul id="mirror-menu-module"><li id="mirror_menu_td_81" class="mirror_menu"><a href="http://davossail.ch/" target="_self" title="Home" data-pageid="81" data-act="canvas" data-itemid="95" data-cat="0">Home</a></li><li id="mirror_menu_td_28115" class="mirror_menu"><a href="http://davossail.ch/davosersee.shtml" target="_self" title="Davosersee" data-pageid="28115" data-act="canvas" data-itemid="27579" data-cat="0">Davosersee</a></li><li id="mirror_menu_td_28063" class="mirror_menu"><a href="http://davossail.ch/kurse.shtml" target="_self" title="Kurse" data-pageid="28063" data-act="canvas" data-itemid="27530" data-cat="0">Kurse</a></li><li id="mirror_menu_td_837210" class="mirror_menu"><a href="http://davossail.ch/events.shtml" target="_self" title="Events" data-pageid="837210" data-act="canvas" data-itemid="892757" data-cat="0">Events</a></li><li id="mirror_menu_td_28070" class="mirror_menu"><a href="http://davossail.ch/flotte.shtml" target="_self" title="Flotte" data-pageid="28070" data-act="canvas" data-itemid="27537" data-cat="0">Flotte</a></li><li id="mirror_menu_td_28069" class="mirror_menu"><a href="http://davossail.ch/vermietung.shtml" target="_self" title="Vermietung" data-pageid="28069" data-act="canvas" data-itemid="27536" data-cat="0">Vermietung</a></li><li id="mirror_menu_td_29434" class="mirror_menu"><a href="http://davossail.ch/galerie.shtml" target="_self" title="Galerie" data-pageid="29434" data-act="canvas" data-itemid="28870" data-cat="0">Galerie</a></li><li id="mirror_menu_td_28116" class="mirror_menu"><a href="http://davossail.ch/über-uns.shtml" target="_self" title="Info" data-pageid="28116" data-act="canvas" data-itemid="27580" data-cat="0">Info</a></li></ul></div>
+        <div class="footer-text"><div id="footerContent"><div> </div>
+
+<div style="text-align:center">www.davossail.ch - info@davossail.ch - +41 (0)81 416 27 09</div>
+</div>
+<div id="mySocialList" class="addthis_toolbox addthis_32x32_style addthis_default_style"></div>
+
+        
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "LocalBusiness",
+	  "url": "http://davossail.ch",
+		 "sameAs" : [
+		 	  ]
+	}
+</script>
+
+
+</div>
+        <div class="languages">
+                  </div>
+        <div class="clearfix"></div>
+     </div>
+  </div>
+		
+	            
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "LocalBusiness",
+	"url": "https://davossail.ch",
+	"name": "Davossail",
+	"email": "info@davossail.ch",
+	"address": {
+	    "@type": "PostalAddress",
+	    "addressLocality": "",
+	    "addressRegion": "",
+	    "addressCountry":"Switzerland",
+	    "postalCode":"",
+	    "streetAddress": ""
+	                },
+	"telephone": "+41 81 416 27 09",
+	"fax": "",
+	"image": "/var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg"
+}
+</script>
+
+	
+<script type="text/javascript">
+    //<!--
+    var sid = 12455;    //-->
+</script>
+<script type="text/javascript" src="/js/bundles/front_bundle.min.js?v=7.3.44996.1"></script><script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "16178125",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_16178125 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "16178058",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_16178058 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "15282872",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_15282872 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {var settings = {galleryid: "15265938",numberOfRowsToShow: 2,numberOfColumns: 3,margin: 5,ratio: 1.5,thumbnailDisplay: "fit",langClose: "Schließen",langPrev: "Zurück",langNext: "Weiter"};	var width = $('#gallery_diy_widget_'+settings.galleryid).css("width");
+	if (!width || 0 == parseInt(width)) {
+		efu.mediator().on("dc_event",  efu.w.gallery, [settings]);
+	} else {
+		efu.w.gallery(settings);
+	}
+	$("#gallery_diy_widget_15265938 .fancybox").fancybox({
+				nextEffect : "none",
+				prevEffect : "none",
+				tpl : {
+ 					closeBtn : '<a title="'+settings['langClose']+'" class="fancybox-item fancybox-close" href="javascript:;"></a>',
+ 					next: '<a title="'+settings['langNext']+'" class="fancybox-nav fancybox-next"><span></span></a>',
+  					prev: '<a title="'+settings['langPrev']+'" class="fancybox-nav fancybox-prev"><span></span></a>'
+				}	
+	});
+	$(".image_gallery_navbar").on('click', function(){
+		$("img.lazy").lazyload();	
+});
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    jQuery(function($) {socialEntries = {"facebook":"","twitter":"","linkedin":"","linkedincompany":"","googleplus":""};
+socialEntriesTitle = {"facebook":" Auf Facebook folgen","twitter":"Auf Twitter folgen","linkedin":"Auf LinkedIn folgen","linkedincompany":"Auf LinkedIn folgen","googleplus":"Auf Google Plus folgen"};
+$.each(socialEntries, function(key, value) {
+      buildSocialEntry(key, value, socialEntriesTitle[key]);
+});
+getDependecies();
+});    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	var gaSettings = {
+	  siteOwnerTrackingCode: false,
+		resellerTrackingCode: false,
+		resellerTrackerName: 'resellerTracker',
+		siteOwnerTrackerName: 'siteOwnerTracker'
+	};	
+  
+ 
+  
+      gaSettings.resellerTrackingCode = true;
+        ga('create', 'UA-65453061-1', 'auto', {'name': gaSettings.resellerTrackerName});  
+    ga(gaSettings.resellerTrackerName+'.send', 'pageview');
+
+     
+
+    //-->
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+b118839.yse.yahoo.net - - [02/Nov/2017:17:06:09 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b118839.yse.yahoo.net - - [02/Nov/2017:17:06:10 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+b118839.yse.yahoo.net - - [02/Nov/2017:17:06:27 +0100] "GET /kurse.shtml HTTP/1.1" 200 6280
+b118839.yse.yahoo.net - - [02/Nov/2017:17:06:43 +0100] "GET /davosersee.shtml HTTP/1.1" 200 5477
+b118839.yse.yahoo.net - - [02/Nov/2017:17:06:50 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808
+b118839.yse.yahoo.net - - [02/Nov/2017:17:24:09 +0100] "GET /flotte.shtml HTTP/1.1" 200 6274
+www.whois.sc - - [02/Nov/2017:17:38:26 +0100] "GET /robots.txt HTTP/1.0" 200 120
+www.whois.sc - - [02/Nov/2017:17:38:26 +0100] "GET / HTTP/1.1" 200 6440

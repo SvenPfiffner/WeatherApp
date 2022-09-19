@@ -1,0 +1,11 @@
+{
+"weatherstations" : [
+	{
+	"weather_station_name":"Wetterstation Davosersee",
+	"location":"Davos",
+	"timestamp":"1663608677",
+	"air_temp":"9.843",
+	"water_temp":"14.375"
+	}
+]
+}

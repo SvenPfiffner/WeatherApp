@@ -1,0 +1,8 @@
+40.77.167.75 - - [26/Oct/2018:01:02:34 +0200] "GET /pruefungskurs HTTP/1.1" 301 319
+216.244.66.248 - - [26/Oct/2018:01:14:58 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [26/Oct/2018:01:14:59 +0200] "GET /robots.txt HTTP/1.1" 200 120
+17.58.99.196 - - [26/Oct/2018:01:22:27 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 301 333
+17.58.99.196 - - [26/Oct/2018:01:22:27 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 36649
+216.244.66.248 - - [26/Oct/2018:01:47:46 +0200] "GET /gallery/login.php?referer=displayimage.php%3Falbum%3Dlastup%26cat%3D0%26pid%3D86%26slideshow%3D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [26/Oct/2018:01:57:34 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [26/Oct/2018:01:57:35 +0200] "GET /robots.txt HTTP/1.1" 200 120

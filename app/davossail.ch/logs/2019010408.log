@@ -1,0 +1,16 @@
+40.77.167.6 - - [04/Jan/2019:08:05:39 +0100] "GET /kursanmeldung HTTP/1.1" 200 36639
+207.46.13.18 - - [04/Jan/2019:08:18:30 +0100] "GET /davosersee HTTP/1.1" 200 31406
+207.46.13.84 - - [04/Jan/2019:08:18:39 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 328
+207.46.13.84 - - [04/Jan/2019:08:18:39 +0100] "GET /davosersee HTTP/1.1" 301 316
+216.244.66.248 - - [04/Jan/2019:08:24:40 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [04/Jan/2019:08:24:42 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [04/Jan/2019:08:52:19 +0100] "GET /gallery/displayimage.php?album=lastup&cat=0&pid=173&slideshow=5000 HTTP/1.1" 200 222
+178.194.180.32 - - [04/Jan/2019:08:56:51 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31011
+178.194.180.32 - - [04/Jan/2019:08:56:51 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+178.194.180.32 - - [04/Jan/2019:08:56:53 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+178.194.180.32 - - [04/Jan/2019:08:56:54 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+178.194.180.32 - - [04/Jan/2019:08:56:54 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30962
+178.194.180.32 - - [04/Jan/2019:08:56:54 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+178.194.180.32 - - [04/Jan/2019:08:56:55 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+178.194.180.32 - - [04/Jan/2019:08:56:56 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+216.244.66.248 - - [04/Jan/2019:08:59:22 +0100] "GET /gallery/displayimage.php?album=toprated&cat=0&pid=151&slideshow=5000 HTTP/1.1" 200 222

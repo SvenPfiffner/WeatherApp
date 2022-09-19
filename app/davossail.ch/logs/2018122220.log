@@ -1,0 +1,15 @@
+54.38.253.233 - - [22/Dec/2018:20:01:29 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 301 325
+54.38.253.233 - - [22/Dec/2018:20:01:30 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 31837
+40.77.167.79 - - [22/Dec/2018:20:01:40 +0100] "GET /index.php?option=com_content&task=view&id=41&Itemid=99 HTTP/1.1" 301 372
+51.75.5.39 - - [22/Dec/2018:20:03:44 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 301 332
+51.75.5.39 - - [22/Dec/2018:20:03:44 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 31492
+54.38.253.233 - - [22/Dec/2018:20:03:48 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 301 325
+54.38.253.233 - - [22/Dec/2018:20:03:49 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 36640
+54.38.252.149 - - [22/Dec/2018:20:26:07 +0100] "GET / HTTP/1.1" 301 306
+54.38.252.149 - - [22/Dec/2018:20:26:07 +0100] "GET / HTTP/1.1" 200 32165
+216.244.66.248 - - [22/Dec/2018:20:49:22 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [22/Dec/2018:20:49:22 +0100] "GET /robots.txt HTTP/1.1" 301 316
+216.244.66.248 - - [22/Dec/2018:20:49:23 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [22/Dec/2018:20:49:23 +0100] "GET /robots.txt HTTP/1.1" 200 120
+51.75.5.39 - - [22/Dec/2018:20:50:12 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 328
+51.75.5.39 - - [22/Dec/2018:20:50:17 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 31070

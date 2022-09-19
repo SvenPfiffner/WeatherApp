@@ -1,0 +1,12 @@
+46.229.168.140 - - [24/Nov/2018:20:07:00 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.138 - - [24/Nov/2018:20:07:00 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 31837
+46.229.168.138 - - [24/Nov/2018:20:07:01 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 31837
+46.229.168.141 - - [24/Nov/2018:20:07:01 +0100] "GET /sitemap.xml HTTP/1.1" 200 -
+54.36.148.225 - - [24/Nov/2018:20:30:23 +0100] "GET /var/m_0/0d/0dd/12455/6564714-G3_SKT2015_42.jpg HTTP/1.1" 200 66693
+54.36.149.53 - - [24/Nov/2018:20:31:18 +0100] "GET /var/m_0/0d/0dd/12455/7230905-G5_Matchracing_02.jpg HTTP/1.1" 200 68797
+172.111.129.56 - - [24/Nov/2018:20:41:22 +0100] "GET /https://https://www.davossail.ch/https:/https://www.davossail.ch/https:/https:/www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 430
+172.111.129.56 - - [24/Nov/2018:20:41:22 +0100] "GET / HTTP/1.1" 301 314
+172.111.129.56 - - [24/Nov/2018:20:41:22 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+172.111.129.56 - - [24/Nov/2018:20:41:22 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+54.36.149.47 - - [24/Nov/2018:20:41:30 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 30726
+54.36.148.223 - - [24/Nov/2018:20:56:38 +0100] "GET /var/m_0/0d/0dd/12455/6564720-G3_SKT2015_47.jpg HTTP/1.1" 200 94941

@@ -1,0 +1,8 @@
+95-108-181-76.spider.yandex.com - - [27/Nov/2017:18:03:20 +0100] "GET /robots.txt HTTP/1.1" 200 120
+95-108-181-79.spider.yandex.com - - [27/Nov/2017:18:03:24 +0100] "GET / HTTP/1.1" 200 6440
+95-108-181-69.spider.yandex.com - - [27/Nov/2017:18:10:01 +0100] "GET / HTTP/1.1" 200 6440
+141-8-142-106.spider.yandex.com - - [27/Nov/2017:18:10:02 +0100] "GET / HTTP/1.1" 200 6440
+vpn-global-dhcp2-120.ethz.ch - - [27/Nov/2017:18:13:49 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+37-9-113-206.spider.yandex.com - - [27/Nov/2017:18:28:36 +0100] "GET /robots.txt HTTP/1.1" 200 120
+37-9-113-206.spider.yandex.com - - [27/Nov/2017:18:28:39 +0100] "GET /var/m_0/0d/0dd/12455/7230972-19_Matchracing.jpg HTTP/1.1" 200 55347
+msnbot-207-46-13-119.search.msn.com - - [27/Nov/2017:18:55:41 +0100] "GET /%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%BCber-uns HTTP/1.1" 200 4297

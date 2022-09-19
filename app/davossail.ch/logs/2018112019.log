@@ -1,0 +1,11 @@
+91.242.162.46 - - [20/Nov/2018:19:01:18 +0100] "GET /galerie.shtml HTTP/1.1" 200 30734
+91.242.162.46 - - [20/Nov/2018:19:08:42 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 301 332
+91.242.162.46 - - [20/Nov/2018:19:08:43 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 31486
+91.242.162.46 - - [20/Nov/2018:19:09:12 +0100] "GET /standort.shtml HTTP/1.1" 301 320
+91.242.162.46 - - [20/Nov/2018:19:09:13 +0100] "GET /standort.shtml HTTP/1.1" 200 31242
+40.77.167.15 - - [20/Nov/2018:19:10:10 +0100] "GET /davosersee HTTP/1.1" 301 316
+91.242.162.46 - - [20/Nov/2018:19:34:41 +0100] "GET /robots.txt HTTP/1.1" 301 324
+91.242.162.46 - - [20/Nov/2018:19:34:42 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 301 340
+91.242.162.46 - - [20/Nov/2018:19:34:42 +0100] "GET /robots.txt HTTP/1.1" 200 80
+91.242.162.46 - - [20/Nov/2018:19:34:43 +0100] "GET /robots.txt HTTP/1.1" 200 80
+91.242.162.46 - - [20/Nov/2018:19:34:43 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 31486

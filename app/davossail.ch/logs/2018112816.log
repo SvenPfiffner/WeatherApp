@@ -1,0 +1,10 @@
+178.194.180.32 - - [28/Nov/2018:16:00:52 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31011
+178.194.180.32 - - [28/Nov/2018:16:00:52 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:16:00:54 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:16:00:55 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30962
+178.194.180.32 - - [28/Nov/2018:16:00:55 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+178.194.180.32 - - [28/Nov/2018:16:00:55 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [28/Nov/2018:16:00:58 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+178.194.180.32 - - [28/Nov/2018:16:00:57 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+207.46.13.79 - - [28/Nov/2018:16:16:36 +0100] "GET /mbg.pdf HTTP/1.1" 301 313
+207.46.13.79 - - [28/Nov/2018:16:51:52 +0100] "GET /pruefungskurs HTTP/1.1" 301 319

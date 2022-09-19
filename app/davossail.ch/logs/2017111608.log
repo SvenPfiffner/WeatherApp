@@ -1,0 +1,9 @@
+crawl-139-170-187-194.qwant.com - - [16/Nov/2017:08:14:41 +0100] "GET /davosersee.shtml HTTP/1.0" 200 5477
+46.229.164.101 - - [16/Nov/2017:08:24:30 +0100] "GET /robots.txt HTTP/1.1" 200 80
+216.244.66.229 - - [16/Nov/2017:08:25:54 +0100] "GET /robots.txt HTTP/1.1" 200 120
+123.125.67.228 - - [16/Nov/2017:08:39:33 +0100] "GET /robots.txt HTTP/1.1" 200 80
+baiduspider-123-125-71-49.crawl.baidu.com - - [16/Nov/2017:08:39:51 +0100] "GET /templates/resellers/7/favicon.ico?v=1498505839 HTTP/1.1" 200 4286
+qualityassurance.siteimprove.com - - [16/Nov/2017:08:44:41 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-2.search.msn.com - - [16/Nov/2017:08:49:34 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-40-77-167-156.search.msn.com - - [16/Nov/2017:08:49:39 +0100] "GET /%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%BCber-uns HTTP/1.1" 200 4296
+216.244.66.229 - - [16/Nov/2017:08:52:42 +0100] "GET /standort.shtml HTTP/1.1" 200 17547

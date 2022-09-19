@@ -1,0 +1,4 @@
+180.76.15.11 - - [18/Feb/2018:02:16:15 +0100] "GET /js/footer/build_social_entries.min.js HTTP/1.1" 200 278
+194.187.170.147 - - [18/Feb/2018:02:24:09 +0100] "GET /segel-grundkurs.shtml HTTP/1.0" 200 5396
+148.251.182.79 - - [18/Feb/2018:02:59:41 +0100] "GET /robots.txt HTTP/1.1" 200 120
+148.251.182.79 - - [18/Feb/2018:02:59:41 +0100] "GET /index.php HTTP/1.1" 302 -

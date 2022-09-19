@@ -1,0 +1,6 @@
+A note about the files in this directory
+----------------------------------------
+
+This directory includes a number of small files installed at provisioning time.  These files are used to run control panel applications and enable php support.  Removing these files will lead to malfunctions.
+
+If you mistakenly remove any of these files, please review help files or contact support for information about how to restore them.

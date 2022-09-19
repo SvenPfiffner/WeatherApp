@@ -1,0 +1,9 @@
+40.77.167.46 - - [05/Nov/2018:18:23:21 +0100] "GET /kinder-segelkurs HTTP/1.1" 301 330
+157.55.39.26 - - [05/Nov/2018:18:27:16 +0100] "GET /robots.txt HTTP/1.1" 301 316
+157.55.39.26 - - [05/Nov/2018:18:27:17 +0100] "GET /robots.txt HTTP/1.1" 200 80
+40.77.167.46 - - [05/Nov/2018:18:27:22 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 328
+78.30.10.54 - - [05/Nov/2018:18:39:30 +0100] "GET / HTTP/1.1" 301 314
+78.30.10.54 - - [05/Nov/2018:18:39:31 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+78.30.10.54 - - [05/Nov/2018:18:39:31 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+216.244.66.248 - - [05/Nov/2018:18:55:17 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [05/Nov/2018:18:55:18 +0100] "GET /robots.txt HTTP/1.1" 200 120

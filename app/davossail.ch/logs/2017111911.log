@@ -1,0 +1,10 @@
+msnbot-157-55-39-255.search.msn.com - - [19/Nov/2017:11:03:11 +0100] "GET / HTTP/1.1" 200 6440
+x28.ch - - [19/Nov/2017:11:04:04 +0100] "GET / HTTP/1.1" 200 6440
+x28.ch - - [19/Nov/2017:11:04:04 +0100] "GET /robots.txt HTTP/1.1" 200 120
+msnbot-40-77-167-69.search.msn.com - - [19/Nov/2017:11:07:00 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-40-77-167-69.search.msn.com - - [19/Nov/2017:11:19:49 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+msnbot-40-77-167-69.search.msn.com - - [19/Nov/2017:11:19:52 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283
+msnbot-40-77-167-69.search.msn.com - - [19/Nov/2017:11:19:51 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 157
+msnbot-207-46-13-27.search.msn.com - - [19/Nov/2017:11:20:01 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+msnbot-157-55-39-255.search.msn.com - - [19/Nov/2017:11:20:57 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 662
+msnbot-40-77-167-69.search.msn.com - - [19/Nov/2017:11:25:16 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808

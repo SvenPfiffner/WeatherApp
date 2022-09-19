@@ -1,0 +1,15 @@
+157.55.39.210 - - [26/Nov/2018:07:00:59 +0100] "GET /pruefungskurs HTTP/1.1" 301 327
+207.46.13.155 - - [26/Nov/2018:07:01:03 +0100] "GET /segelkurs-jollesmartkat HTTP/1.1" 301 337
+207.46.13.174 - - [26/Nov/2018:07:01:09 +0100] "GET /galerie HTTP/1.1" 301 321
+5.196.87.35 - - [26/Nov/2018:07:03:54 +0100] "GET /var/m_0/0d/0dd/12455/6564692-G3_SKT2015_22.jpg HTTP/1.1" 301 352
+207.46.13.193 - - [26/Nov/2018:07:05:22 +0100] "GET /%C3%BCber-uns HTTP/1.1" 301 327
+207.46.13.193 - - [26/Nov/2018:07:05:22 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 336
+207.46.13.193 - - [26/Nov/2018:07:05:22 +0100] "GET /vermietung HTTP/1.1" 301 324
+77.75.79.72 - - [26/Nov/2018:07:05:37 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.72 - - [26/Nov/2018:07:05:38 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053
+46.229.168.130 - - [26/Nov/2018:07:05:42 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.131 - - [26/Nov/2018:07:05:43 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 31070
+157.55.39.210 - - [26/Nov/2018:07:10:22 +0100] "GET /kursanmeldung HTTP/1.1" 301 327
+157.55.39.210 - - [26/Nov/2018:07:32:23 +0100] "GET /index.php?option=com_content&task=view&id=34&Itemid=87 HTTP/1.1" 301 372
+207.46.13.174 - - [26/Nov/2018:07:50:59 +0100] "GET /segel-grundkurs HTTP/1.1" 200 31302
+207.46.13.174 - - [26/Nov/2018:07:58:38 +0100] "GET /index.php HTTP/1.1" 301 315

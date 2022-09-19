@@ -1,0 +1,4 @@
+46.4.58.130 - - [05/Jan/2018:15:27:07 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.4.58.130 - - [05/Jan/2018:15:27:08 +0100] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 18388
+46.4.58.130 - - [05/Jan/2018:15:27:10 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+46.4.58.130 - - [05/Jan/2018:15:27:11 +0100] "GET /standort.shtml HTTP/1.1" 200 4717

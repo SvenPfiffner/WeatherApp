@@ -1,0 +1,7 @@
+46.37.82.151 - - [14/Sep/2018:07:00:34 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+46.37.82.151 - - [14/Sep/2018:07:00:34 +0200] "GET / HTTP/1.1" 301 314
+46.37.82.151 - - [14/Sep/2018:07:00:34 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+157.55.39.71 - - [14/Sep/2018:07:02:56 +0200] "GET /flotte.shtml HTTP/1.1" 200 32162
+157.55.39.183 - - [14/Sep/2018:07:09:46 +0200] "GET /galerie-gruppesmartkat.shtml HTTP/1.1" 200 30709
+216.244.66.248 - - [14/Sep/2018:07:39:10 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [14/Sep/2018:07:39:12 +0200] "GET /robots.txt HTTP/1.1" 200 120

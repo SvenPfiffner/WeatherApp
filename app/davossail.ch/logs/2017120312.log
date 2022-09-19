@@ -1,0 +1,9 @@
+crawl-66-249-64-29.googlebot.com - - [03/Dec/2017:12:05:01 +0100] "GET /favicon.ico HTTP/1.1" 200 1150
+spider.tiger.ch - - [03/Dec/2017:12:19:21 +0100] "GET /robots.txt HTTP/1.1" 200 120
+spider.tiger.ch - - [03/Dec/2017:12:19:22 +0100] "GET / HTTP/1.1" 200 35804
+spider.tiger.ch - - [03/Dec/2017:12:19:25 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 19898
+msnbot-157-55-39-33.search.msn.com - - [03/Dec/2017:12:35:56 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-33.search.msn.com - - [03/Dec/2017:12:35:57 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-40-77-167-83.search.msn.com - - [03/Dec/2017:12:36:27 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-67.search.msn.com - - [03/Dec/2017:12:44:09 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-67.search.msn.com - - [03/Dec/2017:12:46:34 +0100] "GET / HTTP/1.1" 200 6440

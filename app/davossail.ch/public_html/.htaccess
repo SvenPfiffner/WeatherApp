@@ -1,0 +1,18 @@
+AddType text/html .html
+AddHandler server-parsed .html
+#Options Indexes FollowSymLinks Includes
+#DirectoryIndex index.shtml index.html index.php
+DirectoryIndex index.php index.shtml index.html
+
+#BEGIN HTTPS Redirection
+RewriteEngine On
+RewriteCond %{HTTP:X-Proto} !https
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
+#END HTTPS Redirection
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]

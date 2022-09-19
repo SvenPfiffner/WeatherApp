@@ -1,0 +1,5 @@
+216.244.66.229 - - [29/Sep/2017:06:13:41 +0200] "GET /robots.txt HTTP/1.1" 200 120
+188-163-72-15.broadband.kyivstar.net - - [29/Sep/2017:06:20:22 +0200] "GET / HTTP/1.1" 200 35804
+216.244.66.229 - - [29/Sep/2017:06:39:10 +0200] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 18388
+crawl-66-249-69-88.googlebot.com - - [29/Sep/2017:06:49:24 +0200] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-28.googlebot.com - - [29/Sep/2017:06:49:24 +0200] "GET /events HTTP/1.1" 200 5296

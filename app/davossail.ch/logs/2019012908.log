@@ -1,0 +1,7 @@
+216.244.66.248 - - [29/Jan/2019:08:18:41 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [29/Jan/2019:08:18:42 +0100] "GET /robots.txt HTTP/1.1" 200 120
+40.77.167.191 - - [29/Jan/2019:08:33:57 +0100] "GET /galerie-matchracing HTTP/1.1" 200 30694
+66.220.149.14 - - [29/Jan/2019:08:51:58 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 301 366
+66.220.149.10 - - [29/Jan/2019:08:51:59 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+157.55.39.227 - - [29/Jan/2019:08:57:41 +0100] "GET /index.php?option=com_frontpage&Itemid=1 HTTP/1.1" 301 357
+157.55.39.227 - - [29/Jan/2019:08:57:42 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 30739

@@ -1,0 +1,14 @@
+157.55.39.144 - - [02/Oct/2018:18:17:00 +0200] "GET /robots.txt HTTP/1.1" 301 316
+157.55.39.144 - - [02/Oct/2018:18:17:01 +0200] "GET /robots.txt HTTP/1.1" 200 80
+40.77.167.86 - - [02/Oct/2018:18:18:55 +0200] "GET /index.php?option=com_content&task=view&id=41&Itemid=99 HTTP/1.1" 301 372
+66.249.64.38 - - [02/Oct/2018:18:33:07 +0200] "GET /.well-known/assetlinks.json HTTP/1.1" 200 163113
+83.53.23.192 - - [02/Oct/2018:18:33:16 +0200] "GET /vermietung.shtml HTTP/1.1" 200 31011
+83.53.23.192 - - [02/Oct/2018:18:33:16 +0200] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 163257
+83.53.23.192 - - [02/Oct/2018:18:33:20 +0200] "GET /apple-touch-icon.png HTTP/1.1" 200 163257
+83.53.23.192 - - [02/Oct/2018:18:33:21 +0200] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+83.53.23.192 - - [02/Oct/2018:18:33:22 +0200] "GET /vermietung.shtml HTTP/1.1" 200 30962
+83.53.23.192 - - [02/Oct/2018:18:33:22 +0200] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 163257
+83.53.23.192 - - [02/Oct/2018:18:33:24 +0200] "GET /apple-touch-icon.png HTTP/1.1" 200 163257
+83.53.23.192 - - [02/Oct/2018:18:33:25 +0200] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+216.244.66.248 - - [02/Oct/2018:18:41:50 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [02/Oct/2018:18:41:51 +0200] "GET /robots.txt HTTP/1.1" 200 120

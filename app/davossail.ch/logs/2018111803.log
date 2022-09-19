@@ -1,0 +1,11 @@
+216.244.66.248 - - [18/Nov/2018:03:12:12 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Nov/2018:03:12:13 +0100] "GET /robots.txt HTTP/1.1" 200 120
+66.249.64.28 - - [18/Nov/2018:03:15:57 +0100] "GET /js/fancybox2/jquery.fancybox.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 6238
+66.249.64.29 - - [18/Nov/2018:03:15:58 +0100] "GET /js/jquery/jquery.validate.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 6581
+66.249.64.28 - - [18/Nov/2018:03:15:58 +0100] "GET /js/efu/w.formmanager.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 2173
+66.249.64.28 - - [18/Nov/2018:03:15:59 +0100] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.9.0.3.42946 HTTP/1.1" 200 998
+66.249.64.28 - - [18/Nov/2018:03:16:00 +0100] "GET /js/efu/main.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 1718
+66.249.64.29 - - [18/Nov/2018:03:16:00 +0100] "GET /js/jquery/jquery.form.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 5592
+66.249.64.28 - - [18/Nov/2018:03:16:02 +0100] "POST /wforms/captcha/index HTTP/1.1" 200 7041
+216.244.66.248 - - [18/Nov/2018:03:54:34 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [18/Nov/2018:03:54:35 +0100] "GET /robots.txt HTTP/1.1" 200 120

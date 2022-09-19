@@ -1,0 +1,11 @@
+216.244.66.248 - - [11/Jan/2019:07:02:07 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [11/Jan/2019:07:02:09 +0100] "GET /robots.txt HTTP/1.1" 200 120
+40.77.167.41 - - [11/Jan/2019:07:27:32 +0100] "GET /pruefungskurs HTTP/1.1" 301 327
+40.77.167.41 - - [11/Jan/2019:07:35:01 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31070
+40.77.167.41 - - [11/Jan/2019:07:40:29 +0100] "GET /index.php?option=com_content&task=view&id=32&Itemid=82 HTTP/1.1" 301 380
+216.244.66.248 - - [11/Jan/2019:07:45:56 +0100] "GET /gallery/displayimage.php?album=toprated&cat=0&pid=121&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [11/Jan/2019:07:48:40 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [11/Jan/2019:07:48:42 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.159 - - [11/Jan/2019:07:51:42 +0100] "GET /index.php?option=com_frontpage&Itemid=1 HTTP/1.1" 301 357
+157.55.39.36 - - [11/Jan/2019:07:55:58 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.36 - - [11/Jan/2019:07:55:59 +0100] "GET /robots.txt HTTP/1.1" 200 80

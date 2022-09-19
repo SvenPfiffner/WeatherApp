@@ -1,0 +1,14 @@
+216.244.66.248 - - [27/Sep/2018:04:12:09 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Sep/2018:04:12:10 +0200] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.14 - - [27/Sep/2018:04:20:39 +0200] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.14 - - [27/Sep/2018:04:20:39 +0200] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.245 - - [27/Sep/2018:04:20:43 +0200] "GET /index.php?option=com_content&task=view&id=29&Itemid=78 HTTP/1.1" 302 -
+216.244.65.3 - - [27/Sep/2018:04:29:42 +0200] "GET /wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php HTTP/1.1" 301 385
+216.244.65.3 - - [27/Sep/2018:04:29:46 +0200] "GET /wp-content/themes/RightNow/includes/uploadify/upload_settings_image.php HTTP/1.1" 200 163257
+207.46.13.251 - - [27/Sep/2018:04:41:11 +0200] "GET /kurse HTTP/1.1" 301 319
+157.55.39.245 - - [27/Sep/2018:04:49:50 +0200] "GET /flotte.shtml HTTP/1.1" 200 32162
+178.137.166.158 - - [27/Sep/2018:04:53:36 +0200] "GET / HTTP/1.1" 301 306
+178.137.166.158 - - [27/Sep/2018:04:53:37 +0200] "GET / HTTP/1.1" 301 306
+207.46.13.186 - - [27/Sep/2018:04:53:45 +0200] "GET /davosersee HTTP/1.1" 200 31406
+216.244.66.248 - - [27/Sep/2018:04:54:53 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Sep/2018:04:54:54 +0200] "GET /robots.txt HTTP/1.1" 200 120

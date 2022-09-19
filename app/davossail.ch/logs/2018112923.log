@@ -1,0 +1,8 @@
+180.76.15.10 - - [29/Nov/2018:23:02:36 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js HTTP/1.1" 301 362
+66.249.69.214 - - [29/Nov/2018:23:02:38 +0100] "GET /robots.txt HTTP/1.1" 301 324
+66.249.69.218 - - [29/Nov/2018:23:02:39 +0100] "GET /segel-grundkurs HTTP/1.1" 301 329
+66.249.69.199 - - [29/Nov/2018:23:02:39 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.69.194 - - [29/Nov/2018:23:02:40 +0100] "GET /segel-grundkurs HTTP/1.1" 200 31309
+157.55.39.2 - - [29/Nov/2018:23:34:54 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.2 - - [29/Nov/2018:23:35:05 +0100] "GET /robots.txt HTTP/1.1" 200 80
+207.46.13.81 - - [29/Nov/2018:23:35:11 +0100] "GET /event-pedalo.shtml HTTP/1.1" 200 31191

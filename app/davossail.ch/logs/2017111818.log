@@ -1,0 +1,7 @@
+17-142-156-178.applebot.apple.com - - [18/Nov/2017:18:13:23 +0100] "GET /robots.txt HTTP/1.1" 200 80
+17-142-156-178.applebot.apple.com - - [18/Nov/2017:18:13:24 +0100] "GET /event-pedalo.shtml HTTP/1.1" 200 5342
+b115340.yse.yahoo.net - - [18/Nov/2017:18:33:03 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b115340.yse.yahoo.net - - [18/Nov/2017:18:33:03 +0100] "GET /kurse.shtml HTTP/1.1" 200 6280
+17-142-156-178.applebot.apple.com - - [18/Nov/2017:18:45:38 +0100] "GET /robots.txt HTTP/1.1" 200 80
+17-142-156-178.applebot.apple.com - - [18/Nov/2017:18:45:38 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+b115340.yse.yahoo.net - - [18/Nov/2017:18:58:46 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 5139

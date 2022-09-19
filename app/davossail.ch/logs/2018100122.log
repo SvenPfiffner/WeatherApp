@@ -1,0 +1,16 @@
+216.244.66.248 - - [01/Oct/2018:22:00:51 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [01/Oct/2018:22:00:53 +0200] "GET /robots.txt HTTP/1.1" 200 120
+207.46.13.233 - - [01/Oct/2018:22:12:06 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 328
+207.46.13.233 - - [01/Oct/2018:22:19:48 +0200] "GET /pruefungskurs HTTP/1.1" 200 31837
+207.46.13.233 - - [01/Oct/2018:22:21:07 +0200] "GET /standort HTTP/1.1" 301 314
+216.244.66.248 - - [01/Oct/2018:22:34:41 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Dlogin.php%253Freferer%253Ddisplayimage.php%25253Falbum%25253Dtopn%252526cat%25253D0%252526pos%25253D43 HTTP/1.1" 200 215
+216.244.66.248 - - [01/Oct/2018:22:34:47 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Dlogin.php%253Freferer%253Ddisplayimage.php%25253Falbum%25253Dtopn%252526cat%25253D0%252526pos%25253D85 HTTP/1.1" 200 215
+216.244.66.248 - - [01/Oct/2018:22:44:02 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [01/Oct/2018:22:44:03 +0200] "GET /robots.txt HTTP/1.1" 200 120
+34.231.186.187 - - [01/Oct/2018:22:44:28 +0200] "GET /ads.txt HTTP/1.1" 301 313
+34.231.186.187 - - [01/Oct/2018:22:44:29 +0200] "GET /ads.txt HTTP/1.1" 200 163113
+34.231.186.187 - - [01/Oct/2018:22:44:31 +0200] "GET /ads.txt HTTP/1.1" 301 321
+34.231.186.187 - - [01/Oct/2018:22:44:31 +0200] "GET /ads.txt HTTP/1.1" 200 163257
+207.46.13.233 - - [01/Oct/2018:22:48:57 +0200] "GET /event-pedalo.shtml HTTP/1.1" 200 31182
+220.181.108.78 - - [01/Oct/2018:22:53:31 +0200] "GET /templates/resellers/7/favicon.ico?v=1487621283 HTTP/1.1" 301 360
+220.181.108.117 - - [01/Oct/2018:22:53:32 +0200] "GET /templates/resellers/7/favicon.ico?v=1487621283 HTTP/1.1" 200 4286

@@ -1,0 +1,10 @@
+179.43.158.22 - - [14/Oct/2018:20:07:32 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+179.43.158.22 - - [14/Oct/2018:20:07:32 +0200] "GET / HTTP/1.1" 301 314
+179.43.158.22 - - [14/Oct/2018:20:07:32 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+79.143.189.212 - - [14/Oct/2018:20:08:31 +0200] "GET / HTTP/1.1" 301 306
+79.143.189.212 - - [14/Oct/2018:20:08:32 +0200] "GET / HTTP/1.1" 200 179296
+216.244.66.248 - - [14/Oct/2018:20:31:47 +0200] "GET /gallery/login.php?referer=displayimage.php%3Falbum%3Dtopn%26cat%3D0%26pid%3D95%26slideshow%3D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [14/Oct/2018:20:36:43 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [14/Oct/2018:20:36:44 +0200] "GET /robots.txt HTTP/1.1" 200 120
+54.36.149.65 - - [14/Oct/2018:20:47:53 +0200] "GET /var/m_0/0d/0dd/12455/6564698-G3_SKT2015_27.jpg HTTP/1.1" 301 352
+207.46.13.10 - - [14/Oct/2018:20:58:17 +0200] "GET /galerie-sktrophy-2015 HTTP/1.1" 301 327

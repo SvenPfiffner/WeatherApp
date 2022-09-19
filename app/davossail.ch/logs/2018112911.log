@@ -1,0 +1,14 @@
+139.81.253.60 - - [29/Nov/2018:11:14:49 +0100] "GET / HTTP/1.1" 301 306
+139.81.253.60 - - [29/Nov/2018:11:14:50 +0100] "GET / HTTP/1.1" 200 32167
+92.105.9.35 - - [29/Nov/2018:11:19:16 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 301 335
+92.105.9.35 - - [29/Nov/2018:11:19:16 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31303
+92.105.9.35 - - [29/Nov/2018:11:19:17 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+92.105.9.35 - - [29/Nov/2018:11:19:20 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094580 HTTP/1.1" 200 4286
+92.105.9.35 - - [29/Nov/2018:11:19:18 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+92.105.9.35 - - [29/Nov/2018:11:19:20 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31256
+92.105.9.35 - - [29/Nov/2018:11:19:20 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 301 335
+92.105.9.35 - - [29/Nov/2018:11:19:20 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+92.105.9.35 - - [29/Nov/2018:11:19:22 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+92.105.9.35 - - [29/Nov/2018:11:19:23 +0100] "GET /templates/resellers/7/favicon.ico?v=1538489338 HTTP/1.1" 200 4286
+207.46.13.80 - - [29/Nov/2018:11:34:36 +0100] "GET /vermietung HTTP/1.1" 301 316
+207.46.13.81 - - [29/Nov/2018:11:53:44 +0100] "GET /event-pedalo.shtml HTTP/1.1" 200 31191

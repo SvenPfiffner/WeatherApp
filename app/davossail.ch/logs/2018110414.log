@@ -1,0 +1,12 @@
+157.55.39.99 - - [04/Nov/2018:14:12:07 +0100] "GET /pruefungskurs HTTP/1.1" 200 31837
+216.244.66.248 - - [04/Nov/2018:14:28:16 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [04/Nov/2018:14:28:17 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.99 - - [04/Nov/2018:14:28:47 +0100] "GET / HTTP/1.1" 200 32165
+157.55.39.252 - - [04/Nov/2018:14:50:22 +0100] "GET /segel-grundkurs HTTP/1.1" 200 31302
+40.77.188.251 - - [04/Nov/2018:14:50:23 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+40.77.188.10 - - [04/Nov/2018:14:50:24 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 3661
+40.77.188.238 - - [04/Nov/2018:14:50:25 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 1691
+40.77.188.238 - - [04/Nov/2018:14:50:25 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 4070
+157.55.39.99 - - [04/Nov/2018:14:50:26 +0100] "GET /robots.txt HTTP/1.1" 301 316
+40.77.189.60 - - [04/Nov/2018:14:50:26 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 163577
+157.55.39.99 - - [04/Nov/2018:14:50:28 +0100] "GET /robots.txt HTTP/1.1" 200 80

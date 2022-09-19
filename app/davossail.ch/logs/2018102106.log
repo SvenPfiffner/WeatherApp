@@ -1,0 +1,12 @@
+216.244.66.248 - - [21/Oct/2018:06:22:23 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [21/Oct/2018:06:22:25 +0200] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.153 - - [21/Oct/2018:06:28:35 +0200] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.153 - - [21/Oct/2018:06:28:37 +0200] "GET /galerie-sktrophy-2014 HTTP/1.1" 200 30874
+46.229.168.130 - - [21/Oct/2018:06:29:15 +0200] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 335
+46.229.168.151 - - [21/Oct/2018:06:29:17 +0200] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053
+157.55.39.196 - - [21/Oct/2018:06:29:30 +0200] "GET /kursanmeldung HTTP/1.1" 200 36639
+180.76.15.30 - - [21/Oct/2018:06:33:36 +0200] "GET /davosersee.shtml HTTP/1.1" 301 330
+180.76.15.148 - - [21/Oct/2018:06:33:37 +0200] "GET /davosersee.shtml HTTP/1.1" 200 164189
+31.13.127.7 - - [21/Oct/2018:06:51:30 +0200] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 301 366
+31.13.127.11 - - [21/Oct/2018:06:51:30 +0200] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+157.55.39.196 - - [21/Oct/2018:06:55:24 +0200] "GET / HTTP/1.1" 200 32165

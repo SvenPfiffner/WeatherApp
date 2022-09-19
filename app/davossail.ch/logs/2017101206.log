@@ -1,0 +1,12 @@
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:10 +0200] "GET / HTTP/1.1" 200 6440
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:10 +0200] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:10 +0200] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 157
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:10 +0200] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:10 +0200] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 278
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /css/skeleton.css HTTP/1.1" 200 3511
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 2085
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 662
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /js/functions_stripped.js?v=6.6.7.2.41064 HTTP/1.1" 200 3186
+ec2-52-33-160-211.us-west-2.compute.amazonaws.com - - [12/Oct/2017:06:13:11 +0200] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283

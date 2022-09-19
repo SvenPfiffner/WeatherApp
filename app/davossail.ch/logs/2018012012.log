@@ -1,0 +1,5 @@
+35.226.23.240 - - [20/Jan/2018:12:18:26 +0100] "GET /robots.txt HTTP/1.1" 200 80
+35.226.23.240 - - [20/Jan/2018:12:56:29 +0100] "GET /robots.txt HTTP/1.1" 200 80
+35.226.23.240 - - [20/Jan/2018:12:57:49 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 278
+35.226.23.240 - - [20/Jan/2018:12:58:10 +0100] "GET /robots.txt HTTP/1.1" 200 80
+35.226.23.240 - - [20/Jan/2018:12:58:42 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808

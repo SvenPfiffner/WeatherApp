@@ -1,0 +1,3 @@
+msnbot-207-46-13-86.search.msn.com - - [18/Nov/2017:05:32:37 +0100] "GET /index.php?option=com_content&task=view&id=73&Itemid=157 HTTP/1.1" 302 -
+65.132.59.34 - - [18/Nov/2017:05:52:42 +0100] "GET /robots.txt HTTP/1.1" 200 120
+65.132.59.34 - - [18/Nov/2017:05:52:42 +0100] "GET / HTTP/1.1" 200 35804

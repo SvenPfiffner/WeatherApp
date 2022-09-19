@@ -1,0 +1,10 @@
+66.249.70.5 - - [02/Dec/2018:05:23:04 +0100] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.9.0.3.42946 HTTP/1.1" 200 998
+66.249.70.7 - - [02/Dec/2018:05:23:04 +0100] "GET /js/galleryLightbox/gallery-paging.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 1079
+66.249.70.3 - - [02/Dec/2018:05:23:05 +0100] "GET /js/fancybox2/jquery.fancybox.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 6238
+66.249.70.7 - - [02/Dec/2018:05:23:05 +0100] "GET /js/efu/main.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 1718
+66.249.70.3 - - [02/Dec/2018:05:23:05 +0100] "GET /js/efu/w.gallery.min.js?v=6.9.0.3.42946 HTTP/1.1" 200 155
+66.249.70.3 - - [02/Dec/2018:05:24:50 +0100] "GET / HTTP/1.1" 200 32166
+77.75.78.164 - - [02/Dec/2018:05:56:59 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.78.164 - - [02/Dec/2018:05:57:00 +0100] "GET /smartkat-crashkurs HTTP/1.1" 200 30730
+77.75.78.164 - - [02/Dec/2018:05:57:01 +0100] "GET /robots.txt HTTP/1.1" 301 324
+77.75.78.164 - - [02/Dec/2018:05:57:02 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 301 340

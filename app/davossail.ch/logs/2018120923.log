@@ -1,0 +1,17 @@
+207.241.229.147 - - [09/Dec/2018:23:07:58 +0100] "GET /fonts/FontName.ttf HTTP/1.0" 200 164962
+46.229.168.141 - - [09/Dec/2018:23:24:12 +0100] "GET /robots.txt HTTP/1.1" 301 316
+46.229.168.149 - - [09/Dec/2018:23:24:12 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.139 - - [09/Dec/2018:23:24:15 +0100] "GET /%C3%BCber-uns.shtml HTTP/1.1" 301 325
+46.229.168.133 - - [09/Dec/2018:23:24:16 +0100] "GET /sitemap.xml HTTP/1.1" 200 -
+46.229.168.141 - - [09/Dec/2018:23:24:18 +0100] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 30628
+77.75.79.17 - - [09/Dec/2018:23:25:03 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.17 - - [09/Dec/2018:23:25:04 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31294
+77.75.79.17 - - [09/Dec/2018:23:25:05 +0100] "GET /robots.txt HTTP/1.1" 301 316
+77.75.79.17 - - [09/Dec/2018:23:25:05 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 301 325
+77.75.79.17 - - [09/Dec/2018:23:33:06 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.17 - - [09/Dec/2018:23:33:06 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31294
+77.75.79.17 - - [09/Dec/2018:23:33:07 +0100] "GET /robots.txt HTTP/1.1" 301 316
+77.75.79.17 - - [09/Dec/2018:23:33:07 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 301 325
+207.241.229.212 - - [09/Dec/2018:23:33:44 +0100] "GET /fonts/FontName.woff HTTP/1.0" 200 164962
+180.76.15.157 - - [09/Dec/2018:23:58:58 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js HTTP/1.1" 301 362
+180.76.15.154 - - [09/Dec/2018:23:58:59 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js HTTP/1.1" 304 -

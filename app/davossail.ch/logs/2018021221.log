@@ -1,0 +1,15 @@
+54.234.90.191 - - [12/Feb/2018:21:01:06 +0100] "GET /vermietung.shtml HTTP/1.0" 200 5099
+54.234.90.191 - - [12/Feb/2018:21:01:06 +0100] "GET /robots.txt HTTP/1.0" 200 80
+66.249.65.137 - - [12/Feb/2018:21:50:31 +0100] "GET /favicon.ico HTTP/1.1" 200 1150
+54.36.149.89 - - [12/Feb/2018:21:52:03 +0100] "GET / HTTP/1.1" 200 6440
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 2085
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 662
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 157
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /js/functions_stripped.js?v=6.6.7.2.41064 HTTP/1.1" 200 3186
+163.172.64.192 - - [12/Feb/2018:21:52:04 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 278

@@ -1,0 +1,7 @@
+157.55.39.38 - - [04/Nov/2018:02:02:47 +0100] "GET /robots.txt HTTP/1.1" 301 324
+157.55.39.38 - - [04/Nov/2018:02:02:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
+40.77.167.46 - - [04/Nov/2018:02:02:50 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 336
+40.77.167.46 - - [04/Nov/2018:02:16:48 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 328
+216.244.66.248 - - [04/Nov/2018:02:25:33 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [04/Nov/2018:02:25:34 +0100] "GET /robots.txt HTTP/1.1" 200 120
+40.77.167.181 - - [04/Nov/2018:02:40:36 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053

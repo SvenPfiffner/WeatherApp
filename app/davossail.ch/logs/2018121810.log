@@ -1,0 +1,4 @@
+188.165.89.105 - - [18/Dec/2018:10:47:47 +0100] "GET / HTTP/1.1" 301 314
+188.165.89.105 - - [18/Dec/2018:10:47:47 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+188.165.89.105 - - [18/Dec/2018:10:47:47 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+40.77.167.46 - - [18/Dec/2018:10:59:32 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 336

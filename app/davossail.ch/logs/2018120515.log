@@ -1,0 +1,6 @@
+95.20.9.37 - - [05/Dec/2018:15:21:13 +0100] "GET / HTTP/1.1" 301 314
+95.20.9.37 - - [05/Dec/2018:15:21:14 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+95.20.9.37 - - [05/Dec/2018:15:21:14 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+54.36.148.97 - - [05/Dec/2018:15:36:10 +0100] "GET /events HTTP/1.1" 301 312
+88.99.240.172 - - [05/Dec/2018:15:39:20 +0100] "GET /robots.txt HTTP/1.1" 301 324
+88.99.240.172 - - [05/Dec/2018:15:39:20 +0100] "GET /kurse.shtml HTTP/1.1" 301 325

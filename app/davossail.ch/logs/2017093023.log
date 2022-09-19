@@ -1,0 +1,4 @@
+google-proxy-66-249-93-71.google.com - - [30/Sep/2017:23:04:49 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+87-250-224-36.spider.yandex.com - - [30/Sep/2017:23:28:59 +0200] "GET /robots.txt HTTP/1.1" 200 120
+87-250-224-36.spider.yandex.com - - [30/Sep/2017:23:29:03 +0200] "GET / HTTP/1.1" 200 6440
+baiduspider-180-76-15-144.crawl.baidu.com - - [30/Sep/2017:23:30:13 +0200] "GET /galerie-sktrophy-2014.shtml HTTP/1.1" 200 5044

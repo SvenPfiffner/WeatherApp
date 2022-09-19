@@ -1,0 +1,4 @@
+x28.ch - - [06/Dec/2017:00:26:27 +0100] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [06/Dec/2017:00:26:28 +0100] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-28.googlebot.com - - [06/Dec/2017:00:57:23 +0100] "GET / HTTP/1.1" 200 6401
+crawl-66-249-64-28.googlebot.com - - [06/Dec/2017:00:57:39 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511

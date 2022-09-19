@@ -1,0 +1,5 @@
+msnbot-157-55-39-183.search.msn.com - - [02/Dec/2017:13:39:44 +0100] "GET /index.php?option=com_content&task=view&id=35&Itemid=88 HTTP/1.1" 200 107
+msnbot-207-46-13-67.search.msn.com - - [02/Dec/2017:13:40:50 +0100] "GET / HTTP/1.1" 200 6440
+fulltextrobot-77-75-77-119.seznam.cz - - [02/Dec/2017:13:47:12 +0100] "GET /robots.txt HTTP/1.1" 200 80
+fulltextrobot-77-75-77-119.seznam.cz - - [02/Dec/2017:13:47:14 +0100] "GET /standort.shtml HTTP/1.1" 200 4717
+msnbot-207-46-13-126.search.msn.com - - [02/Dec/2017:13:59:13 +0100] "GET / HTTP/1.1" 200 6440

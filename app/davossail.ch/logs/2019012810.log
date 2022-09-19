@@ -1,0 +1,8 @@
+13.66.139.1 - - [28/Jan/2019:10:05:19 +0100] "GET /robots.txt HTTP/1.1" 200 80
+13.66.139.1 - - [28/Jan/2019:10:05:20 +0100] "GET /robots.txt HTTP/1.1" 200 80
+13.66.139.0 - - [28/Jan/2019:10:05:25 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31070
+66.249.66.149 - - [28/Jan/2019:10:32:49 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+66.249.66.147 - - [28/Jan/2019:10:32:49 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+66.249.66.149 - - [28/Jan/2019:10:32:49 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+66.249.66.151 - - [28/Jan/2019:10:32:50 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+66.249.66.151 - - [28/Jan/2019:10:32:50 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314

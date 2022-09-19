@@ -1,0 +1,7 @@
+17-142-156-178.applebot.apple.com - - [20/Nov/2017:12:00:23 +0100] "GET /robots.txt HTTP/1.1" 200 80
+17-142-156-178.applebot.apple.com - - [20/Nov/2017:12:00:24 +0100] "GET /davosersee.shtml HTTP/1.1" 200 5477
+crawl-66-249-64-28.googlebot.com - - [20/Nov/2017:12:11:33 +0100] "GET /templates/resellers/7/favicon.ico?v=1471787590 HTTP/1.1" 304 -
+msnbot-207-46-13-86.search.msn.com - - [20/Nov/2017:12:14:10 +0100] "GET /flotte.shtml HTTP/1.1" 200 6249
+ec2-54-208-102-37.compute-1.amazonaws.com - - [20/Nov/2017:12:57:11 +0100] "GET / HTTP/1.1" 200 6440
+ec2-54-208-102-37.compute-1.amazonaws.com - - [20/Nov/2017:12:57:12 +0100] "GET /templates/resellers/7/favicon.ico?v=1506103971 HTTP/1.1" 200 4286
+msnbot-157-55-39-217.search.msn.com - - [20/Nov/2017:12:57:37 +0100] "GET / HTTP/1.1" 200 6440

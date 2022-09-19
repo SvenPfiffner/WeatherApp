@@ -1,0 +1,7 @@
+crawl-66-249-64-28.googlebot.com - - [09/Nov/2017:12:02:14 +0100] "GET /templates/resellers/7/favicon.ico?v=1503466260 HTTP/1.1" 304 -
+crawl-66-249-64-27.googlebot.com - - [09/Nov/2017:12:13:12 +0100] "GET /index.php?option=com_joomap&Itemid=100 HTTP/1.1" 302 -
+crawl-66-249-64-28.googlebot.com - - [09/Nov/2017:12:13:14 +0100] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-28.googlebot.com - - [09/Nov/2017:12:13:17 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+195.141.126.4 - - [09/Nov/2017:12:23:07 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+msnbot-157-55-39-76.search.msn.com - - [09/Nov/2017:12:38:29 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+msnbot-40-77-167-41.search.msn.com - - [09/Nov/2017:12:52:52 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099

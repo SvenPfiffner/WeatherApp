@@ -1,0 +1,14 @@
+msnbot-157-55-39-204.search.msn.com - - [03/Nov/2017:04:09:23 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+msnbot-131-253-27-34.search.msn.com - - [03/Nov/2017:04:27:34 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 138686
+msnbot-131-253-27-34.search.msn.com - - [03/Nov/2017:04:27:34 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 7582
+msnbot-131-253-25-215.search.msn.com - - [03/Nov/2017:04:27:35 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 2787
+msnbot-131-253-27-113.search.msn.com - - [03/Nov/2017:04:27:36 +0100] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 149
+msnbot-131-253-27-81.search.msn.com - - [03/Nov/2017:04:27:36 +0100] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 766
+msnbot-131-253-25-149.search.msn.com - - [03/Nov/2017:04:27:37 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+msnbot-131-253-27-98.search.msn.com - - [03/Nov/2017:04:27:38 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 3661
+msnbot-131-253-25-247.search.msn.com - - [03/Nov/2017:04:27:39 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 1691
+msnbot-131-253-25-247.search.msn.com - - [03/Nov/2017:04:27:39 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 4070
+msnbot-131-253-25-247.search.msn.com - - [03/Nov/2017:04:27:39 +0100] "GET /js/functions_stripped.js?v=6.6.7.2.41064 HTTP/1.1" 200 7672
+msnbot-131-253-27-81.search.msn.com - - [03/Nov/2017:04:27:40 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 3342
+msnbot-157-55-39-28.search.msn.com - - [03/Nov/2017:04:55:19 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-204.search.msn.com - - [03/Nov/2017:04:55:20 +0100] "GET /var/m_0/0d/0dd/12455/125494-14_Vermietung.JPG HTTP/1.1" 200 95115

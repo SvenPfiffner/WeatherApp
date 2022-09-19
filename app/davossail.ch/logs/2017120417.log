@@ -1,0 +1,7 @@
+crawl-66-249-64-29.googlebot.com - - [04/Dec/2017:17:00:22 +0100] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.6.7.1.40667 HTTP/1.1" 200 1020
+crawl-66-249-64-28.googlebot.com - - [04/Dec/2017:17:00:22 +0100] "GET /js/efu/w.gallery.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 181
+crawl-66-249-64-28.googlebot.com - - [04/Dec/2017:17:00:23 +0100] "GET /js/fancybox2/jquery.fancybox.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 6267
+crawl-66-249-64-29.googlebot.com - - [04/Dec/2017:17:00:23 +0100] "GET /js/efu/main.min.js?v=6.6.7.1.40667 HTTP/1.1" 200 1746
+crawl-66-249-64-28.googlebot.com - - [04/Dec/2017:17:00:24 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.1.40667 HTTP/1.1" 200 24507
+107.150.37.100 - - [04/Dec/2017:17:37:54 +0100] "GET /robots.txt HTTP/1.1" 200 80
+107.150.37.100 - - [04/Dec/2017:17:38:07 +0100] "GET / HTTP/1.1" 200 6440

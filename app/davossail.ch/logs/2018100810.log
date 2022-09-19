@@ -1,0 +1,17 @@
+66.249.70.7 - - [08/Oct/2018:10:05:28 +0200] "GET /robots.txt HTTP/1.1" 200 80
+66.249.70.5 - - [08/Oct/2018:10:05:30 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 36607
+66.249.70.5 - - [08/Oct/2018:10:06:08 +0200] "GET /css/skeleton.css HTTP/1.1" 200 3511
+66.249.70.5 - - [08/Oct/2018:10:06:11 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+216.244.66.248 - - [08/Oct/2018:10:15:31 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [08/Oct/2018:10:15:32 +0200] "GET /robots.txt HTTP/1.1" 200 120
+54.36.149.81 - - [08/Oct/2018:10:16:57 +0200] "GET /var/m_0/0d/0dd/12455/6564691-G3_SKT2015_21.jpg HTTP/1.1" 301 352
+88.12.176.47 - - [08/Oct/2018:10:20:43 +0200] "GET /vermietung.shtml HTTP/1.1" 200 31011
+88.12.176.47 - - [08/Oct/2018:10:20:43 +0200] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 163257
+88.12.176.47 - - [08/Oct/2018:10:20:46 +0200] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+88.12.176.47 - - [08/Oct/2018:10:20:46 +0200] "GET /vermietung.shtml HTTP/1.1" 200 30962
+88.12.176.47 - - [08/Oct/2018:10:20:44 +0200] "GET /apple-touch-icon.png HTTP/1.1" 200 163257
+88.12.176.47 - - [08/Oct/2018:10:20:46 +0200] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 163257
+88.12.176.47 - - [08/Oct/2018:10:20:49 +0200] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+88.12.176.47 - - [08/Oct/2018:10:20:48 +0200] "GET /apple-touch-icon.png HTTP/1.1" 200 163257
+216.244.66.248 - - [08/Oct/2018:10:59:05 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [08/Oct/2018:10:59:07 +0200] "GET /robots.txt HTTP/1.1" 200 120

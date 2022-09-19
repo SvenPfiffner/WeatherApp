@@ -1,0 +1,6 @@
+207.46.13.215 - - [19/Dec/2018:09:24:27 +0100] "GET /segel-grundkurs HTTP/1.1" 301 329
+39.104.130.172 - - [19/Dec/2018:09:35:25 +0100] "GET /wordpress/wp-admin/ HTTP/1.1" 301 333
+39.104.130.172 - - [19/Dec/2018:09:35:27 +0100] "GET /wordpress/wp-admin/ HTTP/1.1" 200 18907
+78.30.11.6 - - [19/Dec/2018:09:45:35 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+78.30.11.6 - - [19/Dec/2018:09:45:35 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+78.30.11.6 - - [19/Dec/2018:09:45:35 +0100] "GET / HTTP/1.1" 301 314

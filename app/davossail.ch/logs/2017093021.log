@@ -1,0 +1,10 @@
+77-58-236-87.dclient.hispeed.ch - - [30/Sep/2017:21:27:12 +0200] "GET /var/m_0/0d/0dd/12455/6564603-SK_Tro_Head.jpg HTTP/1.1" 200 136780
+77-58-236-87.dclient.hispeed.ch - - [30/Sep/2017:21:27:52 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+msnbot-157-55-39-36.search.msn.com - - [30/Sep/2017:21:38:16 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-40-77-167-20.search.msn.com - - [30/Sep/2017:21:49:59 +0200] "GET / HTTP/1.1" 200 6440
+x28.ch - - [30/Sep/2017:21:56:24 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+x28.ch - - [30/Sep/2017:21:56:24 +0200] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [30/Sep/2017:21:57:16 +0200] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [30/Sep/2017:21:57:16 +0200] "GET /events.shtml HTTP/1.1" 200 5297
+x28.ch - - [30/Sep/2017:21:58:08 +0200] "GET /events.shtml HTTP/1.1" 200 5297
+x28.ch - - [30/Sep/2017:21:59:49 +0200] "GET /event-matchracing.shtml HTTP/1.1" 200 5634

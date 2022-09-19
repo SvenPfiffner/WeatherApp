@@ -1,0 +1,5 @@
+msnbot-157-55-39-94.search.msn.com - - [08/Dec/2017:13:07:44 +0100] "GET /davosersee.shtml HTTP/1.1" 200 5477
+95-108-181-76.spider.yandex.com - - [08/Dec/2017:13:47:37 +0100] "GET /robots.txt HTTP/1.1" 200 120
+95-108-181-76.spider.yandex.com - - [08/Dec/2017:13:47:41 +0100] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 4575
+crawl-66-249-64-29.googlebot.com - - [08/Dec/2017:13:57:51 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-29.googlebot.com - - [08/Dec/2017:13:57:52 +0100] "GET / HTTP/1.1" 200 6401

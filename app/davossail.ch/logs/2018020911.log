@@ -1,0 +1,6 @@
+37.115.184.155 - - [09/Feb/2018:11:36:16 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+37.115.184.155 - - [09/Feb/2018:11:36:18 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+66.249.66.84 - - [09/Feb/2018:11:54:39 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+66.249.66.84 - - [09/Feb/2018:11:54:39 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.66.83 - - [09/Feb/2018:11:54:40 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297
+66.249.66.83 - - [09/Feb/2018:11:55:38 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296

@@ -1,0 +1,4 @@
+baiduspider-180-76-15-24.crawl.baidu.com - - [25/Sep/2017:16:38:05 +0200] "GET /robots.txt HTTP/1.1" 200 80
+baiduspider-180-76-15-138.crawl.baidu.com - - [25/Sep/2017:16:39:35 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808
+crawl-66-249-64-8.googlebot.com - - [25/Sep/2017:16:50:01 +0200] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-13.googlebot.com - - [25/Sep/2017:16:50:02 +0200] "GET /var/m_0/0d/0dd/12455/125495-15_Event.JPG HTTP/1.1" 304 -

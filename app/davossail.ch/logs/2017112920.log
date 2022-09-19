@@ -1,0 +1,5 @@
+x28.ch - - [29/Nov/2017:20:57:20 +0100] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [29/Nov/2017:20:57:20 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+x28.ch - - [29/Nov/2017:20:58:13 +0100] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [29/Nov/2017:20:58:13 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+x28.ch - - [29/Nov/2017:20:59:49 +0100] "GET /event-matchracing.shtml HTTP/1.1" 200 5634

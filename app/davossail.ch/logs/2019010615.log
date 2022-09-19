@@ -1,0 +1,13 @@
+40.77.167.96 - - [06/Jan/2019:15:00:15 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 31837
+216.244.66.248 - - [06/Jan/2019:15:09:22 +0100] "GET /gallery/displayimage.php?album=toprated&cat=-4&pos=33 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:15:16:34 +0100] "GET /gallery/displayimage.php?album=lastup&cat=-3&pid=108&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:15:16:39 +0100] "GET /gallery/displayimage.php?album=topn&cat=-4&pid=118&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:15:16:44 +0100] "GET /gallery/displayimage.php?album=topn&cat=0&pid=133&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:15:16:50 +0100] "GET /gallery/displayimage.php?album=topn&cat=0&pid=87&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:15:16:55 +0100] "GET /gallery/displayimage.php?album=topn&cat=0&pid=91&slideshow=5000 HTTP/1.1" 200 222
+40.77.167.0 - - [06/Jan/2019:15:21:26 +0100] "GET / HTTP/1.1" 200 32165
+216.244.66.248 - - [06/Jan/2019:15:26:40 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [06/Jan/2019:15:26:42 +0100] "GET /robots.txt HTTP/1.1" 200 120
+207.46.13.19 - - [06/Jan/2019:15:40:49 +0100] "GET / HTTP/1.1" 301 314
+40.77.167.138 - - [06/Jan/2019:15:41:42 +0100] "GET /vermietung HTTP/1.1" 301 324
+54.36.148.128 - - [06/Jan/2019:15:44:09 +0100] "GET /kurse.shtml HTTP/1.1" 200 32175

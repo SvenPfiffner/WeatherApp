@@ -1,0 +1,8 @@
+217.160.62.237 - - [19/Nov/2018:12:09:00 +0100] "GET /wp/wp-admin/setup-config.php?step=1 HTTP/1.1" 301 349
+217.160.62.237 - - [19/Nov/2018:12:09:00 +0100] "GET /wp/wp-admin/setup-config.php?step=1 HTTP/1.1" 200 165106
+217.160.62.237 - - [19/Nov/2018:12:09:01 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1 HTTP/1.1" 301 356
+217.160.62.237 - - [19/Nov/2018:12:09:01 +0100] "GET /wordpress/wp-admin/setup-config.php?step=1 HTTP/1.1" 200 165106
+54.36.148.196 - - [19/Nov/2018:12:14:58 +0100] "GET /var/m_0/0d/0dd/12455/6564702-G3_SKT2015_31.jpg HTTP/1.1" 301 360
+180.76.15.32 - - [19/Nov/2018:12:22:26 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 343
+180.76.15.25 - - [19/Nov/2018:12:22:27 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 164311
+54.36.149.90 - - [19/Nov/2018:12:37:43 +0100] "GET / HTTP/1.1" 200 32167

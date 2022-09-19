@@ -1,0 +1,12 @@
+46.229.168.67 - - [07/May/2018:21:00:06 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 4760
+46.229.168.67 - - [07/May/2018:21:00:34 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 5166
+46.229.168.72 - - [07/May/2018:21:00:57 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4820
+216.244.66.229 - - [07/May/2018:21:04:58 +0200] "GET /robots.txt HTTP/1.1" 200 120
+62.138.0.25 - - [07/May/2018:21:19:58 +0200] "GET /event-pedalo.shtml HTTP/1.1" 200 5359
+216.244.66.229 - - [07/May/2018:21:29:41 +0200] "GET /robots.txt HTTP/1.1" 200 120
+35.226.23.240 - - [07/May/2018:21:36:59 +0200] "GET /robots.txt HTTP/1.1" 200 80
+62.138.0.25 - - [07/May/2018:21:42:02 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10855
+216.244.66.229 - - [07/May/2018:21:48:49 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Dlogin.php%253Freferer%253Ddisplayimage.php%25253Falbum%25253Dtoprated%252526cat%25253D-3%252526pid%25253D83%252526slideshow%25253D5000 HTTP/1.1" 200 215
+66.249.81.36 - - [07/May/2018:21:48:59 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+37.115.185.9 - - [07/May/2018:21:50:52 +0200] "GET / HTTP/1.1" 200 34604
+216.244.66.229 - - [07/May/2018:21:54:07 +0200] "GET /robots.txt HTTP/1.1" 200 120

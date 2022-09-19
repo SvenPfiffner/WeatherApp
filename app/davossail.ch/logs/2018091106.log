@@ -1,0 +1,9 @@
+77.75.77.72 - - [11/Sep/2018:06:09:17 +0200] "GET /robots.txt HTTP/1.1" 200 80
+77.75.77.72 - - [11/Sep/2018:06:09:18 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31301
+77.75.77.72 - - [11/Sep/2018:06:09:19 +0200] "GET /robots.txt HTTP/1.1" 301 316
+77.75.77.72 - - [11/Sep/2018:06:09:19 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 30641
+77.75.77.72 - - [11/Sep/2018:06:09:20 +0200] "GET /%C3%BCber-uns HTTP/1.1" 301 319
+216.244.66.248 - - [11/Sep/2018:06:17:30 +0200] "GET /gallery/addfav.php?pid=150&ref=displayimage.php%3Falbum%3Dtoprated%26cat%3D0%26pos%3D63 HTTP/1.1" 200 216
+216.244.66.248 - - [11/Sep/2018:06:40:12 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [11/Sep/2018:06:40:13 +0200] "GET /robots.txt HTTP/1.1" 200 120
+207.46.13.32 - - [11/Sep/2018:06:52:24 +0200] "GET /galerie.shtml HTTP/1.1" 200 30729

@@ -1,0 +1,10 @@
+216.244.66.248 - - [04/Nov/2018:09:31:15 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [04/Nov/2018:09:31:16 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.252 - - [04/Nov/2018:09:38:01 +0100] "GET /galerie HTTP/1.1" 301 313
+172.111.129.48 - - [04/Nov/2018:09:47:39 +0100] "GET / HTTP/1.1" 301 314
+172.111.129.48 - - [04/Nov/2018:09:47:39 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+172.111.129.48 - - [04/Nov/2018:09:47:39 +0100] "GET /https://https://www.davossail.ch/https:/https://www.davossail.ch/https:/https:/www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 430
+172.111.129.48 - - [04/Nov/2018:09:47:39 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+178.137.165.225 - - [04/Nov/2018:09:50:37 +0100] "GET / HTTP/1.1" 301 306
+178.137.165.225 - - [04/Nov/2018:09:50:38 +0100] "GET / HTTP/1.1" 301 306
+216.244.66.248 - - [04/Nov/2018:09:59:58 +0100] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dlastup%2526cat%253D0%2526pos%253D16 HTTP/1.1" 200 215

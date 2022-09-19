@@ -1,0 +1,10 @@
+msnbot-157-55-39-65.search.msn.com - - [02/Dec/2017:15:03:40 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+crawl-66-249-64-30.googlebot.com - - [02/Dec/2017:15:37:10 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-30.googlebot.com - - [02/Dec/2017:15:37:11 +0100] "GET /var/m_0/0d/0dd/12455/125493-13_Kurse.JPG HTTP/1.1" 304 -
+c-93-184-20-214.customer.ggaweb.ch - - [02/Dec/2017:15:42:45 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+c-93-184-20-214.customer.ggaweb.ch - - [02/Dec/2017:15:43:41 +0100] "GET /var/m_0/0d/0dd/12455/8254793-J70_Davos.w1024.jpg HTTP/1.1" 200 191999
+c-93-184-20-214.customer.ggaweb.ch - - [02/Dec/2017:15:43:53 +0100] "GET /var/m_0/0d/0dd/12455/8218280-65_Regatta.JPG HTTP/1.1" 200 192350
+c-93-184-20-214.customer.ggaweb.ch - - [02/Dec/2017:15:43:56 +0100] "GET /var/m_0/0d/0dd/12455/125488-4_Grundkurs.JPG HTTP/1.1" 200 77496
+c-93-184-20-214.customer.ggaweb.ch - - [02/Dec/2017:15:44:03 +0100] "GET /var/m_0/0d/0dd/12455/125487-3_SKCrashkurs.JPG HTTP/1.1" 200 80503
+c-93-184-20-214.customer.ggaweb.ch - - [02/Dec/2017:15:44:03 +0100] "GET /var/m_0/0d/0dd/12455/125486-2_Sportkurs.JPG HTTP/1.1" 200 69000
+crawl-66-249-64-29.googlebot.com - - [02/Dec/2017:15:56:18 +0100] "GET /var/m_0/0d/0dd/12455/8288159-EWD_rgb_pos.jpg HTTP/1.1" 304 -

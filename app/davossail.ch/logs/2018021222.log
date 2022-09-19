@@ -1,0 +1,10 @@
+46.211.13.134 - - [12/Feb/2018:22:04:36 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+46.211.13.134 - - [12/Feb/2018:22:04:37 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+46.211.13.134 - - [12/Feb/2018:22:04:38 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+8.21.198.106 - - [12/Feb/2018:22:44:10 +0100] "GET /optikurse-2014 HTTP/1.1" 200 4938
+8.21.198.106 - - [12/Feb/2018:22:44:10 +0100] "GET /robots.txt HTTP/1.1" 200 80
+8.21.198.106 - - [12/Feb/2018:22:44:24 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 5172
+66.249.65.154 - - [12/Feb/2018:22:56:15 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.65.157 - - [12/Feb/2018:22:56:16 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297
+66.249.65.154 - - [12/Feb/2018:22:56:17 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+66.249.65.154 - - [12/Feb/2018:22:56:36 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296

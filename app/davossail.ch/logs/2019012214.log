@@ -1,0 +1,8 @@
+46.229.168.144 - - [22/Jan/2019:14:15:45 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.130 - - [22/Jan/2019:14:15:45 +0100] "GET /galerie-gruppesmartkat.shtml HTTP/1.1" 200 30706
+216.244.66.248 - - [22/Jan/2019:14:22:18 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [22/Jan/2019:14:22:20 +0100] "GET /robots.txt HTTP/1.1" 200 120
+191.101.31.94 - - [22/Jan/2019:14:36:59 +0100] "GET / HTTP/1.1" 301 314
+191.101.31.94 - - [22/Jan/2019:14:36:59 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+191.101.31.94 - - [22/Jan/2019:14:36:59 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+40.77.167.50 - - [22/Jan/2019:14:49:40 +0100] "GET /index.php?option=com_content&task=view&id=33&Itemid=85 HTTP/1.1" 301 380

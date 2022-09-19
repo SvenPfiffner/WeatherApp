@@ -1,0 +1,4 @@
+fetcher11.p.mail.ru - - [16/Nov/2017:22:30:09 +0100] "GET /robots.txt HTTP/1.1" 200 80
+fetcher11-3.p.mail.ru - - [16/Nov/2017:22:30:10 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099
+msnbot-40-77-167-69.search.msn.com - - [16/Nov/2017:22:33:42 +0100] "GET /galerie-gruppesmartkat.shtml HTTP/1.1" 200 4863
+69.171.225.19 - - [16/Nov/2017:22:45:58 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532

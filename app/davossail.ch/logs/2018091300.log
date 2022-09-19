@@ -1,0 +1,17 @@
+195.141.126.4 - - [13/Sep/2018:00:03:14 +0200] "GET /pruefungskurs.shtml HTTP/1.1" 200 31836
+195.141.126.4 - - [13/Sep/2018:00:03:25 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31301
+195.141.126.4 - - [13/Sep/2018:00:04:24 +0200] "GET /flotte.shtml HTTP/1.1" 200 32162
+195.141.126.4 - - [13/Sep/2018:00:04:35 +0200] "GET /davosersee.shtml HTTP/1.1" 200 31406
+195.141.126.4 - - [13/Sep/2018:00:04:45 +0200] "GET /event-pedalo.shtml HTTP/1.1" 200 31189
+195.141.126.4 - - [13/Sep/2018:00:04:55 +0200] "GET /event-matchracing.shtml HTTP/1.1" 200 31469
+195.141.126.4 - - [13/Sep/2018:00:05:05 +0200] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 31484
+216.244.66.248 - - [13/Sep/2018:00:16:41 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [13/Sep/2018:00:16:42 +0200] "GET /robots.txt HTTP/1.1" 200 120
+194.63.141.238 - - [13/Sep/2018:00:26:45 +0200] "GET / HTTP/1.1" 301 306
+46.229.168.78 - - [13/Sep/2018:00:45:35 +0200] "GET /robots.txt HTTP/1.1" 301 324
+46.229.168.85 - - [13/Sep/2018:00:45:56 +0200] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.79 - - [13/Sep/2018:00:46:06 +0200] "GET /index.php?bid=15&option=com_banners&task=click HTTP/1.1" 301 368
+46.229.168.72 - - [13/Sep/2018:00:46:31 +0200] "GET /index.php?bid=15&option=com_banners&task=click HTTP/1.1" 302 -
+46.229.168.75 - - [13/Sep/2018:00:46:57 +0200] "GET / HTTP/1.1" 301 314
+195.141.126.4 - - [13/Sep/2018:00:47:10 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 36639
+46.229.168.80 - - [13/Sep/2018:00:47:34 +0200] "GET / HTTP/1.1" 200 32319

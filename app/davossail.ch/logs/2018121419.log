@@ -1,0 +1,4 @@
+157.55.39.224 - - [14/Dec/2018:19:27:39 +0100] "GET /events.shtml HTTP/1.1" 200 31186
+157.55.39.95 - - [14/Dec/2018:19:32:55 +0100] "GET /vermietung.shtml HTTP/1.1" 301 322
+157.55.39.95 - - [14/Dec/2018:19:32:57 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 200 30710
+157.55.39.95 - - [14/Dec/2018:19:40:44 +0100] "GET /index.php?option=com_content&task=view&id=57&Itemid=133 HTTP/1.1" 301 381

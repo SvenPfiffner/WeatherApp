@@ -1,0 +1,4 @@
+msnbot-207-46-13-31.search.msn.com - - [09/Dec/2017:08:03:54 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-170.search.msn.com - - [09/Dec/2017:08:10:15 +0100] "GET /var/m_0/0d/0dd/12455/125489-5_Pr%C3%BCfungskurs.JPG HTTP/1.1" 200 53669
+msnbot-207-46-13-170.search.msn.com - - [09/Dec/2017:08:16:20 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-31.search.msn.com - - [09/Dec/2017:08:56:18 +0100] "GET /var/m_0/0d/0dd/12455/125493-13_Kurse.JPG HTTP/1.1" 200 70517

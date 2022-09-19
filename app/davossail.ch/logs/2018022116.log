@@ -1,0 +1,10 @@
+37.115.112.228 - - [21/Feb/2018:16:01:06 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19694
+37.115.112.228 - - [21/Feb/2018:16:01:07 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19694
+37.115.112.228 - - [21/Feb/2018:16:01:08 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19694
+79.232.106.215 - - [21/Feb/2018:16:20:30 +0100] "GET /var/m_0/0d/0dd/12455/126126-43_See.JPG HTTP/1.1" 200 86511
+54.36.149.29 - - [21/Feb/2018:16:39:28 +0100] "GET /var/m_0/0d/0dd/12455/6564670-G3_SKT2015_04.jpg HTTP/1.1" 200 209464
+66.249.66.142 - - [21/Feb/2018:16:42:34 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.1.38889 HTTP/1.1" 200 23051
+66.249.66.146 - - [21/Feb/2018:16:42:34 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+66.249.66.144 - - [21/Feb/2018:16:42:36 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+94.130.13.119 - - [21/Feb/2018:16:44:33 +0100] "GET /robots.txt HTTP/1.1" 200 120
+94.130.13.119 - - [21/Feb/2018:16:44:33 +0100] "GET /kurse.shtml HTTP/1.1" 200 30914

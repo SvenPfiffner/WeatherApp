@@ -1,0 +1,9 @@
+crawl-104-170-187-194.qwant.com - - [09/Nov/2017:09:02:10 +0100] "GET /kurse.shtml HTTP/1.0" 200 6280
+msnbot-40-77-167-138.search.msn.com - - [09/Nov/2017:09:05:20 +0100] "GET /var/m_0/0d/0dd/12455/125503-36_420er.jpg HTTP/1.1" 200 61172
+29-148-221-81.pool.dsl-net.ch - - [09/Nov/2017:09:07:11 +0100] "GET / HTTP/1.1" 200 6440
+29-148-221-81.pool.dsl-net.ch - - [09/Nov/2017:09:07:12 +0100] "GET /W3SVC/?cid=f2949bab-240a-46ca-a455-6f504367ba7d&securityScanNoAttack HTTP/1.1" 200 18069
+crawl-66-249-64-30.googlebot.com - - [09/Nov/2017:09:11:25 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+crawl-66-249-64-29.googlebot.com - - [09/Nov/2017:09:11:25 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/main.min.css?v=1483633820 HTTP/1.1" 200 1797
+crawl-66-249-64-30.googlebot.com - - [09/Nov/2017:09:11:25 +0100] "GET /templates/creator/m_f/fa/fa7/164/css/style.min.css?v=1483633820 HTTP/1.1" 200 847
+crawl-66-249-64-28.googlebot.com - - [09/Nov/2017:09:28:05 +0100] "GET /var/m_0/0d/0dd/12455/125486-2_Sportkurs.JPG HTTP/1.1" 304 -
+msnbot-207-46-13-10.search.msn.com - - [09/Nov/2017:09:37:50 +0100] "GET /index.php HTTP/1.1" 302 -

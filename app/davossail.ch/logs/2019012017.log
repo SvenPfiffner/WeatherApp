@@ -1,0 +1,11 @@
+216.244.66.248 - - [20/Jan/2019:17:37:17 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [20/Jan/2019:17:37:19 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.39 - - [20/Jan/2019:17:48:02 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.39 - - [20/Jan/2019:17:48:03 +0100] "GET /robots.txt HTTP/1.1" 200 80
+92.105.9.35 - - [20/Jan/2019:17:54:24 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 31302
+92.105.9.35 - - [20/Jan/2019:17:54:24 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 301 335
+92.105.9.35 - - [20/Jan/2019:17:54:24 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18907
+92.105.9.35 - - [20/Jan/2019:17:54:26 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18907
+92.105.9.35 - - [20/Jan/2019:17:54:27 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094580 HTTP/1.1" 200 4286
+77.75.79.11 - - [20/Jan/2019:17:57:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
+77.75.79.11 - - [20/Jan/2019:17:57:49 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053

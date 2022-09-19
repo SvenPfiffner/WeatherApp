@@ -1,0 +1,7 @@
+157.55.39.91 - - [27/Sep/2018:21:19:18 +0200] "GET /segel-grundkurs HTTP/1.1" 301 321
+216.244.66.248 - - [27/Sep/2018:21:28:50 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [27/Sep/2018:21:28:51 +0200] "GET /robots.txt HTTP/1.1" 200 120
+111.202.101.78 - - [27/Sep/2018:21:30:06 +0200] "GET /robots.txt HTTP/1.1" 301 324
+111.202.101.78 - - [27/Sep/2018:21:30:06 +0200] "GET /js/footer/build_social_entries.min.js?v=6.5.1.37665 HTTP/1.1" 301 365
+111.202.101.78 - - [27/Sep/2018:21:30:07 +0200] "GET /js/footer/build_social_entries.min.js?v=6.5.1.37665 HTTP/1.1" 200 278
+40.77.167.60 - - [27/Sep/2018:21:40:03 +0200] "GET /galerie-sktrophy-2015 HTTP/1.1" 301 327

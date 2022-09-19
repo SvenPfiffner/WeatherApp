@@ -1,0 +1,8 @@
+msnbot-157-55-39-56.search.msn.com - - [11/Oct/2017:02:04:54 +0200] "GET /standort.shtml HTTP/1.1" 200 4717
+msnbot-157-55-39-56.search.msn.com - - [11/Oct/2017:02:04:55 +0200] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 4575
+msnbot-157-55-39-56.search.msn.com - - [11/Oct/2017:02:04:55 +0200] "GET /kurse HTTP/1.1" 200 6281
+msnbot-157-55-39-17.search.msn.com - - [11/Oct/2017:02:04:59 +0200] "GET /optikurse-2014.shtml HTTP/1.1" 200 4938
+msnbot-207-46-13-55.search.msn.com - - [11/Oct/2017:02:05:05 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 4740
+msnbot-207-46-13-55.search.msn.com - - [11/Oct/2017:02:05:05 +0200] "GET /flotte.shtml HTTP/1.1" 200 6274
+msnbot-207-46-13-55.search.msn.com - - [11/Oct/2017:02:05:06 +0200] "GET /davosersee HTTP/1.1" 200 5477
+msnbot-207-46-13-55.search.msn.com - - [11/Oct/2017:02:05:06 +0200] "GET /davosersee.shtml HTTP/1.1" 200 5477

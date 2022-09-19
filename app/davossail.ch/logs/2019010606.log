@@ -1,0 +1,12 @@
+157.55.39.21 - - [06/Jan/2019:06:00:12 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.21 - - [06/Jan/2019:06:00:13 +0100] "GET /robots.txt HTTP/1.1" 200 80
+207.46.13.11 - - [06/Jan/2019:06:08:30 +0100] "GET /event-pedalo HTTP/1.1" 200 31182
+207.46.13.11 - - [06/Jan/2019:06:08:34 +0100] "GET /galerie HTTP/1.1" 200 30732
+207.46.13.11 - - [06/Jan/2019:06:08:36 +0100] "GET /event-pedalo HTTP/1.1" 200 31182
+40.77.167.96 - - [06/Jan/2019:06:08:37 +0100] "GET /vermietung.shtml HTTP/1.1" 301 322
+207.46.13.32 - - [06/Jan/2019:06:24:25 +0100] "GET /vermietung HTTP/1.1" 200 31013
+216.244.66.248 - - [06/Jan/2019:06:27:17 +0100] "GET /index.php?option=com_content&task=view&id=33&Itemid=85 HTTP/1.1" 302 -
+216.244.66.248 - - [06/Jan/2019:06:34:11 +0100] "GET /gallery/displayimage.php?album=topn&cat=-3&pid=85&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:06:34:16 +0100] "GET /gallery/displayimage.php?album=topn&cat=-4&pid=143&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:06:41:25 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [06/Jan/2019:06:41:27 +0100] "GET /robots.txt HTTP/1.1" 200 120

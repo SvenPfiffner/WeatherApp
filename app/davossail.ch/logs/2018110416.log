@@ -1,0 +1,12 @@
+220.243.136.174 - - [04/Nov/2018:16:33:23 +0100] "GET / HTTP/1.1" 200 32112
+220.243.136.174 - - [04/Nov/2018:16:33:23 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+220.243.136.174 - - [04/Nov/2018:16:33:24 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+220.243.136.149 - - [04/Nov/2018:16:33:24 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314
+220.243.136.174 - - [04/Nov/2018:16:33:24 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+220.243.136.149 - - [04/Nov/2018:16:33:24 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+220.243.136.220 - - [04/Nov/2018:16:33:26 +0100] "GET /kurse.shtml HTTP/1.1" 200 32126
+220.243.136.23 - - [04/Nov/2018:16:33:32 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30962
+216.244.66.248 - - [04/Nov/2018:16:36:32 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [04/Nov/2018:16:36:33 +0100] "GET /robots.txt HTTP/1.1" 200 120
+5.45.207.72 - - [04/Nov/2018:16:43:54 +0100] "GET /robots.txt HTTP/1.1" 200 120
+93.158.166.19 - - [04/Nov/2018:16:43:58 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053

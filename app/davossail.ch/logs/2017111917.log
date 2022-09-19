@@ -1,0 +1,5 @@
+spider.tiger.ch - - [19/Nov/2017:17:44:35 +0100] "GET /robots.txt HTTP/1.1" 200 120
+spider.tiger.ch - - [19/Nov/2017:17:44:37 +0100] "GET / HTTP/1.1" 200 35804
+spider.tiger.ch - - [19/Nov/2017:17:44:38 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 49926
+spider.tiger.ch - - [19/Nov/2017:17:44:40 +0100] "GET /events.shtml HTTP/1.1" 200 22514
+baiduspider-180-76-15-149.crawl.baidu.com - - [19/Nov/2017:17:59:14 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5099

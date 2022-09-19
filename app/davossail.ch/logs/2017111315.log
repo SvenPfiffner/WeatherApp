@@ -1,0 +1,2 @@
+ec2-54-219-178-100.us-west-1.compute.amazonaws.com - - [13/Nov/2017:15:15:51 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-39.search.msn.com - - [13/Nov/2017:15:42:05 +0100] "GET /index.php?option=com_content&task=view&id=73&itemid=157 HTTP/1.1" 302 -

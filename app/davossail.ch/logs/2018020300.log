@@ -1,0 +1,5 @@
+66.249.79.70 - - [03/Feb/2018:00:18:52 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.79.68 - - [03/Feb/2018:00:19:10 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+66.249.79.70 - - [03/Feb/2018:00:19:34 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297
+40.77.167.68 - - [03/Feb/2018:00:23:01 +0100] "GET /var/m_0/0d/0dd/12455/125500-33_Opti.jpg HTTP/1.1" 200 104538
+66.249.79.70 - - [03/Feb/2018:00:59:49 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296

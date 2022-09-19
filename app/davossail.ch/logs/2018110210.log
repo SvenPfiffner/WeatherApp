@@ -1,0 +1,15 @@
+216.244.66.248 - - [02/Nov/2018:10:10:51 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [02/Nov/2018:10:10:52 +0100] "GET /robots.txt HTTP/1.1" 200 120
+207.46.13.193 - - [02/Nov/2018:10:23:17 +0100] "GET /pruefungskurs HTTP/1.1" 301 319
+40.77.167.46 - - [02/Nov/2018:10:31:59 +0100] "GET /davosersee HTTP/1.1" 301 316
+178.194.180.32 - - [02/Nov/2018:10:44:15 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31013
+178.194.180.32 - - [02/Nov/2018:10:44:15 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [02/Nov/2018:10:44:19 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30964
+178.194.180.32 - - [02/Nov/2018:10:44:19 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+178.194.180.32 - - [02/Nov/2018:10:44:17 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+178.194.180.32 - - [02/Nov/2018:10:44:19 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+178.194.180.32 - - [02/Nov/2018:10:44:22 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+178.194.180.32 - - [02/Nov/2018:10:44:20 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+216.244.66.248 - - [02/Nov/2018:10:53:18 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [02/Nov/2018:10:53:19 +0100] "GET /robots.txt HTTP/1.1" 200 120
+209.17.97.50 - - [02/Nov/2018:10:57:18 +0100] "GET / HTTP/1.1" 301 306

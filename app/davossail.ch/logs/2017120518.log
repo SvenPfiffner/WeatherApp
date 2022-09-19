@@ -1,0 +1,10 @@
+crawl-66-249-66-198.googlebot.com - - [05/Dec/2017:18:00:19 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-66-196.googlebot.com - - [05/Dec/2017:18:00:19 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297
+crawl-66-249-66-196.googlebot.com - - [05/Dec/2017:18:00:21 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+crawl-66-249-66-198.googlebot.com - - [05/Dec/2017:18:00:24 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296
+46-118-157-50.broadband.kyivstar.net - - [05/Dec/2017:18:18:06 +0100] "GET / HTTP/1.1" 200 35804
+46-118-157-50.broadband.kyivstar.net - - [05/Dec/2017:18:18:06 +0100] "GET / HTTP/1.1" 200 35804
+hydrogen122.a.ahrefs.com - - [05/Dec/2017:18:41:43 +0100] "GET /var/m_0/0d/0dd/12455/143505-G1_SKT2014_27.JPG HTTP/1.1" 200 127521
+192.207.252.178 - - [05/Dec/2017:18:58:18 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 206 94086
+192.207.252.178 - - [05/Dec/2017:18:58:18 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 206 1
+192.207.252.178 - - [05/Dec/2017:18:58:18 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532

@@ -1,0 +1,10 @@
+216.244.66.229 - - [09/Nov/2017:01:02:20 +0100] "GET /event-gruppesmartkat HTTP/1.1" 200 21256
+46.229.168.68 - - [09/Nov/2017:01:28:49 +0100] "GET / HTTP/1.1" 200 6440
+46.229.168.66 - - [09/Nov/2017:01:29:03 +0100] "GET / HTTP/1.1" 200 6440
+46.229.168.71 - - [09/Nov/2017:01:29:20 +0100] "GET / HTTP/1.1" 200 6440
+46.229.168.71 - - [09/Nov/2017:01:29:36 +0100] "GET / HTTP/1.1" 200 6440
+crawl-66-249-64-30.googlebot.com - - [09/Nov/2017:01:42:20 +0100] "GET /templates/resellers/7/favicon.ico?v=1504088693 HTTP/1.1" 304 -
+msnbot-207-46-13-201.search.msn.com - - [09/Nov/2017:01:49:28 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-207-46-13-201.search.msn.com - - [09/Nov/2017:01:49:29 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-76.search.msn.com - - [09/Nov/2017:01:49:36 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-10.search.msn.com - - [09/Nov/2017:01:55:57 +0100] "GET /kurse HTTP/1.1" 200 6281

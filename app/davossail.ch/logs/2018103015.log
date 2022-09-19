@@ -1,0 +1,13 @@
+176.8.88.12 - - [30/Oct/2018:15:06:41 +0100] "GET / HTTP/1.1" 301 306
+207.46.13.85 - - [30/Oct/2018:15:06:49 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 301 364
+207.46.13.85 - - [30/Oct/2018:15:06:51 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+35.192.84.7 - - [30/Oct/2018:15:17:00 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [30/Oct/2018:15:34:39 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [30/Oct/2018:15:34:40 +0100] "GET /robots.txt HTTP/1.1" 200 120
+5.196.87.172 - - [30/Oct/2018:15:49:20 +0100] "GET / HTTP/1.1" 301 314
+66.249.66.154 - - [30/Oct/2018:15:55:00 +0100] "GET /js/photoswipe/code.photoswipe-3.0.5.min.js?v=6.9.1.43359 HTTP/1.1" 200 16480
+66.249.66.157 - - [30/Oct/2018:15:55:01 +0100] "GET /js/photoswipe/photoswipe.css?v=6.9.1.43359 HTTP/1.1" 200 1156
+66.249.66.154 - - [30/Oct/2018:15:55:05 +0100] "GET /js/photoswipe/lib/klass.min.js?v=6.9.1.43359 HTTP/1.1" 200 625
+95.18.199.170 - - [30/Oct/2018:15:55:50 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+95.18.199.170 - - [30/Oct/2018:15:55:50 +0100] "GET / HTTP/1.1" 301 314
+95.18.199.170 - - [30/Oct/2018:15:55:50 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368

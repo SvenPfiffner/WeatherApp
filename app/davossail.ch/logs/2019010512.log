@@ -1,0 +1,13 @@
+40.77.167.15 - - [05/Jan/2019:12:03:55 +0100] "GET / HTTP/1.1" 200 32166
+40.77.167.180 - - [05/Jan/2019:12:27:23 +0100] "GET / HTTP/1.1" 301 314
+216.244.66.248 - - [05/Jan/2019:12:30:08 +0100] "GET /gallery/displayimage.php?album=2&pid=77&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [05/Jan/2019:12:30:14 +0100] "GET /gallery/thumbnails.php?album=lastupby&cat=0&page=8&uid=1 HTTP/1.1" 200 220
+216.244.66.248 - - [05/Jan/2019:12:37:41 +0100] "GET /gallery/displayimage.php?album=lastup&cat=-2&pid=68&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [05/Jan/2019:12:40:45 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [05/Jan/2019:12:40:47 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [05/Jan/2019:12:40:47 +0100] "GET /robots.txt HTTP/1.1" 301 316
+216.244.66.248 - - [05/Jan/2019:12:40:48 +0100] "GET /robots.txt HTTP/1.1" 200 120
+80.74.128.217 - - [05/Jan/2019:12:45:13 +0100] "GET /vermietung HTTP/1.1" 301 316
+216.244.66.248 - - [05/Jan/2019:12:57:21 +0100] "GET /var/m_0/0d/0dd/12455/9114356-g6_SSL_Davos2017_01.jpg HTTP/1.1" 200 121052
+180.76.15.146 - - [05/Jan/2019:12:59:16 +0100] "GET /vermietung.shtml HTTP/1.1" 301 322
+180.76.15.13 - - [05/Jan/2019:12:59:16 +0100] "GET /vermietung.shtml HTTP/1.1" 200 170240

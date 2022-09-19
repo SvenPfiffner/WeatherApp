@@ -1,0 +1,17 @@
+ip37.ip-142-4-200.net - - [07/Oct/2017:10:29:05 +0200] "GET /robots.txt HTTP/1.1" 200 80
+ip37.ip-142-4-200.net - - [07/Oct/2017:10:29:15 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-63.search.msn.com - - [07/Oct/2017:10:35:38 +0200] "GET / HTTP/1.1" 200 6440
+195.141.126.4 - - [07/Oct/2017:10:45:15 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 49926
+195.141.126.4 - - [07/Oct/2017:10:45:15 +0200] "GET /robots.txt HTTP/1.1" 200 120
+195.141.126.4 - - [07/Oct/2017:10:48:00 +0200] "GET /events.shtml HTTP/1.1" 200 22514
+195.141.126.4 - - [07/Oct/2017:10:48:40 +0200] "GET /flotte.shtml HTTP/1.1" 200 29241
+195.141.126.4 - - [07/Oct/2017:10:48:56 +0200] "GET /pruefungskurs.shtml HTTP/1.1" 200 23039
+b118839.yse.yahoo.net - - [07/Oct/2017:10:49:04 +0200] "GET /robots.txt HTTP/1.1" 200 120
+b118839.yse.yahoo.net - - [07/Oct/2017:10:49:05 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+195.141.126.4 - - [07/Oct/2017:10:49:07 +0200] "GET /segel-grundkurs.shtml HTTP/1.1" 200 21440
+195.141.126.4 - - [07/Oct/2017:10:49:18 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 19898
+195.141.126.4 - - [07/Oct/2017:10:49:29 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 17863
+216-83-221-81.pool.dsl-net.ch - - [07/Oct/2017:10:52:03 +0200] "GET / HTTP/1.1" 200 6440
+216-83-221-81.pool.dsl-net.ch - - [07/Oct/2017:10:52:04 +0200] "GET /W3SVC/?cid=f2949bab-240a-46ca-a455-6f504367ba7d&securityScanNoAttack HTTP/1.1" 200 18069
+msnbot-157-55-39-219.search.msn.com - - [07/Oct/2017:10:56:44 +0200] "GET / HTTP/1.1" 200 6440
+173.252.90.121 - - [07/Oct/2017:10:59:55 +0200] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532

@@ -1,0 +1,5 @@
+crawl-66-249-64-29.googlebot.com - - [13/Dec/2017:19:00:03 +0100] "GET / HTTP/1.1" 200 6440
+b110041.yse.yahoo.net - - [13/Dec/2017:19:05:45 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b110041.yse.yahoo.net - - [13/Dec/2017:19:05:46 +0100] "GET /events.shtml HTTP/1.1" 200 5297
+crawl-66-249-64-30.googlebot.com - - [13/Dec/2017:19:34:02 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 304 -
+cyberghost.ro - - [13/Dec/2017:19:52:38 +0100] "GET /phpMyAdmin/ HTTP/1.1" 200 18069

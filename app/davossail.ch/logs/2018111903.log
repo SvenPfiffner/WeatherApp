@@ -1,0 +1,10 @@
+157.55.39.200 - - [19/Nov/2018:03:17:48 +0100] "GET /events HTTP/1.1" 301 320
+89.136.31.222 - - [19/Nov/2018:03:31:09 +0100] "GET /https://https://www.davossail.ch/https:/https://www.davossail.ch/https:/https:/www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 430
+89.136.31.222 - - [19/Nov/2018:03:31:09 +0100] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+89.136.31.222 - - [19/Nov/2018:03:31:09 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+89.136.31.222 - - [19/Nov/2018:03:31:09 +0100] "GET / HTTP/1.1" 301 314
+46.229.168.132 - - [19/Nov/2018:03:47:56 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.139 - - [19/Nov/2018:03:47:57 +0100] "GET /aktuelles-wetter HTTP/1.1" 200 30490
+46.229.168.133 - - [19/Nov/2018:03:47:58 +0100] "GET /sitemap.xml HTTP/1.1" 200 -
+180.76.15.27 - - [19/Nov/2018:03:49:56 +0100] "GET / HTTP/1.1" 301 306
+180.76.15.140 - - [19/Nov/2018:03:49:57 +0100] "GET / HTTP/1.1" 200 179296

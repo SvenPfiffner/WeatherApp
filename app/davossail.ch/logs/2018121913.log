@@ -1,0 +1,9 @@
+207.46.13.77 - - [19/Dec/2018:13:07:12 +0100] "GET /flotte.shtml HTTP/1.1" 301 318
+207.46.13.72 - - [19/Dec/2018:13:19:06 +0100] "GET /var/m_0/0d/0dd/12455/126374-6_Schnupperkurs.JPG HTTP/1.1" 301 361
+207.46.13.72 - - [19/Dec/2018:13:19:07 +0100] "GET /var/m_0/0d/0dd/12455/126374-6_Schnupperkurs.JPG HTTP/1.1" 200 53584
+46.229.168.135 - - [19/Dec/2018:13:42:35 +0100] "GET /robots.txt HTTP/1.1" 301 316
+46.229.168.143 - - [19/Dec/2018:13:42:36 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.136 - - [19/Dec/2018:13:42:36 +0100] "GET /smartkat-trophy-2015-copy.shtml HTTP/1.1" 301 337
+46.229.168.140 - - [19/Dec/2018:13:42:38 +0100] "GET /smartkat-trophy-2015-copy.shtml HTTP/1.1" 200 30704
+180.76.15.29 - - [19/Dec/2018:13:56:14 +0100] "GET /galerie-sktrophy-2014.shtml HTTP/1.1" 301 341
+180.76.15.8 - - [19/Dec/2018:13:56:15 +0100] "GET /galerie-sktrophy-2014.shtml HTTP/1.1" 200 174104

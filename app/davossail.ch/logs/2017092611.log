@@ -1,0 +1,13 @@
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:34 +0200] "GET / HTTP/1.1" 200 6440
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:34 +0200] "GET /js/footer/get_deps.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 157
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:34 +0200] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:34 +0200] "GET /js/footer/build_social_entries.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 278
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:34 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 1089
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:34 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 2085
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:59 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/tab_l_bottom.png HTTP/1.1" 200 1751
+104.15.127.176.dynamic.wline.res.cust.swisscom.ch - - [26/Sep/2017:11:08:59 +0200] "GET /templates/creator/m_f/fa/fa7/164/assets/bt_open.png HTTP/1.1" 200 2044
+105.189.184.35.bc.googleusercontent.com - - [26/Sep/2017:11:19:39 +0200] "GET /robots.txt HTTP/1.1" 200 80
+77.66.11.145 - - [26/Sep/2017:11:22:58 +0200] "GET /robots.txt HTTP/1.1" 200 120
+77.66.11.145 - - [26/Sep/2017:11:22:59 +0200] "GET / HTTP/1.1" 200 35804
+77.66.11.145 - - [26/Sep/2017:11:22:59 +0200] "GET /davosersee HTTP/1.1" 200 19505
+msnbot-207-46-13-112.search.msn.com - - [26/Sep/2017:11:25:02 +0200] "GET / HTTP/1.1" 200 6440

@@ -1,0 +1,8 @@
+fulltextrobot-77-75-78-164.seznam.cz - - [29/Nov/2017:12:01:20 +0100] "GET /robots.txt HTTP/1.1" 200 80
+fulltextrobot-77-75-78-164.seznam.cz - - [29/Nov/2017:12:01:21 +0100] "GET /standort.shtml HTTP/1.1" 200 4717
+msnbot-157-55-39-190.search.msn.com - - [29/Nov/2017:12:09:59 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-126.search.msn.com - - [29/Nov/2017:12:11:30 +0100] "GET / HTTP/1.1" 200 6440
+138-201-207-91.crawler.sistrix.net - - [29/Nov/2017:12:19:06 +0100] "GET /robots.txt HTTP/1.1" 200 120
+138-201-207-91.crawler.sistrix.net - - [29/Nov/2017:12:19:06 +0100] "GET /kurse.shtml HTTP/1.1" 200 31031
+17-142-156-178.applebot.apple.com - - [29/Nov/2017:12:27:44 +0100] "GET /robots.txt HTTP/1.1" 200 80
+17-142-156-178.applebot.apple.com - - [29/Nov/2017:12:27:45 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952

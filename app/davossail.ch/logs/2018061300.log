@@ -1,0 +1,8 @@
+46.119.112.98 - - [13/Jun/2018:00:06:57 +0200] "GET / HTTP/1.1" 200 34604
+40.77.167.63 - - [13/Jun/2018:00:10:24 +0200] "GET /aktuelles-wetter.shtml HTTP/1.1" 200 4591
+77.75.78.164 - - [13/Jun/2018:00:19:55 +0200] "GET /robots.txt HTTP/1.1" 200 80
+77.75.78.164 - - [13/Jun/2018:00:19:56 +0200] "GET /smartkat-crashkurs HTTP/1.1" 200 4820
+216.244.66.248 - - [13/Jun/2018:00:27:47 +0200] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [13/Jun/2018:00:39:06 +0200] "GET /gallery/addfav.php?pid=163&ref=displayimage.php%3Falbum%3Drandom%26cat%3D0%26pos%3D-163 HTTP/1.1" 200 216
+54.36.149.71 - - [13/Jun/2018:00:43:49 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 4760
+216.244.66.248 - - [13/Jun/2018:00:52:30 +0200] "GET /robots.txt HTTP/1.1" 200 120

@@ -1,0 +1,5 @@
+157.55.39.242 - - [17/Nov/2018:14:06:39 +0100] "GET /index.php?option=com_content&task=view&id=48&Itemid=115 HTTP/1.1" 301 381
+216.244.66.248 - - [17/Nov/2018:14:28:29 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [17/Nov/2018:14:28:30 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.137 - - [17/Nov/2018:14:35:32 +0100] "GET /flotte.shtml HTTP/1.1" 301 326
+46.229.168.134 - - [17/Nov/2018:14:35:34 +0100] "GET /flotte.shtml HTTP/1.1" 200 32162

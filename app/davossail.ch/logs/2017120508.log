@@ -1,0 +1,6 @@
+msnbot-157-55-39-4.search.msn.com - - [05/Dec/2017:08:24:50 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-151.search.msn.com - - [05/Dec/2017:08:29:13 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-28.search.msn.com - - [05/Dec/2017:08:30:05 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-28.search.msn.com - - [05/Dec/2017:08:30:06 +0100] "GET /robots.txt HTTP/1.1" 200 80
+88-99-240-172.crawler.sistrix.net - - [05/Dec/2017:08:43:38 +0100] "GET /robots.txt HTTP/1.1" 200 120
+88-99-240-172.crawler.sistrix.net - - [05/Dec/2017:08:43:38 +0100] "GET /kurse.shtml HTTP/1.1" 200 31031

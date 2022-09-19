@@ -1,0 +1,15 @@
+216.244.66.248 - - [12/Jan/2019:19:18:53 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [12/Jan/2019:19:18:55 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.108 - - [12/Jan/2019:19:19:40 +0100] "GET / HTTP/1.1" 200 32166
+54.82.117.18 - - [12/Jan/2019:19:20:53 +0100] "GET /davosersee.shtml HTTP/1.1" 200 31406
+54.82.117.18 - - [12/Jan/2019:19:20:53 +0100] "GET /davosersee.shtml HTTP/1.1" 301 330
+40.77.167.61 - - [12/Jan/2019:19:33:31 +0100] "GET / HTTP/1.1" 301 314
+62.202.183.130 - - [12/Jan/2019:19:47:08 +0100] "GET /kinder-segelkurs HTTP/1.1" 301 322
+62.202.183.130 - - [12/Jan/2019:19:47:09 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+62.202.183.130 - - [12/Jan/2019:19:47:09 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 31070
+62.202.183.130 - - [12/Jan/2019:19:47:09 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 2085
+62.202.183.130 - - [12/Jan/2019:19:47:09 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 662
+62.202.183.130 - - [12/Jan/2019:19:47:10 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314
+62.202.183.130 - - [12/Jan/2019:19:47:10 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+62.202.183.130 - - [12/Jan/2019:19:47:10 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+62.202.183.130 - - [12/Jan/2019:19:47:19 +0100] "GET /templates/resellers/7/favicon.ico?v=1538174048 HTTP/1.1" 200 4286

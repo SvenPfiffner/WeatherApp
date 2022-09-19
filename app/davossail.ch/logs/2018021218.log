@@ -1,0 +1,12 @@
+146.185.223.245 - - [12/Feb/2018:18:11:29 +0100] "GET /index.php?option=com_content&task=view&id=54&Itemid=122 HTTP/1.0" 302 -
+146.185.223.245 - - [12/Feb/2018:18:11:30 +0100] "GET / HTTP/1.0" 200 35804
+216.244.66.229 - - [12/Feb/2018:18:36:08 +0100] "GET /robots.txt HTTP/1.1" 200 120
+199.30.25.189 - - [12/Feb/2018:18:37:08 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 138686
+40.77.167.81 - - [12/Feb/2018:18:37:13 +0100] "GET /robots.txt HTTP/1.1" 200 80
+199.30.24.81 - - [12/Feb/2018:18:37:17 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+65.55.210.75 - - [12/Feb/2018:18:37:18 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1483633820 HTTP/1.1" 200 3661
+199.30.25.189 - - [12/Feb/2018:18:37:20 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1483633820 HTTP/1.1" 200 4070
+199.30.25.29 - - [12/Feb/2018:18:37:26 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+199.30.25.161 - - [12/Feb/2018:18:37:33 +0100] "GET /var/m_0/0d/0dd/12455/8254793-J70_Davos.w1024.jpg HTTP/1.1" 200 191999
+199.30.25.232 - - [12/Feb/2018:18:37:39 +0100] "GET /var/m_0/0d/0dd/12455/143582-SP_Gipfel1.jpg HTTP/1.1" 200 2688
+216.244.66.229 - - [12/Feb/2018:18:43:44 +0100] "GET /davosersee HTTP/1.1" 200 19505

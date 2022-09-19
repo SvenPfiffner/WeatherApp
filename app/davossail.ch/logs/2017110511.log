@@ -1,0 +1,7 @@
+msnbot-157-55-39-241.search.msn.com - - [05/Nov/2017:11:06:25 +0100] "GET / HTTP/1.1" 200 6440
+b115379.yse.yahoo.net - - [05/Nov/2017:11:17:42 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b115379.yse.yahoo.net - - [05/Nov/2017:11:17:43 +0100] "GET /flotte.shtml HTTP/1.1" 200 6274
+b118839.yse.yahoo.net - - [05/Nov/2017:11:19:47 +0100] "GET /robots.txt HTTP/1.1" 200 120
+b118839.yse.yahoo.net - - [05/Nov/2017:11:19:48 +0100] "GET /segel-grundkurs.shtml HTTP/1.1" 200 5378
+216.244.66.229 - - [05/Nov/2017:11:26:01 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 49926
+b118839.yse.yahoo.net - - [05/Nov/2017:11:26:16 +0100] "GET /events.shtml HTTP/1.1" 200 5297

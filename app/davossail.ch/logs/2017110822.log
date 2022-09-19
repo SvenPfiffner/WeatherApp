@@ -1,0 +1,4 @@
+crawl-123-170-187-194.qwant.com - - [08/Nov/2017:22:00:39 +0100] "GET /events.shtml HTTP/1.0" 200 5297
+msnbot-157-55-39-76.search.msn.com - - [08/Nov/2017:22:24:59 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-203.search.msn.com - - [08/Nov/2017:22:36:46 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-40-77-167-138.search.msn.com - - [08/Nov/2017:22:36:49 +0100] "GET / HTTP/1.1" 200 6440

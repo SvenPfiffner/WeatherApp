@@ -4,6 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Wetterstation</title>
+    <meta http-equiv="refresh" content="300">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -11,7 +12,7 @@
     <?php include "air_graph_avg.php"?>
 
     <!-- Favicon -->
-    <link type="image/png" href="img/favicon_genni.png" rel="icon">
+    <link type="image/png" href="img/favicon_genni_dark.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -36,7 +37,7 @@
             <a href="https://davossail.ch" class="navbar-brand ml-lg-3">
                 <h1 class="m-0 display-5"><span class="text-primary">DAVOS</span><span style="color:#ffd400">SAIL</span></h1>
             </a>
-            <img src=img/logo_mast.png height="37" width="auto" alt="Davossail Logo">
+            <img src=img/logo_mast_dark.png height="37" width="auto" alt="Davossail Logo">
         </div>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>

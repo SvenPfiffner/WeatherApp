@@ -1,0 +1,17 @@
+157.55.39.78 - - [27/Jan/2019:18:00:23 +0100] "GET /smartkat-trophy-2018-copy HTTP/1.1" 301 331
+157.55.39.78 - - [27/Jan/2019:18:00:23 +0100] "GET /kinder-segelkurs HTTP/1.1" 301 322
+157.55.39.78 - - [27/Jan/2019:18:00:24 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 328
+207.46.13.216 - - [27/Jan/2019:18:01:41 +0100] "GET / HTTP/1.1" 301 314
+216.244.66.248 - - [27/Jan/2019:18:24:29 +0100] "GET /robots.txt HTTP/1.1" 301 324
+74.208.235.25 - - [27/Jan/2019:18:24:30 +0100] "GET / HTTP/1.1" 301 314
+74.208.235.25 - - [27/Jan/2019:18:24:31 +0100] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+216.244.66.248 - - [27/Jan/2019:18:24:31 +0100] "GET /robots.txt HTTP/1.1" 200 120
+54.36.148.77 - - [27/Jan/2019:18:29:38 +0100] "GET /var/m_0/0d/0dd/12455/6564739-G3_SKT2015_63.jpg HTTP/1.1" 200 83403
+88.12.182.113 - - [27/Jan/2019:18:35:15 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31011
+88.12.182.113 - - [27/Jan/2019:18:35:15 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18778
+88.12.182.113 - - [27/Jan/2019:18:35:18 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30962
+88.12.182.113 - - [27/Jan/2019:18:35:17 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18778
+88.12.182.113 - - [27/Jan/2019:18:35:18 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+88.12.182.113 - - [27/Jan/2019:18:35:18 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 18778
+88.12.182.113 - - [27/Jan/2019:18:35:19 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 18778
+88.12.182.113 - - [27/Jan/2019:18:35:21 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286

@@ -1,0 +1,8 @@
+54.226.59.137 - - [14/Feb/2018:10:06:12 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.0" 200 4808
+54.226.59.137 - - [14/Feb/2018:10:33:59 +0100] "GET /galerie-gruppesmartkat.shtml HTTP/1.0" 200 4863
+192.99.203.35 - - [14/Feb/2018:10:40:45 +0100] "GET /robots.txt HTTP/1.1" 200 80
+192.99.203.35 - - [14/Feb/2018:10:40:54 +0100] "GET / HTTP/1.1" 200 6440
+46.118.225.78 - - [14/Feb/2018:10:46:38 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+46.118.225.78 - - [14/Feb/2018:10:46:39 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+46.118.225.78 - - [14/Feb/2018:10:46:40 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19955
+54.226.59.137 - - [14/Feb/2018:10:56:54 +0100] "GET /kinder-segelkurs.shtml HTTP/1.0" 200 5171

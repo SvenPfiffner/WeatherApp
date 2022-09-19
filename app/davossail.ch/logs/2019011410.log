@@ -1,0 +1,14 @@
+39.98.176.120 - - [14/Jan/2019:10:29:46 +0100] "GET /joomla/ HTTP/1.1" 301 321
+39.98.176.120 - - [14/Jan/2019:10:29:48 +0100] "GET /joomla/ HTTP/1.1" 200 18907
+216.244.66.248 - - [14/Jan/2019:10:29:59 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [14/Jan/2019:10:30:01 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.132 - - [14/Jan/2019:10:40:17 +0100] "GET /sitemap.xml HTTP/1.1" 200 -
+46.229.168.147 - - [14/Jan/2019:10:40:17 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31064
+46.229.168.144 - - [14/Jan/2019:10:40:17 +0100] "GET /robots.txt HTTP/1.1" 200 80
+40.77.193.122 - - [14/Jan/2019:10:55:23 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+40.77.192.225 - - [14/Jan/2019:10:55:25 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 3661
+40.77.193.71 - - [14/Jan/2019:10:55:27 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 4070
+40.77.193.71 - - [14/Jan/2019:10:55:28 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 1691
+40.77.193.194 - - [14/Jan/2019:10:55:30 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 163577
+157.55.39.78 - - [14/Jan/2019:10:57:11 +0100] "GET /robots.txt HTTP/1.1" 301 324
+157.55.39.78 - - [14/Jan/2019:10:57:13 +0100] "GET /robots.txt HTTP/1.1" 200 80

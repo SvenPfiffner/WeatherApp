@@ -1,0 +1,7 @@
+54.36.149.84 - - [20/Feb/2018:04:04:06 +0100] "GET /var/m_0/0d/0dd/12455/143488-G1_SKT2014_11.JPG HTTP/1.1" 200 120429
+216.244.66.248 - - [20/Feb/2018:04:20:06 +0100] "GET /kurse.shtml HTTP/1.1" 200 30914
+66.249.64.198 - - [20/Feb/2018:04:32:02 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.64.198 - - [20/Feb/2018:04:32:12 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 18098
+66.249.64.196 - - [20/Feb/2018:04:32:24 +0100] "GET /apple-app-site-association HTTP/1.1" 200 18098
+66.249.64.196 - - [20/Feb/2018:04:32:25 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 18098
+46.118.116.121 - - [20/Feb/2018:04:54:41 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19693

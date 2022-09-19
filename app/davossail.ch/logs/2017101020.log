@@ -1,0 +1,7 @@
+5d.42.30a9.ip4.static.sl-reverse.com - - [10/Oct/2017:20:16:48 +0200] "GET /robots.txt HTTP/1.0" 200 80
+5d.42.30a9.ip4.static.sl-reverse.com - - [10/Oct/2017:20:16:48 +0200] "GET / HTTP/1.0" 200 6440
+crawl-66-249-64-28.googlebot.com - - [10/Oct/2017:20:28:18 +0200] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-28.googlebot.com - - [10/Oct/2017:20:28:18 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-52.search.msn.com - - [10/Oct/2017:20:46:31 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-207-46-13-55.search.msn.com - - [10/Oct/2017:20:46:48 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 4740
+msnbot-157-55-39-17.search.msn.com - - [10/Oct/2017:20:58:18 +0200] "GET /kurse.shtml HTTP/1.1" 200 6280

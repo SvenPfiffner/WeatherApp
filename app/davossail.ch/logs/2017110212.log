@@ -1,0 +1,7 @@
+x28.ch - - [02/Nov/2017:12:07:37 +0100] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [02/Nov/2017:12:07:37 +0100] "GET / HTTP/1.1" 200 6440
+64.62.252.163 - - [02/Nov/2017:12:09:44 +0100] "GET /robots.txt HTTP/1.1" 200 80
+64.62.252.163 - - [02/Nov/2017:12:09:45 +0100] "GET / HTTP/1.1" 200 6440
+hydrogen066.a.ahrefs.com - - [02/Nov/2017:12:13:27 +0100] "GET /var/m_0/0d/0dd/12455/6564691-G3_SKT2015_21.jpg HTTP/1.1" 200 121870
+hydrogen121.a.ahrefs.com - - [02/Nov/2017:12:16:50 +0100] "GET /var/m_0/0d/0dd/12455/6564701-G3_SKT2015_30.jpg HTTP/1.1" 200 93984
+hydrogen193.a.ahrefs.com - - [02/Nov/2017:12:51:32 +0100] "GET /kursanmeldung HTTP/1.1" 200 10945

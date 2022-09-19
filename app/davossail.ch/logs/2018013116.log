@@ -1,0 +1,13 @@
+66.249.81.41 - - [31/Jan/2018:16:03:52 +0100] "GET /var/m_0/0d/0dd/12455/143351-Header_Segelschule.jpg HTTP/1.1" 200 107532
+66.249.66.146 - - [31/Jan/2018:16:10:32 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.66.142 - - [31/Jan/2018:16:10:33 +0100] "GET /segelkurs-jollesmartkat HTTP/1.1" 200 5115
+66.249.66.84 - - [31/Jan/2018:16:11:00 +0100] "GET /js/functions_stripped.js?v=6.6.1.38889 HTTP/1.1" 200 3186
+64.233.173.28 - - [31/Jan/2018:16:15:40 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+157.55.39.104 - - [31/Jan/2018:16:17:33 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 5645
+195.65.48.209 - - [31/Jan/2018:16:26:52 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+195.65.48.209 - - [31/Jan/2018:16:26:52 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 206 1
+195.65.48.209 - - [31/Jan/2018:16:26:52 +0100] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 206 93966
+88.99.253.168 - - [31/Jan/2018:16:34:13 +0100] "GET /robots.txt HTTP/1.1" 200 120
+88.99.253.168 - - [31/Jan/2018:16:34:13 +0100] "GET /kurse.shtml HTTP/1.1" 200 31031
+66.249.66.146 - - [31/Jan/2018:16:48:49 +0100] "GET /event-gruppesmartkat HTTP/1.1" 200 5645
+66.249.66.146 - - [31/Jan/2018:16:49:05 +0100] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 1020

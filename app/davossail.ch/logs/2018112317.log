@@ -1,0 +1,5 @@
+46.229.168.131 - - [23/Nov/2018:17:11:44 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.132 - - [23/Nov/2018:17:11:44 +0100] "GET /robots.txt HTTP/1.1" 301 324
+46.229.168.132 - - [23/Nov/2018:17:11:45 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 301 338
+46.229.168.145 - - [23/Nov/2018:17:11:46 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 30734
+157.55.39.224 - - [23/Nov/2018:17:18:27 +0100] "GET /event-gruppesmartkat HTTP/1.1" 301 326

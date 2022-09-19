@@ -1,0 +1,5 @@
+66.249.66.84 - - [27/Jan/2018:17:49:28 +0100] "GET /templates/resellers/7/favicon.ico?v=1507124962 HTTP/1.1" 200 4286
+66.249.66.82 - - [27/Jan/2018:17:53:19 +0100] "GET /robots.txt HTTP/1.1" 200 80
+66.249.66.83 - - [27/Jan/2018:17:53:30 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+66.249.66.82 - - [27/Jan/2018:17:53:30 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296
+66.249.66.82 - - [27/Jan/2018:17:53:32 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297

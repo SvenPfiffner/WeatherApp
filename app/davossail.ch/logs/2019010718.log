@@ -1,0 +1,7 @@
+46.229.168.132 - - [07/Jan/2019:18:05:09 +0100] "GET /galerie.shtml HTTP/1.1" 200 30734
+46.229.168.130 - - [07/Jan/2019:18:05:09 +0100] "GET /robots.txt HTTP/1.1" 200 80
+40.77.167.67 - - [07/Jan/2019:18:26:47 +0100] "GET /index.php?option=com_content&task=view&id=34&Itemid=87 HTTP/1.1" 301 372
+216.244.66.248 - - [07/Jan/2019:18:33:53 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [07/Jan/2019:18:33:54 +0100] "GET /robots.txt HTTP/1.1" 200 120
+80.74.128.217 - - [07/Jan/2019:18:55:27 +0100] "GET /galerie HTTP/1.1" 301 321
+207.46.13.207 - - [07/Jan/2019:18:58:04 +0100] "GET /index.php?option=com_content&task=view&id=57&Itemid=133 HTTP/1.1" 301 381

@@ -1,0 +1,17 @@
+207.46.13.136 - - [20/Sep/2018:05:13:12 +0200] "GET / HTTP/1.1" 200 32319
+157.55.39.170 - - [20/Sep/2018:05:25:56 +0200] "GET / HTTP/1.1" 301 314
+157.55.39.170 - - [20/Sep/2018:05:27:04 +0200] "GET /davosersee.shtml HTTP/1.1" 200 31404
+216.244.66.248 - - [20/Sep/2018:05:28:02 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dlastup%2526cat%253D-4%2526pid%253D168%2526slideshow%253D5000 HTTP/1.1" 200 215
+216.244.66.248 - - [20/Sep/2018:05:28:07 +0200] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dtoprated%2526cat%253D-3%2526pid%253D89%2526slideshow%253D5000 HTTP/1.1" 200 215
+157.55.39.170 - - [20/Sep/2018:05:30:28 +0200] "GET /davosersee HTTP/1.1" 200 31406
+180.76.15.154 - - [20/Sep/2018:05:31:54 +0200] "GET /events.shtml HTTP/1.1" 301 318
+180.76.15.146 - - [20/Sep/2018:05:31:55 +0200] "GET /events.shtml HTTP/1.1" 200 167236
+216.244.66.248 - - [20/Sep/2018:05:34:59 +0200] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [20/Sep/2018:05:35:01 +0200] "GET /robots.txt HTTP/1.1" 200 120
+46.37.82.151 - - [20/Sep/2018:05:45:48 +0200] "GET /https://https://www.davossail.ch/https:/www.davossail.ch HTTP/1.1" 301 368
+46.37.82.151 - - [20/Sep/2018:05:45:48 +0200] "GET /https://www.davossail.ch HTTP/1.1" 301 337
+46.37.82.151 - - [20/Sep/2018:05:45:48 +0200] "GET / HTTP/1.1" 301 314
+54.36.150.5 - - [20/Sep/2018:05:46:06 +0200] "GET /robots.txt HTTP/1.1" 200 80
+54.36.148.98 - - [20/Sep/2018:05:46:07 +0200] "GET /var/m_0/0d/0dd/12455/143517-G2_Optikurs2014_12.JPG HTTP/1.1" 200 89201
+35.204.194.217 - - [20/Sep/2018:05:46:19 +0200] "GET /var/m_0/0d/0dd/12455/125500-33_Opti.jpg HTTP/1.1" 301 353
+35.204.194.217 - - [20/Sep/2018:05:46:20 +0200] "GET /var/m_0/0d/0dd/12455/125500-33_Opti.jpg HTTP/1.1" 200 104538

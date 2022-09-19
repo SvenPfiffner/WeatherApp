@@ -1,0 +1,5 @@
+ns309394.ip-188-165-200.eu - - [01/Dec/2017:02:30:13 +0100] "HEAD / HTTP/1.1" 403 -
+crawl-66-249-64-28.googlebot.com - - [01/Dec/2017:02:32:38 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-28.googlebot.com - - [01/Dec/2017:02:32:40 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+crawl-66-249-64-28.googlebot.com - - [01/Dec/2017:02:32:41 +0100] "GET /apple-app-site-association HTTP/1.1" 200 4296
+crawl-66-249-64-29.googlebot.com - - [01/Dec/2017:02:32:50 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297

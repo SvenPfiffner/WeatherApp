@@ -1,0 +1,9 @@
+195.141.126.4 - - [30/Nov/2017:13:08:52 +0100] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+crawl-66-249-64-29.googlebot.com - - [30/Nov/2017:13:29:35 +0100] "GET /templates/resellers/7/favicon.ico?v=1506147164 HTTP/1.1" 200 4286
+crawl-66-249-64-30.googlebot.com - - [30/Nov/2017:13:40:17 +0100] "GET /favicon.ico HTTP/1.1" 200 1150
+msnbot-157-55-39-65.search.msn.com - - [30/Nov/2017:13:50:27 +0100] "GET /js/efu/w.gallery.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 181
+msnbot-157-55-39-65.search.msn.com - - [30/Nov/2017:13:50:28 +0100] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 1020
+msnbot-40-77-167-7.search.msn.com - - [30/Nov/2017:13:50:29 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.2.41064 HTTP/1.1" 200 24507
+msnbot-40-77-167-138.search.msn.com - - [30/Nov/2017:13:50:32 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1483633820 HTTP/1.1" 200 662
+msnbot-207-46-13-126.search.msn.com - - [30/Nov/2017:13:50:38 +0100] "GET /js/jquery.lazyload.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1283
+msnbot-207-46-13-126.search.msn.com - - [30/Nov/2017:13:50:38 +0100] "GET /js/galleryLightbox/gallery-paging.min.js?v=6.6.7.2.41064 HTTP/1.1" 200 1107

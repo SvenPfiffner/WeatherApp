@@ -1,0 +1,13 @@
+216.244.66.248 - - [21/Dec/2018:21:17:48 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [21/Dec/2018:21:17:48 +0100] "GET /robots.txt HTTP/1.1" 301 316
+216.244.66.248 - - [21/Dec/2018:21:17:49 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [21/Dec/2018:21:17:49 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.234 - - [21/Dec/2018:21:33:29 +0100] "GET / HTTP/1.1" 200 32166
+40.77.189.23 - - [21/Dec/2018:21:34:01 +0100] "GET /css/skeleton.css HTTP/1.1" 200 18022
+40.77.189.174 - - [21/Dec/2018:21:34:03 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 3661
+40.77.189.86 - - [21/Dec/2018:21:34:04 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/respond.min.js?v=1519138530 HTTP/1.1" 200 4070
+157.55.39.234 - - [21/Dec/2018:21:34:05 +0100] "GET /robots.txt HTTP/1.1" 301 316
+40.77.189.130 - - [21/Dec/2018:21:34:06 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/slide.js?v=1519138530 HTTP/1.1" 200 1691
+157.55.39.234 - - [21/Dec/2018:21:34:06 +0100] "GET /robots.txt HTTP/1.1" 200 80
+40.77.189.126 - - [21/Dec/2018:21:34:06 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 163577
+157.55.39.232 - - [21/Dec/2018:21:54:06 +0100] "GET /kursanmeldung HTTP/1.1" 301 319

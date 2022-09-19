@@ -1,0 +1,17 @@
+91.242.162.26 - - [02/Jan/2019:22:04:41 +0100] "GET /davosersee.shtml HTTP/1.1" 301 330
+91.242.162.26 - - [02/Jan/2019:22:04:41 +0100] "GET /davosersee.shtml HTTP/1.1" 200 31406
+216.244.66.248 - - [02/Jan/2019:22:06:37 +0100] "GET /gallery/displayimage.php?album=5&pos=3 HTTP/1.1" 200 222
+216.244.66.248 - - [02/Jan/2019:22:12:52 +0100] "GET /gallery/displayimage.php?album=lastup&cat=-5&pos=3 HTTP/1.1" 200 222
+216.244.66.248 - - [02/Jan/2019:22:12:57 +0100] "GET /gallery/thumbnails.php?album=5&page=1&sort=pa HTTP/1.1" 200 220
+216.244.66.248 - - [02/Jan/2019:22:13:03 +0100] "GET /gallery/thumbnails.php?album=lastup&cat=-3&page=2 HTTP/1.1" 200 220
+216.244.66.248 - - [02/Jan/2019:22:19:01 +0100] "GET /gallery/displayimage.php?album=toprated&cat=-3&pos=17 HTTP/1.1" 200 222
+91.242.162.26 - - [02/Jan/2019:22:22:24 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 343
+91.242.162.26 - - [02/Jan/2019:22:22:24 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053
+216.244.66.248 - - [02/Jan/2019:22:25:30 +0100] "GET /gallery/displayimage.php?album=lastup&cat=0&pid=138&slideshow=5000 HTTP/1.1" 200 222
+66.249.66.147 - - [02/Jan/2019:22:27:12 +0100] "GET / HTTP/1.1" 200 32165
+66.249.66.149 - - [02/Jan/2019:22:27:13 +0100] "GET / HTTP/1.1" 200 32108
+216.244.66.248 - - [02/Jan/2019:22:32:05 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [02/Jan/2019:22:32:07 +0100] "GET /robots.txt HTTP/1.1" 200 120
+91.242.162.26 - - [02/Jan/2019:22:37:55 +0100] "GET /kurse.shtml HTTP/1.1" 301 325
+91.242.162.26 - - [02/Jan/2019:22:37:55 +0100] "GET /kurse.shtml HTTP/1.1" 200 32172
+180.76.15.149 - - [02/Jan/2019:22:51:35 +0100] "GET /vermietung.shtml HTTP/1.1" 301 330

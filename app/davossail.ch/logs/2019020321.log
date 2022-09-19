@@ -1,0 +1,15 @@
+216.244.66.248 - - [03/Feb/2019:21:00:21 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [03/Feb/2019:21:00:23 +0100] "GET /robots.txt HTTP/1.1" 200 120
+40.77.167.179 - - [03/Feb/2019:21:06:36 +0100] "GET /index.php?option=com_frontpage&Itemid=101 HTTP/1.1" 301 359
+40.77.167.179 - - [03/Feb/2019:21:06:47 +0100] "GET /index.php?option=com_content&task=view&id=32&Itemid=82 HTTP/1.1" 301 380
+157.55.39.241 - - [03/Feb/2019:21:07:07 +0100] "GET /index.php?option=com_content&task=view&id=57&Itemid=133 HTTP/1.1" 301 381
+54.36.148.91 - - [03/Feb/2019:21:21:54 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 301 333
+40.77.167.47 - - [03/Feb/2019:21:24:44 +0100] "GET /index.php?option=com_frontpage&Itemid=1 HTTP/1.1" 301 357
+157.55.39.241 - - [03/Feb/2019:21:41:52 +0100] "GET /vermietung.shtml HTTP/1.1" 301 322
+216.244.66.248 - - [03/Feb/2019:21:45:31 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [03/Feb/2019:21:45:33 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.130 - - [03/Feb/2019:21:51:01 +0100] "GET /robots.txt HTTP/1.1" 301 324
+46.229.168.153 - - [03/Feb/2019:21:51:01 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.152 - - [03/Feb/2019:21:51:02 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 336
+46.229.168.135 - - [03/Feb/2019:21:51:03 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 31080
+157.55.39.217 - - [03/Feb/2019:21:54:10 +0100] "GET /index.php HTTP/1.1" 301 315

@@ -1,0 +1,4 @@
+google-proxy-66-249-93-73.google.com - - [16/Oct/2017:17:16:12 +0200] "GET /var/m_0/0d/0dd/12455/143352-Header_Segelschule_2.jpg HTTP/1.1" 200 107532
+msnbot-157-55-39-42.search.msn.com - - [16/Oct/2017:17:17:52 +0200] "GET /index.php HTTP/1.1" 302 -
+crawl-66-249-64-27.googlebot.com - - [16/Oct/2017:17:21:35 +0200] "GET /segel-grundkurs HTTP/1.1" 200 5378
+static.237.59.243.136.clients.your-server.de - - [16/Oct/2017:17:44:58 +0200] "GET /kurse.shtml HTTP/1.1" 200 31031

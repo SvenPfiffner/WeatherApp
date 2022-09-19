@@ -1,0 +1,4 @@
+crawl-66-249-64-28.googlebot.com - - [03/Nov/2017:15:00:17 +0100] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-64-28.googlebot.com - - [03/Nov/2017:15:00:55 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-241.search.msn.com - - [03/Nov/2017:15:11:53 +0100] "GET /index.php?option=com_frontpage&Itemid=101 HTTP/1.1" 302 -
+b115490.yse.yahoo.net - - [03/Nov/2017:15:50:04 +0100] "GET /kinder-segelkurs HTTP/1.1" 200 5172

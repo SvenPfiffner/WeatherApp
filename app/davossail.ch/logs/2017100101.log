@@ -1,0 +1,6 @@
+msnbot-157-55-39-219.search.msn.com - - [01/Oct/2017:01:00:03 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-36.search.msn.com - - [01/Oct/2017:01:04:05 +0200] "GET / HTTP/1.1" 200 6440
+87-250-224-36.spider.yandex.com - - [01/Oct/2017:01:35:50 +0200] "GET /robots.txt HTTP/1.1" 200 120
+87-250-224-36.spider.yandex.com - - [01/Oct/2017:01:35:54 +0200] "GET /templates/resellers/7/favicon.ico?v=1506103971 HTTP/1.1" 200 4286
+b115490.yse.yahoo.net - - [01/Oct/2017:01:41:05 +0200] "GET /robots.txt HTTP/1.1" 200 120
+b115490.yse.yahoo.net - - [01/Oct/2017:01:41:06 +0200] "GET /segel-grundkurs HTTP/1.1" 200 5378

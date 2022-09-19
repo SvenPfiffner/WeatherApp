@@ -1,0 +1,14 @@
+157.55.39.252 - - [01/Nov/2018:21:13:05 +0100] "GET /kurse HTTP/1.1" 301 311
+216.244.66.248 - - [01/Nov/2018:21:19:08 +0100] "GET /gallery/login.php?referer=login.php%3Freferer%3Ddisplayimage.php%253Falbum%253Dtoprated%2526cat%253D0%2526pos%253D77 HTTP/1.1" 200 215
+157.55.39.243 - - [01/Nov/2018:21:20:55 +0100] "GET /galerie-sktrophy-2015 HTTP/1.1" 301 327
+157.55.39.252 - - [01/Nov/2018:21:23:18 +0100] "GET /segel-grundkurs HTTP/1.1" 200 31302
+216.244.66.248 - - [01/Nov/2018:21:25:15 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [01/Nov/2018:21:25:17 +0100] "GET /robots.txt HTTP/1.1" 200 120
+194.230.159.116 - - [01/Nov/2018:21:56:00 +0100] "GET /var/m_0/0d/0dd/12455/9114323-G3_SKT2018_08.jpg HTTP/1.1" 200 194476
+46.229.168.138 - - [01/Nov/2018:21:58:42 +0100] "GET /robots.txt HTTP/1.1" 301 316
+46.229.168.133 - - [01/Nov/2018:21:58:43 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.132 - - [01/Nov/2018:21:58:43 +0100] "GET /kurse.shtml HTTP/1.1" 301 317
+46.229.168.141 - - [01/Nov/2018:21:58:46 +0100] "GET /kurse.shtml HTTP/1.1" 200 32172
+46.229.168.141 - - [01/Nov/2018:21:58:48 +0100] "GET /kurse.shtml HTTP/1.1" 200 32175
+46.229.168.150 - - [01/Nov/2018:21:59:02 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 301 335
+46.229.168.136 - - [01/Nov/2018:21:59:04 +0100] "GET /segelkurs-jollesmartkat.shtml HTTP/1.1" 200 31053

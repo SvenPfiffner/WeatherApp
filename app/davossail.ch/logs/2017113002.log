@@ -1,0 +1,5 @@
+msnbot-207-46-13-126.search.msn.com - - [30/Nov/2017:02:10:03 +0100] "GET /smartkat-crashkurs.shtml HTTP/1.1" 200 4808
+msnbot-40-77-167-138.search.msn.com - - [30/Nov/2017:02:15:10 +0100] "GET /index.php?option=com_frontpage&Itemid=101 HTTP/1.1" 302 -
+msnbot-40-77-167-7.search.msn.com - - [30/Nov/2017:02:25:38 +0100] "GET /var/m_0/0d/0dd/12455/125498-31_Sprinto.JPG HTTP/1.1" 200 60889
+x28.ch - - [30/Nov/2017:02:59:24 +0100] "GET /robots.txt HTTP/1.1" 200 120
+x28.ch - - [30/Nov/2017:02:59:24 +0100] "GET /index.php HTTP/1.1" 302 -

@@ -1,0 +1,15 @@
+77.75.76.172 - - [30/Dec/2019:15:59:32 +0100] "GET /robots.txt HTTP/1.1" 200 120
+77.75.76.172 - - [30/Dec/2019:15:59:33 +0100] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 5831
+77.75.78.170 - - [30/Dec/2019:16:53:53 +0100] "GET /flotte.shtml HTTP/1.1" 200 7544
+77.75.78.170 - - [30/Dec/2019:16:54:06 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.153 - - [30/Dec/2019:17:14:29 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.152 - - [30/Dec/2019:17:14:30 +0100] "GET /flotte.shtml HTTP/1.1" 200 7544
+54.36.148.120 - - [30/Dec/2019:17:37:56 +0100] "GET /robots.txt HTTP/1.1" 200 120
+54.36.148.23 - - [30/Dec/2019:17:37:57 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 5368
+40.77.167.79 - - [30/Dec/2019:17:43:27 +0100] "GET /segel-grundkurs HTTP/1.1" 200 6192
+31.10.159.106 - - [30/Dec/2019:17:46:04 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 4488
+31.10.159.106 - - [30/Dec/2019:17:46:05 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5264
+31.10.159.106 - - [30/Dec/2019:17:46:05 +0100] "GET /apple-touch-icon.png HTTP/1.1" 404 4488
+31.10.159.106 - - [30/Dec/2019:17:46:05 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 4488
+31.10.159.106 - - [30/Dec/2019:17:46:06 +0100] "GET /apple-touch-icon.png HTTP/1.1" 404 4488
+31.10.159.106 - - [30/Dec/2019:17:46:18 +0100] "GET /vermietung.shtml HTTP/1.1" 200 5299

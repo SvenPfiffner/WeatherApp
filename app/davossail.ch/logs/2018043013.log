@@ -1,0 +1,11 @@
+46.118.114.175 - - [30/Apr/2018:13:28:47 +0200] "GET / HTTP/1.1" 200 34604
+54.36.148.180 - - [30/Apr/2018:13:40:55 +0200] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 5665
+66.249.66.83 - - [30/Apr/2018:13:44:47 +0200] "GET /kursanmeldung HTTP/1.1" 200 10854
+66.249.66.83 - - [30/Apr/2018:13:44:53 +0200] "GET /js/jquery/jquery.form.min.js?v=6.9.42201 HTTP/1.1" 200 5592
+66.249.66.83 - - [30/Apr/2018:13:44:54 +0200] "GET /js/efu/w.formmanager.min.js?v=6.9.42201 HTTP/1.1" 200 2184
+66.249.66.83 - - [30/Apr/2018:13:44:55 +0200] "GET /js/fancybox2/jquery.fancybox.min.css?v=6.9.42201 HTTP/1.1" 200 1020
+66.249.66.82 - - [30/Apr/2018:13:44:55 +0200] "GET /js/efu/main.min.js?v=6.9.42201 HTTP/1.1" 200 1748
+66.249.66.82 - - [30/Apr/2018:13:44:55 +0200] "GET /js/fancybox2/jquery.fancybox.min.js?v=6.9.42201 HTTP/1.1" 200 6267
+66.249.66.83 - - [30/Apr/2018:13:44:56 +0200] "GET /js/jquery/jquery.validate.min.js?v=6.9.42201 HTTP/1.1" 200 6581
+66.249.66.83 - - [30/Apr/2018:13:44:56 +0200] "POST /wforms/captcha/index HTTP/1.1" 200 6805
+35.226.23.240 - - [30/Apr/2018:13:45:57 +0200] "GET /robots.txt HTTP/1.1" 200 80

@@ -1,0 +1,3 @@
+static.88-198-140-4.clients.your-server.de - - [17/Nov/2017:20:03:13 +0100] "GET / HTTP/1.1" 200 6440
+static.88-198-140-4.clients.your-server.de - - [17/Nov/2017:20:03:14 +0100] "GET /robots.txt HTTP/1.1" 200 80
+64.204.63.188.dynamic.wline.res.cust.swisscom.ch - - [17/Nov/2017:20:12:31 +0100] "GET /var/m_0/0d/0dd/12455/126126-43_See.JPG HTTP/1.1" 200 86511

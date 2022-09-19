@@ -1,0 +1,16 @@
+46.127.137.19 - - [05/Nov/2018:17:14:44 +0100] "GET /vermietung.shtml HTTP/1.1" 200 31011
+46.127.137.19 - - [05/Nov/2018:17:14:44 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+46.127.137.19 - - [05/Nov/2018:17:14:47 +0100] "GET /vermietung.shtml HTTP/1.1" 200 30964
+46.127.137.19 - - [05/Nov/2018:17:14:47 +0100] "GET /templates/resellers/7/favicon.ico?v=1538094511 HTTP/1.1" 200 4286
+46.127.137.19 - - [05/Nov/2018:17:14:46 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+46.127.137.19 - - [05/Nov/2018:17:14:47 +0100] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 200 165106
+46.127.137.19 - - [05/Nov/2018:17:14:49 +0100] "GET /apple-touch-icon.png HTTP/1.1" 200 165106
+46.127.137.19 - - [05/Nov/2018:17:14:50 +0100] "GET /templates/resellers/7/favicon.ico?v=1538122034 HTTP/1.1" 200 4286
+216.244.66.248 - - [05/Nov/2018:17:30:17 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [05/Nov/2018:17:30:18 +0100] "GET /robots.txt HTTP/1.1" 200 120
+157.55.39.17 - - [05/Nov/2018:17:32:12 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.17 - - [05/Nov/2018:17:32:13 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.252 - - [05/Nov/2018:17:32:15 +0100] "GET /kurse.shtml HTTP/1.1" 200 32172
+40.77.167.51 - - [05/Nov/2018:17:32:25 +0100] "GET /robots.txt HTTP/1.1" 301 316
+40.77.167.51 - - [05/Nov/2018:17:32:26 +0100] "GET /robots.txt HTTP/1.1" 200 80
+209.17.97.90 - - [05/Nov/2018:17:51:26 +0100] "GET / HTTP/1.1" 301 306

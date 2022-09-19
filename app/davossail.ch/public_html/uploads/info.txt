@@ -1,0 +1,24 @@
+General:
+    -This data may be used by everyone
+    -If you do so, please mention Luca Dalbosco, who keeps this weatherstation up and running
+    -Data is collected in intervals of exactly five minutes
+
+Data:
+    -Water- and Air-temperatures are measured
+    -All measured values are correct to two decimal places at least
+    -Metric units are used
+
+
+weather.jpg:
+    -The file "weather.jpg" is an image, which contains the current readings as well as the date and time, the readings were made
+    -It can easily be embeded into websites
+
+weather.json:
+    -The file "weather.json" is a .json file, which contains the current readings as well as the date and time, the readings were made
+    -The timestamp is given in the unix format
+
+weather_2022.csv:
+    -The .csv file contains the weather data since MWednesday, 31. August 2022 14:59:29 CET
+    -All timestamps are given in the unix format
+
+-Luca Dalbosco; 04.09.2022, Davos

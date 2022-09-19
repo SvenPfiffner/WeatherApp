@@ -1,0 +1,7 @@
+180.76.15.150 - - [06/Jan/2019:01:02:07 +0100] "GET /kinder-segelkurs.shtml HTTP/1.1" 301 336
+216.244.66.248 - - [06/Jan/2019:01:07:51 +0100] "GET /gallery/displayimage.php?album=lastup&cat=-2&pid=67&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:01:07:56 +0100] "GET /gallery/displayimage.php?album=lastup&cat=-4&pid=124&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:01:08:00 +0100] "GET /gallery/displayimage.php?album=lastup&cat=0&pid=133&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [06/Jan/2019:01:16:08 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [06/Jan/2019:01:16:09 +0100] "GET /robots.txt HTTP/1.1" 200 120
+216.244.66.248 - - [06/Jan/2019:01:37:56 +0100] "GET /gallery/displayimage.php?album=toprated&cat=0&pid=76&slideshow=5000 HTTP/1.1" 200 222

@@ -1,0 +1,6 @@
+216.244.66.201 - - [22/Feb/2018:18:26:57 +0100] "GET /robots.txt HTTP/1.1" 200 120
+8.21.198.71 - - [22/Feb/2018:18:43:20 +0100] "GET /robots.txt HTTP/1.1" 200 80
+8.21.198.71 - - [22/Feb/2018:18:43:20 +0100] "GET /standort HTTP/1.1" 200 4734
+178.137.162.218 - - [22/Feb/2018:18:50:20 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19694
+178.137.162.218 - - [22/Feb/2018:18:50:22 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19694
+178.137.162.218 - - [22/Feb/2018:18:50:23 +0100] "GET /segelkurs-jollesmartkat/ HTTP/1.1" 200 19694

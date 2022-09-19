@@ -1,0 +1,8 @@
+msnbot-157-55-39-54.search.msn.com - - [04/Oct/2017:19:27:36 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 10952
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:19:27:37 +0200] "GET /flotte.shtml HTTP/1.1" 200 6274
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:19:27:37 +0200] "GET /davosersee HTTP/1.1" 200 5477
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:19:27:38 +0200] "GET /galerie-gruppesmartkat HTTP/1.1" 200 4863
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:19:27:39 +0200] "GET /%C3%BCber-uns.shtml HTTP/1.1" 200 4740
+msnbot-157-55-39-174.search.msn.com - - [04/Oct/2017:19:27:39 +0200] "GET /davosersee.shtml HTTP/1.1" 200 5477
+crawl.sogou.com - - [04/Oct/2017:19:50:01 +0200] "GET /robots.txt HTTP/1.1" 200 120
+crawl.sogou.com - - [04/Oct/2017:19:50:02 +0200] "GET / HTTP/1.1" 200 6401

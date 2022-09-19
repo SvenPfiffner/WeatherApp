@@ -1,0 +1,7 @@
+msnbot-40-77-167-69.search.msn.com - - [18/Nov/2017:08:27:52 +0100] "GET / HTTP/1.1" 200 6440
+29-148-221-81.pool.dsl-net.ch - - [18/Nov/2017:08:29:35 +0100] "GET / HTTP/1.1" 200 6440
+29-148-221-81.pool.dsl-net.ch - - [18/Nov/2017:08:29:35 +0100] "GET /W3SVC/?cid=f2949bab-240a-46ca-a455-6f504367ba7d&securityScanNoAttack HTTP/1.1" 200 18205
+msnbot-207-46-13-42.search.msn.com - - [18/Nov/2017:08:39:55 +0100] "GET / HTTP/1.1" 200 6440
+baiduspider-180-76-15-156.crawl.baidu.com - - [18/Nov/2017:08:49:28 +0100] "GET / HTTP/1.1" 200 6440
+msnbot-157-55-39-2.search.msn.com - - [18/Nov/2017:08:55:51 +0100] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-207-46-13-27.search.msn.com - - [18/Nov/2017:08:56:02 +0100] "GET /var/m_0/0d/0dd/12455/125485-1_Kinderkurs.JPG HTTP/1.1" 200 64975

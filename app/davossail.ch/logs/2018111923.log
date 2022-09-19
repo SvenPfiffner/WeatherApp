@@ -1,0 +1,6 @@
+40.77.167.81 - - [19/Nov/2018:23:00:07 +0100] "GET /js/bundles/front_bundle.min.js?v=6.9.1.43359 HTTP/1.1" 200 48314
+40.77.167.81 - - [19/Nov/2018:23:00:07 +0100] "GET /templates/creator/m_f/fa/fa7/164/assets/wp-menu.js?v=1519138530 HTTP/1.1" 200 1089
+157.55.39.237 - - [19/Nov/2018:23:32:25 +0100] "GET /event-gruppesmartkat HTTP/1.1" 301 326
+54.36.150.5 - - [19/Nov/2018:23:49:59 +0100] "GET /robots.txt HTTP/1.1" 301 324
+54.36.150.5 - - [19/Nov/2018:23:49:59 +0100] "GET /robots.txt HTTP/1.1" 200 80
+54.36.148.69 - - [19/Nov/2018:23:50:00 +0100] "GET /galerie-gruppesmartkat HTTP/1.1" 301 336

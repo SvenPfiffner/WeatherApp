@@ -1,0 +1,5 @@
+157.55.39.34 - - [31/Jan/2018:21:13:05 +0100] "GET /flotte.shtml HTTP/1.1" 200 6274
+66.249.66.84 - - [31/Jan/2018:21:44:31 +0100] "GET /robots.txt HTTP/1.1" 200 80
+157.55.39.34 - - [31/Jan/2018:21:44:31 +0100] "GET /index.php?option=com_content&task=view&id=73&Itemid=157 HTTP/1.1" 302 -
+66.249.66.83 - - [31/Jan/2018:21:44:32 +0100] "GET /.well-known/assetlinks.json HTTP/1.1" 200 4297
+66.249.66.83 - - [31/Jan/2018:21:45:33 +0100] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 4297

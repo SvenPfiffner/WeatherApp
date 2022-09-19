@@ -1,0 +1,12 @@
+207.46.13.204 - - [03/Jan/2019:06:01:32 +0100] "GET /event-pedalo HTTP/1.1" 200 31182
+157.55.39.64 - - [03/Jan/2019:06:06:06 +0100] "GET / HTTP/1.1" 200 32166
+157.55.39.64 - - [03/Jan/2019:06:06:08 +0100] "GET /segel-grundkurs HTTP/1.1" 301 329
+216.244.66.248 - - [03/Jan/2019:06:33:52 +0100] "GET /robots.txt HTTP/1.1" 301 324
+216.244.66.248 - - [03/Jan/2019:06:33:53 +0100] "GET /robots.txt HTTP/1.1" 200 120
+46.229.168.132 - - [03/Jan/2019:06:42:09 +0100] "GET /robots.txt HTTP/1.1" 301 316
+46.229.168.154 - - [03/Jan/2019:06:42:10 +0100] "GET /robots.txt HTTP/1.1" 200 80
+46.229.168.131 - - [03/Jan/2019:06:42:10 +0100] "GET /flotte.shtml HTTP/1.1" 301 318
+46.229.168.137 - - [03/Jan/2019:06:42:12 +0100] "GET /flotte.shtml HTTP/1.1" 200 32162
+216.244.66.248 - - [03/Jan/2019:06:59:38 +0100] "GET /gallery/displayimage.php?album=topn&cat=-4&pid=122&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [03/Jan/2019:06:59:49 +0100] "GET /gallery/displayimage.php?album=topn&cat=-4&pid=153&slideshow=5000 HTTP/1.1" 200 222
+216.244.66.248 - - [03/Jan/2019:06:59:53 +0100] "GET /gallery/displayimage.php?album=topn&cat=-4&pid=167&slideshow=5000 HTTP/1.1" 200 222

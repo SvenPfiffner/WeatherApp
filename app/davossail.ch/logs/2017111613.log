@@ -1,0 +1,7 @@
+msnbot-157-55-39-171.search.msn.com - - [16/Nov/2017:13:18:27 +0100] "GET /pruefungskurs.shtml HTTP/1.1" 200 5895
+216.244.71.234 - - [16/Nov/2017:13:59:46 +0100] "GET /events.shtml HTTP/1.1" 200 22514
+216.244.71.234 - - [16/Nov/2017:13:59:46 +0100] "GET / HTTP/1.1" 200 35804
+216.244.71.234 - - [16/Nov/2017:13:59:47 +0100] "GET /galerie.shtml HTTP/1.1" 200 22747
+216.244.71.234 - - [16/Nov/2017:13:59:48 +0100] "GET /kurse.shtml HTTP/1.1" 200 31031
+216.244.71.234 - - [16/Nov/2017:13:59:49 +0100] "GET /vermietung.shtml HTTP/1.1" 200 25728
+216.244.71.234 - - [16/Nov/2017:13:59:51 +0100] "GET /event-gruppesmartkat.shtml HTTP/1.1" 200 21256

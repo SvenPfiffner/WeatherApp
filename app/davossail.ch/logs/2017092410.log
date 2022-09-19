@@ -1,0 +1,13 @@
+msnbot-157-55-39-192.search.msn.com - - [24/Sep/2017:10:38:16 +0200] "GET / HTTP/1.1" 200 6440
+msnbot-207-46-13-76.search.msn.com - - [24/Sep/2017:10:38:21 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-52.search.msn.com - - [24/Sep/2017:10:40:18 +0200] "GET /robots.txt HTTP/1.1" 200 80
+msnbot-157-55-39-52.search.msn.com - - [24/Sep/2017:10:40:19 +0200] "GET /robots.txt HTTP/1.1" 200 80
+spider.tiger.ch - - [24/Sep/2017:10:42:06 +0200] "GET /robots.txt HTTP/1.1" 200 120
+spider.tiger.ch - - [24/Sep/2017:10:42:07 +0200] "GET / HTTP/1.1" 200 35804
+spider.tiger.ch - - [24/Sep/2017:10:42:09 +0200] "GET /kursanmeldung.shtml HTTP/1.1" 200 49926
+spider.tiger.ch - - [24/Sep/2017:10:42:10 +0200] "GET /events.shtml HTTP/1.1" 200 22514
+spider.tiger.ch - - [24/Sep/2017:10:42:12 +0200] "GET /kinder-segelkurs.shtml HTTP/1.1" 200 19898
+crawl-66-249-66-84.googlebot.com - - [24/Sep/2017:10:43:34 +0200] "GET /robots.txt HTTP/1.1" 200 80
+crawl-66-249-66-83.googlebot.com - - [24/Sep/2017:10:43:35 +0200] "GET /.well-known/assetlinks.json HTTP/1.1" 200 18069
+crawl-66-249-66-82.googlebot.com - - [24/Sep/2017:10:43:52 +0200] "GET /apple-app-site-association HTTP/1.1" 200 18069
+crawl-66-249-66-84.googlebot.com - - [24/Sep/2017:10:44:10 +0200] "GET /.well-known/apple-app-site-association HTTP/1.1" 200 18069

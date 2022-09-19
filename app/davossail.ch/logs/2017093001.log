@@ -1,0 +1,12 @@
+188.226.131.97 - - [30/Sep/2017:01:10:32 +0200] "GET /robots.txt HTTP/1.0" 200 80
+188.226.131.97 - - [30/Sep/2017:01:10:32 +0200] "GET /kursanmeldung HTTP/1.0" 200 10945
+188.226.131.97 - - [30/Sep/2017:01:11:13 +0200] "GET /event-gruppesmartkat.shtml HTTP/1.0" 200 5645
+188.226.131.97 - - [30/Sep/2017:01:12:38 +0200] "GET /smartkat-crashkurs.shtml HTTP/1.0" 200 4808
+188.226.131.97 - - [30/Sep/2017:01:12:38 +0200] "GET /robots.txt HTTP/1.0" 200 80
+188.226.131.97 - - [30/Sep/2017:01:12:59 +0200] "GET /aktuelles-wetter HTTP/1.0" 200 4575
+188.226.131.97 - - [30/Sep/2017:01:15:08 +0200] "GET /events.shtml HTTP/1.0" 200 5297
+crawl-66-249-66-84.googlebot.com - - [30/Sep/2017:01:23:25 +0200] "GET /events HTTP/1.1" 200 5275
+baiduspider-180-76-15-160.crawl.baidu.com - - [30/Sep/2017:01:24:30 +0200] "GET /event-matchracing.shtml HTTP/1.1" 200 5634
+195.141.126.4 - - [30/Sep/2017:01:59:44 +0200] "GET /robots.txt HTTP/1.1" 200 120
+195.141.126.4 - - [30/Sep/2017:01:59:44 +0200] "GET /event-pedalo.shtml HTTP/1.1" 200 20248
+195.141.126.4 - - [30/Sep/2017:01:59:55 +0200] "GET /event-matchracing.shtml HTTP/1.1" 200 21251

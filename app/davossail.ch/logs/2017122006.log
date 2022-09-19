@@ -1,0 +1,4 @@
+66.249.64.29 - - [20/Dec/2017:06:15:38 +0100] "GET /templates/resellers/7/favicon.ico?v=1498563797 HTTP/1.1" 200 4286
+66.249.64.27 - - [20/Dec/2017:06:19:48 +0100] "GET /css/widgets/concat_widget.min.css?v=6.6.7.1.40667 HTTP/1.1" 200 24507
+66.249.64.27 - - [20/Dec/2017:06:19:48 +0100] "GET /css/skeleton.css HTTP/1.1" 200 3511
+66.249.64.27 - - [20/Dec/2017:06:19:48 +0100] "GET /robots.txt HTTP/1.1" 200 80
