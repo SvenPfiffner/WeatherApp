@@ -5,11 +5,15 @@ export class Dataloader {
     constructor(raw_data) {
         this.raw_data = raw_data;
     }
-
+    getCurrentMeasurementTime() {
+        var data = this.CSVToArray(this.raw_data);
+        data.pop();
+        return (Date(Number(data.pop()[2]) * 1000))
+    }
     getCurrentWaterTemp() {
         var data = this.CSVToArray(this.raw_data);
         data.pop();
-        return Math.round(data.pop()[0], 1);
+        return (Number(data.pop()[0]).toFixed(1));
     }
 
     getWaterValues() {
@@ -40,7 +44,7 @@ export class Dataloader {
     getCurrentAirTemp() {
         var data = this.CSVToArray(this.raw_data);
         data.pop();
-        return Math.round(data.pop()[1], 1);
+        return (Number(data.pop()[1]).toFixed(1));
     }
 
     getAirValues() {

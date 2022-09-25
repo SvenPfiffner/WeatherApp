@@ -64,20 +64,30 @@
                 <div class="col-lg-7 text-center text-lg-left">
                     <h3 class="text-white font-weight-normal mb-3">Segelschule Davosersee</h3>
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Wetterstation</h1>
+                    <h1 class="display-5 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 1px #ffffff;">46°48'58"N 9°51'08"E</h1>
                     <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
                     <div class="typed-text d-none">Wassertemperatur, Lufttemperatur, Rohdaten</div>
                     <div class="d-flex align-items-center justify-content-center mb-4">
-                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
-                        <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
-                        <h4 id="current_water_temp_comb2" class="font-weight-bold m-0 text-white"></h4>
+                        <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                            <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
+                            <h4 id="current_water_temp_comb2" class="font-weight-bold m-0 text-white"></h4>
+                        </div>
+                        <div style="width: 10px;"></div>
+                        <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                            <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
+                            <h4 id="current_air_temp_comb2" class="font-weight-bold m-0 text-white"></h4>
+                        </div>
                     </div>
-                    <div style="width: 10px;"></div>
-                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
-                        <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
-                        <h4 id="current_air_temp_comb2" class="font-weight-bold m-0 text-white"></h4>
+                    <!--
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                            <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
+                            <h4 class="text-white font-weight-bold m-3">46°48'58.2"N 9°51'08.3"E</h4>
+                        </div>
                     </div>
+                    -->
                 </div>
-                </div>
+
                 
                 <script type="module">
                     import {Dataloader} from './js/dataloader.js';
@@ -91,10 +101,13 @@
                     const dataloader = new Dataloader(raw_data);
                     document.getElementById("current_water_temp_comb2").innerHTML = "Aktuell: " + dataloader.getCurrentWaterTemp() + "°C";
                     document.getElementById("current_air_temp_comb2").innerHTML = "Aktuell: " + dataloader.getCurrentAirTemp() + "°C";
+                    var current_timedate = dataloader.getCurrentMeasurementTime()
+                    document.getElementById("current_measurement_time_comb2").innerHTML = "Aktuelle Messung um " + current_timedate.getHours() + ":" + current_timedate.getMinutes();
                 </script>
             </div>
         </div>
     </div>
+    
     <!-- Header End -->
 
 
