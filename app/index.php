@@ -48,6 +48,7 @@
                 <a href="#water" class="nav-item nav-link">Wassertemperatur</a>
                 <a href="#air" class="nav-item nav-link">Lufttemperatur</a>
                 <a href="#combined" class="nav-item nav-link">Alle Daten</a>
+                <a href="#downlad" class="nav-item nav-link">Download</a>
             </div>
         </div>
     </nav>
@@ -223,6 +224,40 @@
         </div>
     </div>
     <!-- combined End -->
+
+
+    <!-- Download Start -->
+    <div class="container-fluid py-5" id="downlad">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Downlad</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Download</h1>
+            </div>
+            <div class="d-flex align-items-center justify-content-center mb-4">
+                <!--
+                <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                    <i class="fa fa-2x fa-water service-icon bg-primary text-white mr-3"></i>
+                    <h4 class="font-weight-bold m-0 text-white">Wassertemeratur</h4>
+                </div>
+                <div style="width: 10px;"></div>
+                <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                    <i class="fa fa-2x fa-sun service-icon bg-primary text-white mr-3"></i>
+                    <h4 class="font-weight-bold m-0 text-white">Lufttemperatur</h4>
+                </div>
+                <div style="width: 10px;"></div>
+                -->
+
+                <a href="https://davossail.ch/uploads/weather_2022.csv" download="weather_davosersee_2022.csv" style="text-decoration: none">
+                    <div class="d-flex align-items-center" style="background-color: #0e324c; border-radius: 25px; padding-top: 10px; padding-right: 10px; padding-bottom: 10px;">
+                        <i class="fa fa-2x fa-download service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0 text-white">Alle Daten</h4>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+    </div>
+    <!-- Downlad End -->
 
     <!-- Footer Start -->
     <div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5">
